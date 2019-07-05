@@ -1,0 +1,11 @@
+
+FeedLiqMFrac	
+Oxygen	0.35215045
+Nitrogen	0.64784955
+	
+FeedTemp	-173.9443272
+	
+FeedVapMFrac	
+Oxygen	0.174462388
+Nitrogen	0.825537612
+

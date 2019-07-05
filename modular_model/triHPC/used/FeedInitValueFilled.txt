@@ -1,0 +1,12 @@
+HPCFeed1LiqMFrac
+Nitrogen	0.79
+Oxygen	0.21
+Argon	0
+
+HPCFeed1Temp	-173
+
+HPCFeed1VapMFrac
+Nitrogen	0.79
+Oxygen	0.21
+Argon	0
+

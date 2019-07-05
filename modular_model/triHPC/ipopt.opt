@@ -1,0 +1,29 @@
+
+linear_solver                                     ma57
+
+file_print_level                                   7
+output_file                                       ipopt_output.txt
+
+ma57_automatic_scaling                            yes
+ma57_pivtol                                       1e-3
+alpha_for_y                                       max
+alpha_for_y_tol                                   9.73429364095845
+barrier_tol_factor                                8.15003717524080
+bound_frac                                        1e-10 #0.01883261776497
+#bound_mult_init_method                            mu-based
+bound_mult_init_val                               1.05963349619431
+bound_push                                        1e-10 #0.00262940520153
+fixed_mu_oracle                                   loqo
+max_soc                                           3
+#mu_init                                           0.02421205435962
+mu_linear_decrease_factor                         0.33760441672535
+mu_max                                            20068.01700984188938
+mu_max_fact                                       621.58816173313403
+mu_min                                            0.00000000001168
+mu_oracle                                         probing
+#mu_strategy                                       adaptive
+mu_superlinear_decrease_power                     1.50304818024808
+nlp_scaling_max_gradient                          191.93957528720486
+obj_scaling_factor                                0.72984418113895
+quality_function_max_section_steps                18
+max_iter                                          400

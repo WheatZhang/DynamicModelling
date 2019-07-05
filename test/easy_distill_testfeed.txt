@@ -1,0 +1,38 @@
+Model unknown
+
+  Variables:
+    FeedVaporPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.8248960225024143 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.17510397749758563 :     1 : False : False :  Reals
+    FeedLiquidPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 0.6504159099903428 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.3495840900096571 :     1 : False : False :  Reals
+    feedEquilibriumConstant : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :  None :  1.268259293526301 :  None : False : False :  Reals
+          Oxygen :  None : 0.5008922960214459 :  None : False : False :  Reals
+
+  Objectives:
+    OBJ : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True :   1.0
+
+  Constraints:
+    feedMaterialBalance : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    feedVaporPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    feedLiquidPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    feedEquilibrium : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    feedVLE : Size=2
+        Key      : Lower : Body                    : Upper
+        Nitrogen :   0.0 : -2.0405899192610377e-13 :   0.0
+          Oxygen :   0.0 :   8.065770273901762e-14 :   0.0

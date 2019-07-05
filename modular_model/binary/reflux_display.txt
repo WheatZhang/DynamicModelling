@@ -1,0 +1,306 @@
+Model unknown
+
+  Variables:
+    FeedTemp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -173.94432718550902 :  None : False : False :  Reals
+    FeedLiqMFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.6478495504563845 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.35215044954361546 :     1 : False : False :  Reals
+    FeedVapMFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.8255376123859038 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.17446238761409613 :     1 : False : False :  Reals
+    ColumnVapLvMFlow : Size=10, Index=ColumnTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 : 1588.5241122048649 :  None : False : False : NonNegativeReals
+          2 :     0 : 1586.3281364149138 :  None : False : False : NonNegativeReals
+          3 :     0 : 1583.3512051754085 :  None : False : False : NonNegativeReals
+          4 :     0 :  1579.387741434399 :  None : False : False : NonNegativeReals
+          5 :     0 : 1574.2777689370203 :  None : False : False : NonNegativeReals
+          6 :     0 : 1567.9937990283527 :  None : False : False : NonNegativeReals
+          7 :     0 : 1560.7386579729707 :  None : False : False : NonNegativeReals
+          8 :     0 : 1552.9890010999857 :  None : False : False : NonNegativeReals
+          9 :     0 : 1545.4143535592254 :  None : False : False : NonNegativeReals
+         10 :     0 :  1538.583171431205 :  None : False : False : NonNegativeReals
+    ColumnLiqLvMFlow : Size=10, Index=ColumnTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 : 1051.3052315334808 :  None : False : False : NonNegativeReals
+          2 :     0 :  639.8293437383456 :  None : False : False : NonNegativeReals
+          3 :     0 :  637.6333679483953 :  None : False : False : NonNegativeReals
+          4 :     0 :  634.6564367088897 :  None : False : False : NonNegativeReals
+          5 :     0 :  630.6929729678795 :  None : False : False : NonNegativeReals
+          6 :     0 :  625.5830004705009 :  None : False : False : NonNegativeReals
+          7 :     0 :  619.2990305618334 :  None : False : False : NonNegativeReals
+          8 :     0 :  612.0438895064511 :  None : False : False : NonNegativeReals
+          9 :     0 :  604.2942326334664 :  None : False : False : NonNegativeReals
+         10 :     0 :  596.7195850927063 :  None : False : False : NonNegativeReals
+    ColumnTrayTemp : Size=10, Index=ColumnTrays
+        Key : Lower : Value               : Upper : Fixed : Stale : Domain
+          1 :  None : -173.43389345083875 :  None : False : False :  Reals
+          2 :  None :   -173.588402854033 :  None : False : False :  Reals
+          3 :  None : -173.78525343650907 :  None : False : False :  Reals
+          4 :  None : -174.03927209283034 :  None : False : False :  Reals
+          5 :  None : -174.36684657973956 :  None : False : False :  Reals
+          6 :  None : -174.78291304278704 :  None : False : False :  Reals
+          7 :  None :  -175.2948992117058 :  None : False : False :  Reals
+          8 :  None : -175.89500512656656 :  None : False : False :  Reals
+          9 :  None : -176.55481181755323 :  None : False : False :  Reals
+         10 :  None : -177.22770712434138 :  None : False : False :  Reals
+    ColumnTrayPressure : Size=10, Index=ColumnTrays
+        Key : Lower : Value             : Upper : Fixed : Stale : Domain
+          1 :  None :             564.0 :  None : False : False :  Reals
+          2 :  None : 561.2844444444445 :  None : False : False :  Reals
+          3 :  None : 558.5688888888889 :  None : False : False :  Reals
+          4 :  None : 555.8533333333334 :  None : False : False :  Reals
+          5 :  None : 553.1377777777777 :  None : False : False :  Reals
+          6 :  None : 550.4222222222222 :  None : False : False :  Reals
+          7 :  None : 547.7066666666666 :  None : False : False :  Reals
+          8 :  None : 544.9911111111111 :  None : False : False :  Reals
+          9 :  None : 542.2755555555555 :  None : False : False :  Reals
+         10 :  None :            539.56 :  None : False : False :  Reals
+    ColumnLiqLvMFrac : Size=20, Index=ColumnLiqLvMFrac_index
+        Key              : Lower : Value               : Upper : Fixed : Stale : Domain
+         (1, 'Nitrogen') :     0 :  0.6263783665599029 :     1 : False : False :  Reals
+           (1, 'Oxygen') :     0 :  0.3736216334400971 :     1 : False : False :  Reals
+         (2, 'Nitrogen') :     0 :  0.6334316318314424 :     1 : False : False :  Reals
+           (2, 'Oxygen') :     0 :  0.3665683681685576 :     1 : False : False :  Reals
+         (3, 'Nitrogen') :     0 :  0.6438983421119813 :     1 : False : False :  Reals
+           (3, 'Oxygen') :     0 :  0.3561016578880187 :     1 : False : False :  Reals
+         (4, 'Nitrogen') :     0 :  0.6590606488917198 :     1 : False : False :  Reals
+           (4, 'Oxygen') :     0 : 0.34093935110828033 :     1 : False : False :  Reals
+         (5, 'Nitrogen') :     0 :  0.6805064170837134 :     1 : False : False :  Reals
+           (5, 'Oxygen') :     0 :  0.3194935829162866 :     1 : False : False :  Reals
+         (6, 'Nitrogen') :     0 :  0.7098894970628709 :     1 : False : False :  Reals
+           (6, 'Oxygen') :     0 : 0.29011050293712914 :     1 : False : False :  Reals
+         (7, 'Nitrogen') :     0 :  0.7485142522679771 :     1 : False : False :  Reals
+           (7, 'Oxygen') :     0 : 0.25148574773202287 :     1 : False : False :  Reals
+         (8, 'Nitrogen') :     0 :  0.7966160235920684 :     1 : False : False :  Reals
+           (8, 'Oxygen') :     0 : 0.20338397640793152 :     1 : False : False :  Reals
+         (9, 'Nitrogen') :     0 :  0.8525698229240306 :     1 : False : False :  Reals
+           (9, 'Oxygen') :     0 : 0.14743017707596942 :     1 : False : False :  Reals
+        (10, 'Nitrogen') :     0 :  0.9125637099884203 :     1 : False : False :  Reals
+          (10, 'Oxygen') :     0 : 0.08743629001157968 :     1 : False : False :  Reals
+    ColumnVapLvMFrac : Size=20, Index=ColumnVapLvMFrac_index
+        Key              : Lower : Value                : Upper : Fixed : Stale : Domain
+         (1, 'Nitrogen') :     0 :   0.8352238920518764 :     1 : False : False :  Reals
+           (1, 'Oxygen') :     0 :  0.16477610794812347 :     1 : False : False :  Reals
+         (2, 'Nitrogen') :     0 :   0.8397103879301178 :     1 : False : False :  Reals
+           (2, 'Oxygen') :     0 :  0.16028961206988232 :     1 : False : False :  Reals
+         (3, 'Nitrogen') :     0 :   0.8461560675468852 :     1 : False : False :  Reals
+           (3, 'Oxygen') :     0 :  0.15384393245311484 :     1 : False : False :  Reals
+         (4, 'Nitrogen') :     0 :   0.8551894675361619 :     1 : False : False :  Reals
+           (4, 'Oxygen') :     0 :  0.14481053246383807 :     1 : False : False :  Reals
+         (5, 'Nitrogen') :     0 :   0.8674326569531162 :     1 : False : False :  Reals
+           (5, 'Oxygen') :     0 :  0.13256734304688372 :     1 : False : False :  Reals
+         (6, 'Nitrogen') :     0 :   0.8833193715215754 :     1 : False : False :  Reals
+           (6, 'Oxygen') :     0 :  0.11668062847842471 :     1 : False : False :  Reals
+         (7, 'Nitrogen') :     0 :    0.902809133765323 :     1 : False : False :  Reals
+           (7, 'Oxygen') :     0 :  0.09719086623467689 :     1 : False : False :  Reals
+         (8, 'Nitrogen') :     0 :   0.9251116216591977 :     1 : False : False :  Reals
+           (8, 'Oxygen') :     0 :  0.07488837834080234 :     1 : False : False :  Reals
+         (9, 'Nitrogen') :     0 :   0.9486321783764547 :     1 : False : False :  Reals
+           (9, 'Oxygen') :     0 : 0.051367821623545244 :     1 : False : False :  Reals
+        (10, 'Nitrogen') :     0 :   0.9713188866906863 :     1 : False : False :  Reals
+          (10, 'Oxygen') :     0 : 0.028681113309313742 :     1 : False : False :  Reals
+    SumpOutMFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1051.3052315334808 :  None : False : False : NonNegativeReals
+    SumpHldpMFrac : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 0.6263783665599029 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.3736216334400971 :     1 : False : False :  Reals
+    CondensorRefMFlow : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 589.8884029646855 :  None : False : False : NonNegativeReals
+    CondensorPrdtMFlow : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 44.40020237368598 :  None : False : False : NonNegativeReals
+    CondensorMHeatOut : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 4020437.605649633 :  None : False : False : NonNegativeReals
+    CondensorTemp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -177.88047424739807 :  None : False : False :  Reals
+    ReboilerLiqLvMFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 368.90919692647293 :  None : False : False : NonNegativeReals
+    ReboilerVapLvMFlow : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :     0 : 682.396034607008 :  None : False : False : NonNegativeReals
+    ReboilerTemp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -171.85280915940956 :  None : False : False :  Reals
+    ReboilerLiqLvMFrac : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 0.4809781597436441 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.5190218402563558 :     1 : False : False :  Reals
+    ReboilerVapLvMFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.7049829756274513 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.29501702437254873 :     1 : False : False :  Reals
+    GNSplitterOutAMFlow : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 904.2945660928335 :  None : False : False : NonNegativeReals
+    GNSplitterOutBMFlow : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 634.2886053383714 :  None : False : False : NonNegativeReals
+
+  Objectives:
+    None
+
+  Constraints:
+    FeedMassBlnc : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    FeedSelfVapFrac : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.1934897514720433e-15 :   0.0
+    FeedSelfLiqFrac : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 2.831068712794149e-15 :   0.0
+    FeedLiqSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    FeedVapSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    ColumnMassBlnc : Size=20
+        Key              : Lower : Body                    : Upper
+         (1, 'Nitrogen') :   0.0 :                     0.0 :   0.0
+           (1, 'Oxygen') :   0.0 :  1.1368683772161603e-16 :   0.0
+         (2, 'Nitrogen') :   0.0 :   4.547473508864641e-16 :   0.0
+           (2, 'Oxygen') :   0.0 :                     0.0 :   0.0
+         (3, 'Nitrogen') :   0.0 : -2.2737367544323206e-16 :   0.0
+           (3, 'Oxygen') :   0.0 :   2.842170943040401e-17 :   0.0
+         (4, 'Nitrogen') :   0.0 :  -4.547473508864641e-16 :   0.0
+           (4, 'Oxygen') :   0.0 : -1.7053025658242405e-16 :   0.0
+         (5, 'Nitrogen') :   0.0 :  2.2737367544323206e-16 :   0.0
+           (5, 'Oxygen') :   0.0 :  -2.842170943040401e-17 :   0.0
+         (6, 'Nitrogen') :   0.0 : -2.2737367544323206e-16 :   0.0
+           (6, 'Oxygen') :   0.0 :  -2.842170943040401e-17 :   0.0
+         (7, 'Nitrogen') :   0.0 : -2.2737367544323206e-16 :   0.0
+           (7, 'Oxygen') :   0.0 :  -2.842170943040401e-17 :   0.0
+         (8, 'Nitrogen') :   0.0 :  2.2737367544323206e-16 :   0.0
+           (8, 'Oxygen') :   0.0 :                     0.0 :   0.0
+         (9, 'Nitrogen') :   0.0 :                     0.0 :   0.0
+           (9, 'Oxygen') :   0.0 :  1.4210854715202004e-17 :   0.0
+        (10, 'Nitrogen') :   0.0 :  -6.821210263296962e-16 :   0.0
+          (10, 'Oxygen') :   0.0 :  -7.105427357601002e-18 :   0.0
+    ColumnEngBlnc : Size=10
+        Key : Lower : Body                    : Upper
+          1 :   0.0 : -3.7252902984619144e-14 :   0.0
+          2 :   0.0 : -3.7252902984619144e-14 :   0.0
+          3 :   0.0 :  3.7252902984619144e-14 :   0.0
+          4 :   0.0 :  1.8626451492309572e-14 :   0.0
+          5 :   0.0 : -1.8626451492309572e-14 :   0.0
+          6 :   0.0 :  3.7252902984619144e-14 :   0.0
+          7 :   0.0 :                     0.0 :   0.0
+          8 :   0.0 :                     0.0 :   0.0
+          9 :   0.0 :  1.8626451492309572e-14 :   0.0
+         10 :   0.0 :                     0.0 :   0.0
+    ColumnAllTraysVapFrac : Size=10
+        Key : Lower : Body                    : Upper
+          1 :   0.0 : -1.3877787807814457e-16 :   0.0
+          2 :   0.0 :  -5.551115123125783e-16 :   0.0
+          3 :   0.0 :  2.4980018054066022e-15 :   0.0
+          4 :   0.0 :  1.6653345369377348e-16 :   0.0
+          5 :   0.0 :  -4.440892098500626e-16 :   0.0
+          6 :   0.0 :  1.5265566588595902e-16 :   0.0
+          7 :   0.0 : -1.3877787807814457e-16 :   0.0
+          8 :   0.0 :                     0.0 :   0.0
+          9 :   0.0 : -2.3592239273284576e-16 :   0.0
+         10 :   0.0 :  -8.257283745649602e-16 :   0.0
+    ColumnAllTraysLiqFrac : Size=10
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :  -4.218847493575595e-15 :   0.0
+          2 :   0.0 :  -6.494804694057166e-15 :   0.0
+          3 :   0.0 :  -8.326672684688674e-16 :   0.0
+          4 :   0.0 :  -4.052314039881821e-15 :   0.0
+          5 :   0.0 :   -1.27675647831893e-15 :   0.0
+          6 :   0.0 :  -5.440092820663267e-15 :   0.0
+          7 :   0.0 : -2.7200464103316335e-15 :   0.0
+          8 :   0.0 :  -2.525757381022231e-15 :   0.0
+          9 :   0.0 :  -2.914335439641036e-15 :   0.0
+         10 :   0.0 :   5.551115123125783e-17 :   0.0
+    ColumnLiqSum : Size=10
+        Key : Lower : Body               : Upper
+          1 :   1.0 :                1.0 :   1.0
+          2 :   1.0 :                1.0 :   1.0
+          3 :   1.0 :                1.0 :   1.0
+          4 :   1.0 :                1.0 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+          6 :   1.0 :                1.0 :   1.0
+          7 :   1.0 :                1.0 :   1.0
+          8 :   1.0 : 0.9999999999999999 :   1.0
+          9 :   1.0 :                1.0 :   1.0
+         10 :   1.0 :                1.0 :   1.0
+    ColumnVapSum : Size=10
+        Key : Lower : Body               : Upper
+          1 :   1.0 : 0.9999999999999999 :   1.0
+          2 :   1.0 :                1.0 :   1.0
+          3 :   1.0 :                1.0 :   1.0
+          4 :   1.0 :                1.0 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+          6 :   1.0 :                1.0 :   1.0
+          7 :   1.0 : 0.9999999999999999 :   1.0
+          8 :   1.0 :                1.0 :   1.0
+          9 :   1.0 :                1.0 :   1.0
+         10 :   1.0 :                1.0 :   1.0
+    ColumnPProf : Size=10
+        Key : Lower : Body : Upper
+          1 :   0.0 :  0.0 :   0.0
+          2 :   0.0 :  0.0 :   0.0
+          3 :   0.0 :  0.0 :   0.0
+          4 :   0.0 :  0.0 :   0.0
+          5 :   0.0 :  0.0 :   0.0
+          6 :   0.0 :  0.0 :   0.0
+          7 :   0.0 :  0.0 :   0.0
+          8 :   0.0 :  0.0 :   0.0
+          9 :   0.0 :  0.0 :   0.0
+         10 :   0.0 :  0.0 :   0.0
+    SumpMassBlnc : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    SumpHldpMFracSpec : Size=2
+        Key      : Lower : Body : Upper
+        Nitrogen :   0.0 :  0.0 :   0.0
+          Oxygen :   0.0 :  0.0 :   0.0
+    CondensorMassBlnc : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    CondensorRefSpec : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    CondensorEngBlnc : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    CondensorSelfBubTemp : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 2.2412627309620348e-15 :   0.0
+    ReboilerMassBlnc : Size=2
+        Key      : Lower : Body                    : Upper
+        Nitrogen :   0.0 : -1.7053025658242405e-16 :   0.0
+          Oxygen :   0.0 : -1.1368683772161603e-16 :   0.0
+    ReboilerEngBlnc : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 1.396983861923218e-14 :   0.0
+    ReboilerHdlpVapFrac : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 7.771561172376096e-16 :   0.0
+    ReboilerHdlpLiqFrac : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 5.662137425588298e-15 :   0.0
+    ReboilerLiqSum : Size=1
+        Key  : Lower : Body               : Upper
+        None :   1.0 : 0.9999999999999999 :   1.0
+    ReboilerVapSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    GNSplitterOutASpec : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    GNSplitterOutBSpec : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.1368683772161603e-16 :   0.0

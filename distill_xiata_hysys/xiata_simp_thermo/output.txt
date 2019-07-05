@@ -1,0 +1,6 @@
+Exception of type: OPTION_INVALID in file "..\..\..\src\Algorithm\IpAlgBuilder.cpp" at line 305:
+ Exception message: Selected linear solver MA57 not available.
+Tried to obtain MA57 from shared library "libhsl.dll", but the following error occured:
+Windows error while loading dynamic library libhsl.dll
+
+EXIT: Invalid option encountered.

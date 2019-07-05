@@ -1,0 +1,42 @@
+Model unknown
+
+  Variables:
+    feedEnthalpy : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :  None : -7059.288118554985 :  None : False : False :  Reals
+    FeedTemperature : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -173.94432718550314 :  None : False : False :  Reals
+    FeedVaporPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.8255376123865577 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.17446238761344232 :     1 : False : False :  Reals
+    FeedLiquidPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.6478495504537696 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.35215044954623054 :     1 : False : False :  Reals
+
+  Objectives:
+    OBJ : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True :   1.0
+
+  Constraints:
+    DfeedEnthalpy : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -8.394636097364128e-10 :   0.0
+    feedMaterialBalance : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    FeedVaporComposition : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : -9.76080327674822e-13 :   0.0
+    FeedLiquidComposition : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 2.1107560144173476e-12 :   0.0
+    feedVaporPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    feedLiquidPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0

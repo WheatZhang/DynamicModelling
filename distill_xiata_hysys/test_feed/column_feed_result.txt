@@ -1,0 +1,12 @@
+FeedLiquidPhaseMolarFrac
+Oxygen	0.34880915421452136
+Nitrogen	0.6511908457854787
+
+FeedVaporPhaseMolarFrac
+Oxygen	0.17529771144636974
+Nitrogen	0.8247022885536303
+
+feedEquilibriumConstant
+Oxygen	0.502560524364477
+Nitrogen	1.266452521398482
+

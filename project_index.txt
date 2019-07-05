@@ -1,0 +1,3 @@
+easy_distill	动态精馏塔例程，化工原理版，无热力学
+distill_cao_static0	稳态精馏塔仿真，Cao版，只有一个下塔和IRC，去除各种复杂化方程和附加方程。
+distill_xiata_hysys	与一个hysys对应的下塔流程的稳态仿真。塔底出料经过膨胀阀制冷用于冷却塔顶出料来提供回流。采用hysys运行结果作为部分变量的初值，验证方程是否正确。

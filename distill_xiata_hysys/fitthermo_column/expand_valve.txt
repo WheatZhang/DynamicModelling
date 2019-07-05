@@ -1,0 +1,48 @@
+Model unknown
+
+  Variables:
+    ircRebTemperature : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  -230 : -188.86308551146487 :  -100 : False : False :  Reals
+    ircRebPressure : Size=1, Index=None
+        Key  : Lower : Value : Upper : Fixed : Stale : Domain
+        None :     0 : 164.0 :  1000 : False : False :  Reals
+    EVOutVPMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.8814180866033504 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.11858191339664961 :     1 : False : False :  Reals
+    EVOutLPMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.6778690722506538 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.32213092774934615 :     1 : False : False :  Reals
+    EVOutVaporFraction : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :     0 : 0.11348851842139733 :   0.3 : False : False :  Reals
+
+  Objectives:
+    OBJ : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True :   1.0
+
+  Constraints:
+    ExpandValvePressure : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    ExpandValveEnthalpy : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -2.055458026006818e-14 :   0.0
+    EVOutMaterialBalance : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 4.035660694512444e-14 :   0.0
+    EVOutVaporComposition : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -1.346839306748393e-13 :   0.0
+    EVOutLiquidComposition : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 3.0925262350933735e-13 :   0.0
+    EVOutVaporPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    EVOutLiquidPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0

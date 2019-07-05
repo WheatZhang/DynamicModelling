@@ -1,0 +1,4 @@
+运行后显示：
+Total number of variables............................:     2016
+Total number of equality constraints.................:     2006
+造成两者不等的原因是，DtrayHoldupAmountDt变量是微分变量，在0时刻没有对应方程，但是有值

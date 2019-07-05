@@ -1,0 +1,42 @@
+Model unknown
+
+  Variables:
+    HPCFeed1Temp : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :  None : -175.4950804918431 :  None : False : False :  Reals
+    HPCFeed1LiqMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.009667220953880524 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.7699466814328046 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.2203860976133148 :     1 : False : False :  Reals
+    HPCFeed1VapMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.005300741121770835 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.9037554634446386 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.09094379543359048 :     1 : False : False :  Reals
+
+  Objectives:
+    None
+
+  Constraints:
+    HPCFeed1MassBlnc0 : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.1102230246251565e-16 :   0.0
+    HPCFeed1MassBlnc1 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCFeed1SelfLiqO2Frac : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -8.409939411535561e-15 :   0.0
+    HPCFeed1SelfVapO2Frac : Size=1
+        Key  : Lower : Body                 : Upper
+        None :   0.0 : 5.10702591327572e-15 :   0.0
+    HPCFeed1SelfVapN2Frac : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 3.3306690738754696e-16 :   0.0
+    HPCFeed1LiqSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    HPCFeed1VapSum : Size=1
+        Key  : Lower : Body               : Upper
+        None :   1.0 : 0.9999999999999999 :   1.0

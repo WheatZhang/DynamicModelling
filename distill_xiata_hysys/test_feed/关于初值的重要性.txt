@@ -1,0 +1,15 @@
+model.FeedVaporPhaseMolarFrac = Var(model.Component, bounds=(0,1), initialize={'Oxigen':0.18,'Nitrogen':0.82})
+model.FeedLiquidPhaseMolarFrac = Var(model.Component, bounds=(0,1), initialize={'Oxigen':0.35,'Nitrogen':0.65})
+上面一组初值参考hysys结果，可以求解正常。
+如果将这两组初值换成：
+model.FeedVaporPhaseMolarFrac = Var(model.Component, bounds=(0,1), initialize={'Oxigen':0.21,'Nitrogen':0.79})
+model.FeedLiquidPhaseMolarFrac = Var(model.Component, bounds=(0,1), initialize={'Oxigen':0.21,'Nitrogen':0.79})
+将会求解失败，报错：
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0 1.0000000e+000 2.64e-001 0.00e+000  -1.0 0.00e+000    -  0.00e+000 0.00e+000   0
+WARNING: Problem in step computation; switching to emergency mode.
+   1r1.0000000e+000 2.64e-001 9.99e+002  -0.6 0.00e+000  20.0 0.00e+000 0.00e+000R  1
+WARNING: Problem in step computation; switching to emergency mode.
+Restoration phase is called at point that is almost feasible,
+  with constraint violation 0.000000e+000. Abort.
+Restoration phase in the restoration phase failed.

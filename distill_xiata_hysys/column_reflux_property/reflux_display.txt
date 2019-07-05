@@ -1,0 +1,168 @@
+Model unknown
+
+  Variables:
+    EquilibriumConstant : Size=10, Index=EquilibriumConstant_index
+        Key             : Lower : Value               : Upper : Fixed : Stale : Domain
+        (1, 'Nitrogen') :  None :  1.6145380964021165 :  None : False : False :  Reals
+          (1, 'Oxygen') :  None :   0.639651577924022 :  None : False : False :  Reals
+        (2, 'Nitrogen') :  None :  1.5628847538894457 :  None : False : False :  Reals
+          (2, 'Oxygen') :  None :   0.621731346484775 :  None : False : False :  Reals
+        (3, 'Nitrogen') :  None :  1.4748987431429317 :  None : False : False :  Reals
+          (3, 'Oxygen') :  None :  0.5891303209829678 :  None : False : False :  Reals
+        (4, 'Nitrogen') :  None :  1.3507332228175346 :  None : False : False :  Reals
+          (4, 'Oxygen') :  None :  0.5417325115847248 :  None : False : False :  Reals
+        (5, 'Nitrogen') :  None :  1.2125304851012586 :  None : False : False :  Reals
+          (5, 'Oxygen') :  None : 0.48827780054346615 :  None : False : False :  Reals
+    feedEquilibriumConstant : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :  None :  1.266452521397836 :  None : False : False :  Reals
+          Oxygen :  None : 0.5025605243642206 :  None : False : False :  Reals
+    FeedVaporPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.8247022885540554 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.17529771144594464 :     1 : False : False :  Reals
+    FeedLiquidPhaseMolarFrac : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :  0.6511908457837783 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.34880915421622166 :     1 : False : False :  Reals
+    trayTemperature : Size=5, Index=AllTrays
+        Key : Lower : Value               : Upper : Fixed : Stale : Domain
+          1 :  -230 : -173.75200000000004 :  -100 : False : False :  Reals
+          2 :  -230 : -174.19192000000004 :  -100 : False : False :  Reals
+          3 :  -230 : -174.63184000000004 :  -100 : False : False :  Reals
+          4 :  -230 : -175.07176000000004 :  -100 : False : False :  Reals
+          5 :  -230 : -175.51168000000004 :  -100 : False : False :  Reals
+    trayPressure : Size=5, Index=AllTrays
+        Key : Lower : Value  : Upper : Fixed : Stale : Domain
+          1 :     0 :  564.0 :  1000 : False : False :  Reals
+          2 :     0 : 557.89 :  1000 : False : False :  Reals
+          3 :     0 : 551.78 :  1000 : False : False :  Reals
+          4 :     0 : 545.67 :  1000 : False : False :  Reals
+          5 :     0 : 539.56 :  1000 : False : False :  Reals
+    vaporLeavingMolarFlow : Size=5, Index=AllTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 : 4028.4896321788306 :  None : False : False : NonNegativeReals
+          2 :     0 :  4127.239654970038 :  None : False : False : NonNegativeReals
+          3 :     0 :  4257.262327781657 :  None : False : False : NonNegativeReals
+          4 :     0 :  4424.134409744302 :  None : False : False : NonNegativeReals
+          5 :     0 :  4315.151302996267 :  None : False : False : NonNegativeReals
+    liquidLeavingMolarFlow : Size=5, Index=AllTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 :  273.9394788014923 :  None : False : False : NonNegativeReals
+          2 :     0 :  2302.429110980323 :  None : False : False : NonNegativeReals
+          3 :     0 :   2401.17913377153 :  None : False : False : NonNegativeReals
+          4 :     0 : 2531.2018065831494 :  None : False : False : NonNegativeReals
+          5 :     0 : 2698.0738885457945 :  None : False : False : NonNegativeReals
+    vaporLeavingMolarFraction : Size=10, Index=vaporLeavingMolarFraction_index
+        Key             : Lower : Value               : Upper : Fixed : Stale : Domain
+        (1, 'Nitrogen') :     0 :  0.5967835685411919 :     1 : False : False :  Reals
+          (1, 'Oxygen') :     0 :  0.4032164314588081 :     1 : False : False :  Reals
+        (2, 'Nitrogen') :     0 :  0.6281550986289298 :     1 : False : False :  Reals
+          (2, 'Oxygen') :     0 :  0.3718449013710701 :     1 : False : False :  Reals
+        (3, 'Nitrogen') :     0 :   0.684141766648261 :     1 : False : False :  Reals
+          (3, 'Oxygen') :     0 :  0.3158582333517389 :     1 : False : False :  Reals
+        (4, 'Nitrogen') :     0 :  0.7651379200846342 :     1 : False : False :  Reals
+          (4, 'Oxygen') :     0 : 0.23486207991536576 :     1 : False : False :  Reals
+        (5, 'Nitrogen') :     0 :    0.85671586722935 :     1 : False : False :  Reals
+          (5, 'Oxygen') :     0 :    0.14328413277065 :     1 : False : False :  Reals
+    liquidLeavingMolarFraction : Size=10, Index=liquidLeavingMolarFraction_index
+        Key             : Lower : Value               : Upper : Fixed : Stale : Domain
+        (1, 'Nitrogen') :     0 :  0.3696311468392571 :     1 : False : False :  Reals
+          (1, 'Oxygen') :     0 :  0.6303688531607429 :     1 : False : False :  Reals
+        (2, 'Nitrogen') :     0 :  0.4019202928052903 :     1 : False : False :  Reals
+          (2, 'Oxygen') :     0 :  0.5980797071947097 :     1 : False : False :  Reals
+        (3, 'Nitrogen') :     0 : 0.46385676968859274 :     1 : False : False :  Reals
+          (3, 'Oxygen') :     0 :  0.5361432303114073 :     1 : False : False :  Reals
+        (4, 'Nitrogen') :     0 :  0.5664611687420268 :     1 : False : False :  Reals
+          (4, 'Oxygen') :     0 :  0.4335388312579731 :     1 : False : False :  Reals
+        (5, 'Nitrogen') :     0 :  0.7065520229972815 :     1 : False : False :  Reals
+          (5, 'Oxygen') :     0 : 0.29344797700271846 :     1 : False : False :  Reals
+
+  Objectives:
+    OBJ : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True :   1.0
+
+  Constraints:
+    feedMaterialBalance : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    feedEquilibrium : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    feedVLE : Size=2
+        Key      : Lower : Body : Upper
+        Nitrogen :   0.0 :  0.0 :   0.0
+          Oxygen :   0.0 :  0.0 :   0.0
+    feedVaporPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    feedLiquidPhaseSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    columnMaterialBalances : Size=10
+        Key             : Lower : Body                    : Upper
+        (1, 'Nitrogen') :   0.0 :  2.1181585907470435e-10 :   0.0
+          (1, 'Oxygen') :   0.0 : -2.1181540432735348e-10 :   0.0
+        (2, 'Nitrogen') :   0.0 :  -2.377873897785321e-11 :   0.0
+          (2, 'Oxygen') :   0.0 :   2.377873897785321e-11 :   0.0
+        (3, 'Nitrogen') :   0.0 :  -2.365914042457007e-10 :   0.0
+          (3, 'Oxygen') :   0.0 :   2.365914042457007e-10 :   0.0
+        (4, 'Nitrogen') :   0.0 :   3.616787580540404e-11 :   0.0
+          (4, 'Oxygen') :   0.0 :  -3.616696631070226e-11 :   0.0
+        (5, 'Nitrogen') :   0.0 : -1.0480562195880339e-11 :   0.0
+          (5, 'Oxygen') :   0.0 :  1.0479993761691731e-11 :   0.0
+    columnEnergyBalances : Size=5
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :   1.253776252269745e-08 :   0.0
+          2 :   0.0 :  1.0950863361358643e-09 :   0.0
+          3 :   0.0 : -1.5750452876091005e-08 :   0.0
+          4 :   0.0 :   1.983046531677246e-09 :   0.0
+          5 :   0.0 :  -7.714517414569855e-10 :   0.0
+    columnLiquidMoleFracNorm : Size=5
+        Key : Lower : Body               : Upper
+          1 :   1.0 :                1.0 :   1.0
+          2 :   1.0 :                1.0 :   1.0
+          3 :   1.0 :                1.0 :   1.0
+          4 :   1.0 : 0.9999999999999999 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+    columnVaporMoleFracNorm : Size=5
+        Key : Lower : Body               : Upper
+          1 :   1.0 :                1.0 :   1.0
+          2 :   1.0 :                1.0 :   1.0
+          3 :   1.0 : 0.9999999999999999 :   1.0
+          4 :   1.0 :                1.0 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+    ColumnEquilConstant : Size=5
+        Key : Lower : Body                    : Upper
+          1 :   0.0 : -1.1102230246251565e-16 :   0.0
+          2 :   0.0 :                     0.0 :   0.0
+          3 :   0.0 : -1.1102230246251565e-16 :   0.0
+          4 :   0.0 :                     0.0 :   0.0
+          5 :   0.0 :                     0.0 :   0.0
+    columnVLE : Size=10
+        Key             : Lower : Body                    : Upper
+        (1, 'Nitrogen') :   0.0 :  3.5240654838730734e-10 :   0.0
+          (1, 'Oxygen') :   0.0 : -1.3961726219591242e-10 :   0.0
+        (2, 'Nitrogen') :   0.0 :   7.247596967019376e-10 :   0.0
+          (2, 'Oxygen') :   0.0 : -2.8831670384477093e-10 :   0.0
+        (3, 'Nitrogen') :   0.0 :   3.621525301866768e-11 :   0.0
+          (3, 'Oxygen') :   0.0 : -1.4465706410504708e-11 :   0.0
+        (4, 'Nitrogen') :   0.0 :  2.8729130185922713e-11 :   0.0
+          (4, 'Oxygen') :   0.0 : -1.1522199860891646e-11 :   0.0
+        (5, 'Nitrogen') :   0.0 :    3.51806361820195e-11 :   0.0
+          (5, 'Oxygen') :   0.0 :  -1.416700090572931e-11 :   0.0
+    columnPressureProfile : Size=5
+        Key : Lower  : Body   : Upper
+          1 :  564.0 :  564.0 :  564.0
+          2 : 557.89 : 557.89 : 557.89
+          3 : 551.78 : 551.78 : 551.78
+          4 : 545.67 : 545.67 : 545.67
+          5 : 539.56 : 539.56 : 539.56
+    ColumnTempCorrelation : Size=5
+        Key : Lower : Body                   : Upper
+          1 :   0.0 : -2.842170943040401e-16 :   0.0
+          2 :   0.0 : -2.842170943040401e-16 :   0.0
+          3 :   0.0 : -2.842170943040401e-16 :   0.0
+          4 :   0.0 : -2.842170943040401e-16 :   0.0
+          5 :   0.0 : -2.842170943040401e-16 :   0.0

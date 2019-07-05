@@ -1,0 +1,2016 @@
+               0 :  None : -173.94432718550902 :  None : False : False :  Reals
+        0.310102 :  None : -173.94432718550902 :  None : False : False :  Reals
+        1.289898 :  None : -173.94432718550902 :  None : False : False :  Reals
+               2 :  None : -173.94432718550902 :  None : False : False :  Reals
+        2.310102 :  None : -173.94432718550902 :  None : False : False :  Reals
+        3.289898 :  None : -173.94432718550902 :  None : False : False :  Reals
+               4 :  None : -173.94432718550902 :  None : False : False :  Reals
+        4.310102 :  None : -173.94432718550902 :  None : False : False :  Reals
+        5.289898 :  None : -173.94432718550902 :  None : False : False :  Reals
+               6 :  None : -173.94432718550902 :  None : False : False :  Reals
+        6.310102 :  None : -173.94432718550902 :  None : False : False :  Reals
+        7.289898 :  None : -173.94432718550902 :  None : False : False :  Reals
+               8 :  None : -173.94432718550902 :  None : False : False :  Reals
+        8.310102 :  None : -173.94432718550902 :  None : False : False :  Reals
+        9.289898 :  None : -173.94432718550902 :  None : False : False :  Reals
+              10 :  None : -173.94432718550902 :  None : False : False :  Reals
+               (0, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 : 0.8255376123859045 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 : 0.1744623876140955 :     1 : False : False :  Reals
+               (0, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 :  0.647849550456382 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 : 0.3521504495436179 :     1 : False : False :  Reals
+                (0, 1) :  -230 : -174.16178276879157 :  -100 : False : False :  Reals
+                (0, 2) :  -230 : -173.57596389573288 :  -100 : False : False :  Reals
+                (0, 3) :  -230 : -173.50803067395654 :  -100 : False : False :  Reals
+                (0, 4) :  -230 :  -173.6312046779847 :  -100 : False : False :  Reals
+                (0, 5) :  -230 : -173.86478683294655 :  -100 : False : False :  Reals
+                (0, 6) :  -230 : -174.18275221744307 :  -100 : False : False :  Reals
+                (0, 7) :  -230 :  -174.5819916020626 :  -100 : False : False :  Reals
+                (0, 8) :  -230 :  -175.0719564355822 :  -100 : False : False :  Reals
+                (0, 9) :  -230 : -175.66909711797663 :  -100 : False : False :  Reals
+               (0, 10) :  -230 : -176.39534501325502 :  -100 : False : False :  Reals
+         (0.310102, 1) :  -230 :  -173.8814137438834 :  -100 : False : False :  Reals
+         (0.310102, 2) :  -230 : -173.79219763429015 :  -100 : False : False :  Reals
+         (0.310102, 3) :  -230 : -173.87363312560774 :  -100 : False : False :  Reals
+         (0.310102, 4) :  -230 : -174.03087244944888 :  -100 : False : False :  Reals
+         (0.310102, 5) :  -230 : -174.23776001372906 :  -100 : False : False :  Reals
+         (0.310102, 6) :  -230 : -174.49411335854248 :  -100 : False : False :  Reals
+         (0.310102, 7) :  -230 : -174.81895070065445 :  -100 : False : False :  Reals
+         (0.310102, 8) :  -230 :  -175.2498573110493 :  -100 : False : False :  Reals
+         (0.310102, 9) :  -230 :  -175.8394432513756 :  -100 : False : False :  Reals
+        (0.310102, 10) :  -230 :  -176.6365320541582 :  -100 : False : False :  Reals
+         (1.289898, 1) :  -230 :  -173.9617154828615 :  -100 : False : False :  Reals
+         (1.289898, 2) :  -230 : -174.10205177569708 :  -100 : False : False :  Reals
+         (1.289898, 3) :  -230 :  -174.2354544472562 :  -100 : False : False :  Reals
+         (1.289898, 4) :  -230 : -174.38875245257805 :  -100 : False : False :  Reals
+         (1.289898, 5) :  -230 : -174.58487287891506 :  -100 : False : False :  Reals
+         (1.289898, 6) :  -230 : -174.84906055028856 :  -100 : False : False :  Reals
+         (1.289898, 7) :  -230 : -175.20710278317992 :  -100 : False : False :  Reals
+         (1.289898, 8) :  -230 :  -175.6800556789776 :  -100 : False : False :  Reals
+         (1.289898, 9) :  -230 :  -176.2769570694576 :  -100 : False : False :  Reals
+        (1.289898, 10) :  -230 : -176.98940375990463 :  -100 : False : False :  Reals
+                (2, 1) :  -230 : -173.96997082396544 :  -100 : False : False :  Reals
+                (2, 2) :  -230 : -174.01603536201287 :  -100 : False : False :  Reals
+                (2, 3) :  -230 : -174.11248345721648 :  -100 : False : False :  Reals
+                (2, 4) :  -230 : -174.26044370822657 :  -100 : False : False :  Reals
+                (2, 5) :  -230 :  -174.4700454971988 :  -100 : False : False :  Reals
+                (2, 6) :  -230 :  -174.7529322100864 :  -100 : False : False :  Reals
+                (2, 7) :  -230 : -175.12134423142584 :  -100 : False : False :  Reals
+                (2, 8) :  -230 :   -175.589237985695 :  -100 : False : False :  Reals
+                (2, 9) :  -230 :  -176.1742763830219 :  -100 : False : False :  Reals
+               (2, 10) :  -230 : -176.89598292515026 :  -100 : False : False :  Reals
+         (2.310102, 1) :  -230 : -173.95143639360793 :  -100 : False : False :  Reals
+         (2.310102, 2) :  -230 :  -174.0280830035152 :  -100 : False : False :  Reals
+         (2.310102, 3) :  -230 : -174.14107641964569 :  -100 : False : False :  Reals
+         (2.310102, 4) :  -230 : -174.29483818622825 :  -100 : False : False :  Reals
+         (2.310102, 5) :  -230 : -174.49882684946184 :  -100 : False : False :  Reals
+         (2.310102, 6) :  -230 : -174.76699034332017 :  -100 : False : False :  Reals
+         (2.310102, 7) :  -230 : -175.11861309539793 :  -100 : False : False :  Reals
+         (2.310102, 8) :  -230 : -175.57760873715446 :  -100 : False : False :  Reals
+         (2.310102, 9) :  -230 : -176.16738181107345 :  -100 : False : False :  Reals
+        (2.310102, 10) :  -230 : -176.89890700296039 :  -100 : False : False :  Reals
+         (3.289898, 1) :  -230 : -173.95503071353144 :  -100 : False : False :  Reals
+         (3.289898, 2) :  -230 : -174.04725607555588 :  -100 : False : False :  Reals
+         (3.289898, 3) :  -230 : -174.16272108976526 :  -100 : False : False :  Reals
+         (3.289898, 4) :  -230 :  -174.3115060877351 :  -100 : False : False :  Reals
+         (3.289898, 5) :  -230 :  -174.5077916653281 :  -100 : False : False :  Reals
+         (3.289898, 6) :  -230 :  -174.7706175813821 :  -100 : False : False :  Reals
+         (3.289898, 7) :  -230 : -175.12288280307243 :  -100 : False : False :  Reals
+         (3.289898, 8) :  -230 : -175.58798644485225 :  -100 : False : False :  Reals
+         (3.289898, 9) :  -230 : -176.18367934990044 :  -100 : False : False :  Reals
+        (3.289898, 10) :  -230 : -176.91401068071517 :  -100 : False : False :  Reals
+                (4, 1) :  -230 : -173.95527158615147 :  -100 : False : False :  Reals
+                (4, 2) :  -230 : -174.03830060541645 :  -100 : False : False :  Reals
+                (4, 3) :  -230 : -174.14821757705735 :  -100 : False : False :  Reals
+                (4, 4) :  -230 : -174.29571540148729 :  -100 : False : False :  Reals
+                (4, 5) :  -230 :  -174.4949248491113 :  -100 : False : False :  Reals
+                (4, 6) :  -230 : -174.76295586850287 :  -100 : False : False :  Reals
+                (4, 7) :  -230 : -175.11947310625243 :  -100 : False : False :  Reals
+                (4, 8) :  -230 : -175.58541638023948 :  -100 : False : False :  Reals
+                (4, 9) :  -230 : -176.17934131141033 :  -100 : False : False :  Reals
+               (4, 10) :  -230 : -176.90922614824564 :  -100 : False : False :  Reals
+         (4.310102, 1) :  -230 :  -173.9535218701782 :  -100 : False : False :  Reals
+         (4.310102, 2) :  -230 : -174.03951066533236 :  -100 : False : False :  Reals
+         (4.310102, 3) :  -230 :  -174.1526672947123 :  -100 : False : False :  Reals
+         (4.310102, 4) :  -230 :  -174.3027421881736 :  -100 : False : False :  Reals
+         (4.310102, 5) :  -230 : -174.50280830678625 :  -100 : False : False :  Reals
+         (4.310102, 6) :  -230 :  -174.7697681398667 :  -100 : False : False :  Reals
+         (4.310102, 7) :  -230 : -175.12428675332023 :  -100 : False : False :  Reals
+         (4.310102, 8) :  -230 : -175.58889436841727 :  -100 : False : False :  Reals
+         (4.310102, 9) :  -230 :  -176.1827330699808 :  -100 : False : False :  Reals
+        (4.310102, 10) :  -230 : -176.91234743320246 :  -100 : False : False :  Reals
+         (5.289898, 1) :  -230 :  -173.9549488866751 :  -100 : False : False :  Reals
+         (5.289898, 2) :  -230 :  -174.0441301168545 :  -100 : False : False :  Reals
+         (5.289898, 3) :  -230 : -174.15931472677931 :  -100 : False : False :  Reals
+         (5.289898, 4) :  -230 :  -174.3100644105714 :  -100 : False : False :  Reals
+         (5.289898, 5) :  -230 : -174.50970438776906 :  -100 : False : False :  Reals
+         (5.289898, 6) :  -230 : -174.77584730940944 :  -100 : False : False :  Reals
+         (5.289898, 7) :  -230 : -175.12988163118783 :  -100 : False : False :  Reals
+         (5.289898, 8) :  -230 : -175.59447115931317 :  -100 : False : False :  Reals
+         (5.289898, 9) :  -230 : -176.18808396717196 :  -100 : False : False :  Reals
+        (5.289898, 10) :  -230 : -176.91643926804795 :  -100 : False : False :  Reals
+                (6, 1) :  -230 :  -173.9551757131787 :  -100 : False : False :  Reals
+                (6, 2) :  -230 : -174.04332632818284 :  -100 : False : False :  Reals
+                (6, 3) :  -230 : -174.15726167511062 :  -100 : False : False :  Reals
+                (6, 4) :  -230 : -174.30698922597037 :  -100 : False : False :  Reals
+                (6, 5) :  -230 : -174.50613715042766 :  -100 : False : False :  Reals
+                (6, 6) :  -230 : -174.77226608407761 :  -100 : False : False :  Reals
+                (6, 7) :  -230 :  -175.1264326661727 :  -100 : False : False :  Reals
+                (6, 8) :  -230 : -175.59105215356885 :  -100 : False : False :  Reals
+                (6, 9) :  -230 : -176.18479604280185 :  -100 : False : False :  Reals
+               (6, 10) :  -230 : -176.91388539172698 :  -100 : False : False :  Reals
+         (6.310102, 1) :  -230 : -173.95470183329508 :  -100 : False : False :  Reals
+         (6.310102, 2) :  -230 : -174.04270680387668 :  -100 : False : False :  Reals
+         (6.310102, 3) :  -230 : -174.15670630105657 :  -100 : False : False :  Reals
+         (6.310102, 4) :  -230 :     -174.3065547825 :  -100 : False : False :  Reals
+         (6.310102, 5) :  -230 : -174.50569338574175 :  -100 : False : False :  Reals
+         (6.310102, 6) :  -230 : -174.77162416655528 :  -100 : False : False :  Reals
+         (6.310102, 7) :  -230 : -175.12554576759905 :  -100 : False : False :  Reals
+         (6.310102, 8) :  -230 : -175.59010441440225 :  -100 : False : False :  Reals
+         (6.310102, 9) :  -230 : -176.18404540767665 :  -100 : False : False :  Reals
+        (6.310102, 10) :  -230 : -176.91341911637457 :  -100 : False : False :  Reals
+         (7.289898, 1) :  -230 : -173.95457510462097 :  -100 : False : False :  Reals
+         (7.289898, 2) :  -230 : -174.04268995401833 :  -100 : False : False :  Reals
+         (7.289898, 3) :  -230 :  -174.1568704993445 :  -100 : False : False :  Reals
+         (7.289898, 4) :  -230 : -174.30687647380324 :  -100 : False : False :  Reals
+         (7.289898, 5) :  -230 : -174.50611706081517 :  -100 : False : False :  Reals
+         (7.289898, 6) :  -230 : -174.77213637095733 :  -100 : False : False :  Reals
+         (7.289898, 7) :  -230 :  -175.1261861821791 :  -100 : False : False :  Reals
+         (7.289898, 8) :  -230 :   -175.590887815246 :  -100 : False : False :  Reals
+         (7.289898, 9) :  -230 : -176.18486490585894 :  -100 : False : False :  Reals
+        (7.289898, 10) :  -230 : -176.91406086263572 :  -100 : False : False :  Reals
+                (8, 1) :  -230 :  -173.9547196094098 :  -100 : False : False :  Reals
+                (8, 2) :  -230 : -174.04294188830335 :  -100 : False : False :  Reals
+                (8, 3) :  -230 : -174.15719860131244 :  -100 : False : False :  Reals
+                (8, 4) :  -230 : -174.30729354855518 :  -100 : False : False :  Reals
+                (8, 5) :  -230 :  -174.5066642984063 :  -100 : False : False :  Reals
+                (8, 6) :  -230 : -174.77283020839275 :  -100 : False : False :  Reals
+                (8, 7) :  -230 :  -175.1269724802216 :  -100 : False : False :  Reals
+                (8, 8) :  -230 : -175.59165138694178 :  -100 : False : False :  Reals
+                (8, 9) :  -230 : -176.18549381901798 :  -100 : False : False :  Reals
+               (8, 10) :  -230 : -176.91449333729125 :  -100 : False : False :  Reals
+         (8.310102, 1) :  -230 : -173.95471195900586 :  -100 : False : False :  Reals
+         (8.310102, 2) :  -230 : -174.04295477641585 :  -100 : False : False :  Reals
+         (8.310102, 3) :  -230 : -174.15724473987294 :  -100 : False : False :  Reals
+         (8.310102, 4) :  -230 :  -174.3073646577428 :  -100 : False : False :  Reals
+         (8.310102, 5) :  -230 : -174.50672610333459 :  -100 : False : False :  Reals
+         (8.310102, 6) :  -230 : -174.77284260511988 :  -100 : False : False :  Reals
+         (8.310102, 7) :  -230 :  -175.1269210280369 :  -100 : False : False :  Reals
+         (8.310102, 8) :  -230 :  -175.5915606442621 :  -100 : False : False :  Reals
+         (8.310102, 9) :  -230 : -176.18540495619965 :  -100 : False : False :  Reals
+        (8.310102, 10) :  -230 : -176.91443099726885 :  -100 : False : False :  Reals
+         (9.289898, 1) :  -230 : -173.95470613236785 :  -100 : False : False :  Reals
+         (9.289898, 2) :  -230 : -174.04293654471138 :  -100 : False : False :  Reals
+         (9.289898, 3) :  -230 : -174.15719513959118 :  -100 : False : False :  Reals
+         (9.289898, 4) :  -230 : -174.30725919800773 :  -100 : False : False :  Reals
+         (9.289898, 5) :  -230 : -174.50654637082738 :  -100 : False : False :  Reals
+         (9.289898, 6) :  -230 :  -174.7725905127893 :  -100 : False : False :  Reals
+         (9.289898, 7) :  -230 : -175.12662386779616 :  -100 : False : False :  Reals
+         (9.289898, 8) :  -230 :  -175.5912613929015 :  -100 : False : False :  Reals
+         (9.289898, 9) :  -230 : -176.18514593772423 :  -100 : False : False :  Reals
+        (9.289898, 10) :  -230 : -176.91424600677487 :  -100 : False : False :  Reals
+               (10, 1) :  -230 : -173.95468514585616 :  -100 : False : False :  Reals
+               (10, 2) :  -230 :  -174.0428758428734 :  -100 : False : False :  Reals
+               (10, 3) :  -230 : -174.15709435192238 :  -100 : False : False :  Reals
+               (10, 4) :  -230 : -174.30712873571244 :  -100 : False : False :  Reals
+               (10, 5) :  -230 : -174.50640474467278 :  -100 : False : False :  Reals
+               (10, 6) :  -230 :  -174.7724556679704 :  -100 : False : False :  Reals
+               (10, 7) :  -230 :  -175.1265052588419 :  -100 : False : False :  Reals
+               (10, 8) :  -230 : -175.59116007992742 :  -100 : False : False :  Reals
+               (10, 9) :  -230 : -176.18506249368036 :  -100 : False : False :  Reals
+              (10, 10) :  -230 :  -176.9141865413299 :  -100 : False : False :  Reals
+                (0, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+                (0, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+                (0, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+                (0, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+                (0, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+                (0, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+                (0, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+                (0, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+                (0, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+               (0, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (0.310102, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (0.310102, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (0.310102, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (0.310102, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (0.310102, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (0.310102, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (0.310102, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (0.310102, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (0.310102, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (0.310102, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (1.289898, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (1.289898, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (1.289898, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (1.289898, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (1.289898, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (1.289898, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (1.289898, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (1.289898, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (1.289898, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (1.289898, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+                (2, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+                (2, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+                (2, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+                (2, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+                (2, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+                (2, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+                (2, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+                (2, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+                (2, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+               (2, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (2.310102, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (2.310102, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (2.310102, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (2.310102, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (2.310102, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (2.310102, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (2.310102, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (2.310102, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (2.310102, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (2.310102, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (3.289898, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (3.289898, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (3.289898, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (3.289898, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (3.289898, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (3.289898, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (3.289898, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (3.289898, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (3.289898, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (3.289898, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+                (4, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+                (4, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+                (4, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+                (4, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+                (4, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+                (4, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+                (4, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+                (4, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+                (4, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+               (4, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (4.310102, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (4.310102, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (4.310102, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (4.310102, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (4.310102, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (4.310102, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (4.310102, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (4.310102, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (4.310102, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (4.310102, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (5.289898, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (5.289898, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (5.289898, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (5.289898, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (5.289898, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (5.289898, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (5.289898, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (5.289898, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (5.289898, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (5.289898, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+                (6, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+                (6, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+                (6, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+                (6, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+                (6, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+                (6, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+                (6, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+                (6, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+                (6, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+               (6, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (6.310102, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (6.310102, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (6.310102, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (6.310102, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (6.310102, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (6.310102, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (6.310102, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (6.310102, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (6.310102, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (6.310102, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (7.289898, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (7.289898, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (7.289898, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (7.289898, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (7.289898, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (7.289898, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (7.289898, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (7.289898, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (7.289898, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (7.289898, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+                (8, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+                (8, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+                (8, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+                (8, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+                (8, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+                (8, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+                (8, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+                (8, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+                (8, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+               (8, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (8.310102, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (8.310102, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (8.310102, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (8.310102, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (8.310102, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (8.310102, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (8.310102, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (8.310102, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (8.310102, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (8.310102, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+         (9.289898, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+         (9.289898, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+         (9.289898, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+         (9.289898, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+         (9.289898, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+         (9.289898, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+         (9.289898, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+         (9.289898, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+         (9.289898, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+        (9.289898, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+               (10, 1) :     0 :             564.0 :  1000 : False : False :  Reals
+               (10, 2) :     0 : 561.2844444444445 :  1000 : False : False :  Reals
+               (10, 3) :     0 : 558.5688888888889 :  1000 : False : False :  Reals
+               (10, 4) :     0 : 555.8533333333334 :  1000 : False : False :  Reals
+               (10, 5) :     0 : 553.1377777777777 :  1000 : False : False :  Reals
+               (10, 6) :     0 : 550.4222222222222 :  1000 : False : False :  Reals
+               (10, 7) :     0 : 547.7066666666666 :  1000 : False : False :  Reals
+               (10, 8) :     0 : 544.9911111111111 :  1000 : False : False :  Reals
+               (10, 9) :     0 : 542.2755555555555 :  1000 : False : False :  Reals
+              (10, 10) :     0 :            539.56 :  1000 : False : False :  Reals
+                (0, 1) :     0 :  1426.884319201218 :  None : False : False : NonNegativeReals
+                (0, 2) :     0 :  1603.781037182806 :  None : False : False : NonNegativeReals
+                (0, 3) :     0 : 1662.2719987866108 :  None : False : False : NonNegativeReals
+                (0, 4) :     0 : 1677.0826023535415 :  None : False : False : NonNegativeReals
+                (0, 5) :     0 : 1670.5565801335686 :  None : False : False : NonNegativeReals
+                (0, 6) :     0 : 1652.0808446973917 :  None : False : False : NonNegativeReals
+                (0, 7) :     0 :  1625.255721828192 :  None : False : False : NonNegativeReals
+                (0, 8) :     0 : 1589.4069853886858 :  None : False : False : NonNegativeReals
+                (0, 9) :     0 : 1537.2233132766687 :  None : False : False : NonNegativeReals
+               (0, 10) :     0 : 1558.1871133981476 :  None : False : False : NonNegativeReals
+         (0.310102, 1) :     0 : 1599.7505371455466 :  None : False : False : NonNegativeReals
+         (0.310102, 2) :     0 : 1653.7200599280425 :  None : False : False : NonNegativeReals
+         (0.310102, 3) :     0 : 1665.0701562647662 :  None : False : False : NonNegativeReals
+         (0.310102, 4) :     0 : 1660.3459157825312 :  None : False : False : NonNegativeReals
+         (0.310102, 5) :     0 :  1649.146401756869 :  None : False : False : NonNegativeReals
+         (0.310102, 6) :     0 : 1636.2278412387545 :  None : False : False : NonNegativeReals
+         (0.310102, 7) :     0 :  1624.248349322023 :  None : False : False : NonNegativeReals
+         (0.310102, 8) :     0 :  1614.875158394337 :  None : False : False : NonNegativeReals
+         (0.310102, 9) :     0 : 1609.3796564652637 :  None : False : False : NonNegativeReals
+        (0.310102, 10) :     0 : 1579.9571955153244 :  None : False : False : NonNegativeReals
+         (1.289898, 1) :     0 : 1608.2810965945637 :  None : False : False : NonNegativeReals
+         (1.289898, 2) :     0 :    1593.5198305684 :  None : False : False : NonNegativeReals
+         (1.289898, 3) :     0 : 1586.1592125708953 :  None : False : False : NonNegativeReals
+         (1.289898, 4) :     0 : 1582.1434471932914 :  None : False : False : NonNegativeReals
+         (1.289898, 5) :     0 : 1579.8077016801528 :  None : False : False : NonNegativeReals
+         (1.289898, 6) :     0 : 1577.6213069307169 :  None : False : False : NonNegativeReals
+         (1.289898, 7) :     0 :  1573.947570530852 :  None : False : False : NonNegativeReals
+         (1.289898, 8) :     0 : 1567.1931668023105 :  None : False : False : NonNegativeReals
+         (1.289898, 9) :     0 : 1556.1825829757763 :  None : False : False : NonNegativeReals
+        (1.289898, 10) :     0 : 1512.0076193527646 :  None : False : False : NonNegativeReals
+                (2, 1) :     0 : 1582.8320946669671 :  None : False : False : NonNegativeReals
+                (2, 2) :     0 : 1592.1845890330758 :  None : False : False : NonNegativeReals
+                (2, 3) :     0 : 1596.1686910040405 :  None : False : False : NonNegativeReals
+                (2, 4) :     0 : 1596.9060490362656 :  None : False : False : NonNegativeReals
+                (2, 5) :     0 :  1594.012416759465 :  None : False : False : NonNegativeReals
+                (2, 6) :     0 :  1587.041405470301 :  None : False : False : NonNegativeReals
+                (2, 7) :     0 : 1576.2508614373285 :  None : False : False : NonNegativeReals
+                (2, 8) :     0 :  1563.188174177098 :  None : False : False : NonNegativeReals
+                (2, 9) :     0 : 1551.0689174620697 :  None : False : False : NonNegativeReals
+               (2, 10) :     0 : 1515.0358271099378 :  None : False : False : NonNegativeReals
+         (2.310102, 1) :     0 : 1598.3146902017763 :  None : False : False : NonNegativeReals
+         (2.310102, 2) :     0 :  1600.884329492006 :  None : False : False : NonNegativeReals
+         (2.310102, 3) :     0 : 1600.4380409179992 :  None : False : False : NonNegativeReals
+         (2.310102, 4) :     0 : 1597.7230063829131 :  None : False : False : NonNegativeReals
+         (2.310102, 5) :     0 :  1592.967934791851 :  None : False : False : NonNegativeReals
+         (2.310102, 6) :     0 : 1586.5057952460859 :  None : False : False : NonNegativeReals
+         (2.310102, 7) :     0 : 1578.7977804370228 :  None : False : False : NonNegativeReals
+         (2.310102, 8) :     0 : 1570.2627972528198 :  None : False : False : NonNegativeReals
+         (2.310102, 9) :     0 : 1560.9746297935744 :  None : False : False : NonNegativeReals
+        (2.310102, 10) :     0 : 1521.5090409995855 :  None : False : False : NonNegativeReals
+         (3.289898, 1) :     0 :  1600.078930576363 :  None : False : False : NonNegativeReals
+         (3.289898, 2) :     0 :  1597.800570238225 :  None : False : False : NonNegativeReals
+         (3.289898, 3) :     0 : 1595.3495606131728 :  None : False : False : NonNegativeReals
+         (3.289898, 4) :     0 : 1592.5620248833375 :  None : False : False : NonNegativeReals
+         (3.289898, 5) :     0 : 1589.2404334701323 :  None : False : False : NonNegativeReals
+         (3.289898, 6) :     0 : 1584.9704311052067 :  None : False : False : NonNegativeReals
+         (3.289898, 7) :     0 : 1579.1457842568755 :  None : False : False : NonNegativeReals
+         (3.289898, 8) :     0 : 1571.1720082156871 :  None : False : False : NonNegativeReals
+         (3.289898, 9) :     0 :  1560.859318587093 :  None : False : False : NonNegativeReals
+        (3.289898, 10) :     0 : 1519.9529166331047 :  None : False : False : NonNegativeReals
+                (4, 1) :     0 :  1597.892892018853 :  None : False : False : NonNegativeReals
+                (4, 2) :     0 : 1597.5460282500321 :  None : False : False : NonNegativeReals
+                (4, 3) :     0 : 1596.7236897312005 :  None : False : False : NonNegativeReals
+                (4, 4) :     0 : 1595.0815457521194 :  None : False : False : NonNegativeReals
+                (4, 5) :     0 :  1592.037288724245 :  None : False : False : NonNegativeReals
+                (4, 6) :     0 : 1587.0672266787633 :  None : False : False : NonNegativeReals
+                (4, 7) :     0 : 1579.9445845833104 :  None : False : False : NonNegativeReals
+                (4, 8) :     0 :  1570.899207802539 :  None : False : False : NonNegativeReals
+                (4, 9) :     0 : 1560.5183039418441 :  None : False : False : NonNegativeReals
+               (4, 10) :     0 : 1520.3298053509027 :  None : False : False : NonNegativeReals
+         (4.310102, 1) :     0 : 1599.4003285828903 :  None : False : False : NonNegativeReals
+         (4.310102, 2) :     0 : 1598.7688210022768 :  None : False : False : NonNegativeReals
+         (4.310102, 3) :     0 : 1597.4282429879652 :  None : False : False : NonNegativeReals
+         (4.310102, 4) :     0 : 1595.1069136472559 :  None : False : False : NonNegativeReals
+         (4.310102, 5) :     0 : 1591.5136766718038 :  None : False : False : NonNegativeReals
+         (4.310102, 6) :     0 : 1586.4116186769022 :  None : False : False : NonNegativeReals
+         (4.310102, 7) :     0 : 1579.6451146782035 :  None : False : False : NonNegativeReals
+         (4.310102, 8) :     0 : 1571.1498437841324 :  None : False : False : NonNegativeReals
+         (4.310102, 9) :     0 : 1560.9800584439963 :  None : False : False : NonNegativeReals
+        (4.310102, 10) :     0 : 1520.5164362533762 :  None : False : False : NonNegativeReals
+         (5.289898, 1) :     0 :  1599.435385631702 :  None : False : False : NonNegativeReals
+         (5.289898, 2) :     0 : 1598.1631085665242 :  None : False : False : NonNegativeReals
+         (5.289898, 3) :     0 : 1596.2852798517838 :  None : False : False : NonNegativeReals
+         (5.289898, 4) :     0 : 1593.6456168140185 :  None : False : False : NonNegativeReals
+         (5.289898, 5) :     0 : 1590.0275628182794 :  None : False : False : NonNegativeReals
+         (5.289898, 6) :     0 :  1585.134389549964 :  None : False : False : NonNegativeReals
+         (5.289898, 7) :     0 :   1578.62789751493 :  None : False : False : NonNegativeReals
+         (5.289898, 8) :     0 : 1570.2496106606563 :  None : False : False : NonNegativeReals
+         (5.289898, 9) :     0 : 1560.0123726774707 :  None : False : False : NonNegativeReals
+        (5.289898, 10) :     0 : 1519.4618462987185 :  None : False : False : NonNegativeReals
+                (6, 1) :     0 :  1599.091348376376 :  None : False : False : NonNegativeReals
+                (6, 2) :     0 : 1597.8868173112282 :  None : False : False : NonNegativeReals
+                (6, 3) :     0 : 1596.1966769191308 :  None : False : False : NonNegativeReals
+                (6, 4) :     0 :  1593.780932882289 :  None : False : False : NonNegativeReals
+                (6, 5) :     0 :    1590.3093169834 :  None : False : False : NonNegativeReals
+                (6, 6) :     0 : 1585.4221411210729 :  None : False : False : NonNegativeReals
+                (6, 7) :     0 : 1578.8193144683883 :  None : False : False : NonNegativeReals
+                (6, 8) :     0 : 1570.3614614919716 :  None : False : False : NonNegativeReals
+                (6, 9) :     0 : 1560.1500927195357 :  None : False : False : NonNegativeReals
+               (6, 10) :     0 : 1519.6643222425116 :  None : False : False : NonNegativeReals
+         (6.310102, 1) :     0 : 1599.2862556910793 :  None : False : False : NonNegativeReals
+         (6.310102, 2) :     0 : 1598.1461028228957 :  None : False : False : NonNegativeReals
+         (6.310102, 3) :     0 : 1596.4599532264394 :  None : False : False : NonNegativeReals
+         (6.310102, 4) :     0 : 1593.9965926723091 :  None : False : False : NonNegativeReals
+         (6.310102, 5) :     0 : 1590.4730483290373 :  None : False : False : NonNegativeReals
+         (6.310102, 6) :     0 : 1585.5802517313775 :  None : False : False : NonNegativeReals
+         (6.310102, 7) :     0 : 1579.0296604211399 :  None : False : False : NonNegativeReals
+         (6.310102, 8) :     0 : 1570.6351538608587 :  None : False : False : NonNegativeReals
+         (6.310102, 9) :     0 : 1560.4344918783354 :  None : False : False : NonNegativeReals
+        (6.310102, 10) :     0 : 1519.9143365710556 :  None : False : False : NonNegativeReals
+         (7.289898, 1) :     0 :  1599.372556821299 :  None : False : False : NonNegativeReals
+         (7.289898, 2) :     0 : 1598.2367762173587 :  None : False : False : NonNegativeReals
+         (7.289898, 3) :     0 : 1596.5264763816233 :  None : False : False : NonNegativeReals
+         (7.289898, 4) :     0 : 1594.0362458338923 :  None : False : False : NonNegativeReals
+         (7.289898, 5) :     0 : 1590.5048942322635 :  None : False : False : NonNegativeReals
+         (7.289898, 6) :     0 : 1585.6244827669843 :  None : False : False : NonNegativeReals
+         (7.289898, 7) :     0 : 1579.0868535576712 :  None : False : False : NonNegativeReals
+         (7.289898, 8) :     0 : 1570.6845174360444 :  None : False : False : NonNegativeReals
+         (7.289898, 9) :     0 : 1560.4569325438579 :  None : False : False : NonNegativeReals
+        (7.289898, 10) :     0 :   1519.91870601116 :  None : False : False : NonNegativeReals
+                (8, 1) :     0 : 1599.3276404466817 :  None : False : False : NonNegativeReals
+                (8, 2) :     0 : 1598.1728887052827 :  None : False : False : NonNegativeReals
+                (8, 3) :     0 :  1596.458615823925 :  None : False : False : NonNegativeReals
+                (8, 4) :     0 : 1593.9715834424428 :  None : False : False : NonNegativeReals
+                (8, 5) :     0 : 1590.4362814688968 :  None : False : False : NonNegativeReals
+                (8, 6) :     0 : 1585.5368748418116 :  None : False : False : NonNegativeReals
+                (8, 7) :     0 :  1578.972355105916 :  None : False : False : NonNegativeReals
+                (8, 8) :     0 : 1570.5527722886131 :  None : False : False : NonNegativeReals
+                (8, 9) :     0 :  1560.327584261213 :  None : False : False : NonNegativeReals
+               (8, 10) :     0 : 1519.8009468485516 :  None : False : False : NonNegativeReals
+         (8.310102, 1) :     0 : 1599.3359079438312 :  None : False : False : NonNegativeReals
+         (8.310102, 2) :     0 : 1598.1814895089958 :  None : False : False : NonNegativeReals
+         (8.310102, 3) :     0 : 1596.4612197859713 :  None : False : False : NonNegativeReals
+         (8.310102, 4) :     0 : 1593.9628244419546 :  None : False : False : NonNegativeReals
+         (8.310102, 5) :     0 : 1590.4176484964783 :  None : False : False : NonNegativeReals
+         (8.310102, 6) :     0 : 1585.5171826940798 :  None : False : False : NonNegativeReals
+         (8.310102, 7) :     0 : 1578.9613583170587 :  None : False : False : NonNegativeReals
+         (8.310102, 8) :     0 : 1570.5527876821902 :  None : False : False : NonNegativeReals
+         (8.310102, 9) :     0 : 1560.3323926017256 :  None : False : False : NonNegativeReals
+        (8.310102, 10) :     0 : 1519.8046047211963 :  None : False : False : NonNegativeReals
+         (9.289898, 1) :     0 : 1599.3357232796418 :  None : False : False : NonNegativeReals
+         (9.289898, 2) :     0 :  1598.178007907281 :  None : False : False : NonNegativeReals
+         (9.289898, 3) :     0 :  1596.454850812469 :  None : False : False : NonNegativeReals
+         (9.289898, 4) :     0 : 1593.9568193946704 :  None : False : False : NonNegativeReals
+         (9.289898, 5) :     0 : 1590.4174219215265 :  None : False : False : NonNegativeReals
+         (9.289898, 6) :     0 : 1585.5270695478976 :  None : False : False : NonNegativeReals
+         (9.289898, 7) :     0 : 1578.9813835330058 :  None : False : False : NonNegativeReals
+         (9.289898, 8) :     0 : 1570.5785681809812 :  None : False : False : NonNegativeReals
+         (9.289898, 9) :     0 : 1560.3587704911056 :  None : False : False : NonNegativeReals
+        (9.289898, 10) :     0 : 1519.8289764762997 :  None : False : False : NonNegativeReals
+               (10, 1) :     0 : 1599.3368133106421 :  None : False : False : NonNegativeReals
+               (10, 2) :     0 :  1598.183624486244 :  None : False : False : NonNegativeReals
+               (10, 3) :     0 : 1596.4672837986552 :  None : False : False : NonNegativeReals
+               (10, 4) :     0 : 1593.9765637759847 :  None : False : False : NonNegativeReals
+               (10, 5) :     0 : 1590.4422275272568 :  None : False : False : NonNegativeReals
+               (10, 6) :     0 : 1585.5530134589426 :  None : False : False : NonNegativeReals
+               (10, 7) :     0 : 1579.0053301125524 :  None : False : False : NonNegativeReals
+               (10, 8) :     0 : 1570.5999071739807 :  None : False : False : NonNegativeReals
+               (10, 9) :     0 : 1560.3786670569598 :  None : False : False : NonNegativeReals
+              (10, 10) :     0 : 1519.8482746692257 :  None : False : False : NonNegativeReals
+                (0, 1) :     0 : 1014.5307387814713 :  None : False : False : NonNegativeReals
+                (0, 2) :     0 : 327.74861515108125 :  None : False : False : NonNegativeReals
+                (0, 3) :     0 :  601.4609823287536 :  None : False : False : NonNegativeReals
+                (0, 4) :     0 :  692.3151025071792 :  None : False : False : NonNegativeReals
+                (0, 5) :     0 :  717.0257081538956 :  None : False : False : NonNegativeReals
+                (0, 6) :     0 :  709.5194383678981 :  None : False : False : NonNegativeReals
+                (0, 7) :     0 :  683.6876015182049 :  None : False : False : NonNegativeReals
+                (0, 8) :     0 :  644.3108430716451 :  None : False : False : NonNegativeReals
+                (0, 9) :     0 :  588.4945721445395 :  None : False : False : NonNegativeReals
+               (0, 10) :     0 :  498.1039864331223 :  None : False : False : NonNegativeReals
+         (0.310102, 1) :     0 :  984.7780733915515 :  None : False : False : NonNegativeReals
+         (0.310102, 2) :     0 :  583.6439927847712 :  None : False : False : NonNegativeReals
+         (0.310102, 3) :     0 :  668.9263123968243 :  None : False : False : NonNegativeReals
+         (0.310102, 4) :     0 :  687.9010084251431 :  None : False : False : NonNegativeReals
+         (0.310102, 5) :     0 :  681.9988316673813 :  None : False : False : NonNegativeReals
+         (0.310102, 6) :     0 :  666.1226174846635 :  None : False : False : NonNegativeReals
+         (0.310102, 7) :     0 :   647.845344668714 :  None : False : False : NonNegativeReals
+         (0.310102, 8) :     0 :  631.7730299814029 :  None : False : False : NonNegativeReals
+         (0.310102, 9) :     0 :  621.4970628794974 :  None : False : False : NonNegativeReals
+        (0.310102, 10) :     0 :  621.3660318036951 :  None : False : False : NonNegativeReals
+         (1.289898, 1) :     0 : 1080.7987217931168 :  None : False : False : NonNegativeReals
+         (1.289898, 2) :     0 :  694.9747138122616 :  None : False : False : NonNegativeReals
+         (1.289898, 3) :     0 :  672.0860908927314 :  None : False : False : NonNegativeReals
+         (1.289898, 4) :     0 :  661.2472927918379 :  None : False : False : NonNegativeReals
+         (1.289898, 5) :     0 :  656.2211017910942 :  None : False : False : NonNegativeReals
+         (1.289898, 6) :     0 :  654.6436139481528 :  None : False : False : NonNegativeReals
+         (1.289898, 7) :     0 :  654.3880241276917 :  None : False : False : NonNegativeReals
+         (1.289898, 8) :     0 :  653.0628352892423 :  None : False : False : NonNegativeReals
+         (1.289898, 9) :     0 :  647.9462353843628 :  None : False : False : NonNegativeReals
+        (1.289898, 10) :     0 :  635.8522007223495 :  None : False : False : NonNegativeReals
+                (2, 1) :     0 :  1070.508412336137 :  None : False : False : NonNegativeReals
+                (2, 2) :     0 :  642.8805147382426 :  None : False : False : NonNegativeReals
+                (2, 3) :     0 :  658.3607752329872 :  None : False : False : NonNegativeReals
+                (2, 4) :     0 :  665.7742196338315 :  None : False : False : NonNegativeReals
+                (2, 5) :     0 :  668.6241200072897 :  None : False : False : NonNegativeReals
+                (2, 6) :     0 :  666.3495475705205 :  None : False : False : NonNegativeReals
+                (2, 7) :     0 :  658.1619016653724 :  None : False : False : NonNegativeReals
+                (2, 8) :     0 :  644.2507647225261 :  None : False : False : NonNegativeReals
+                (2, 9) :     0 :  626.9321872361454 :  None : False : False : NonNegativeReals
+               (2, 10) :     0 :   612.319849208628 :  None : False : False : NonNegativeReals
+         (2.310102, 1) :     0 : 1063.3867066736357 :  None : False : False : NonNegativeReals
+         (2.310102, 2) :     0 :   660.989523953832 :  None : False : False : NonNegativeReals
+         (2.310102, 3) :     0 :  665.7886211967816 :  None : False : False : NonNegativeReals
+         (2.310102, 4) :     0 :  666.1576622153297 :  None : False : False : NonNegativeReals
+         (2.310102, 5) :     0 :  663.3598058144863 :  None : False : False : NonNegativeReals
+         (2.310102, 6) :     0 :  657.8481529073109 :  None : False : False : NonNegativeReals
+         (2.310102, 7) :     0 :  650.2848602992167 :  None : False : False : NonNegativeReals
+         (2.310102, 8) :     0 :  641.6208826230746 :  None : False : False : NonNegativeReals
+         (2.310102, 9) :     0 :  632.8709332189037 :  None : False : False : NonNegativeReals
+        (2.310102, 10) :     0 :  624.6128510022495 :  None : False : False : NonNegativeReals
+         (3.289898, 1) :     0 : 1066.7838517541652 :  None : False : False : NonNegativeReals
+         (3.289898, 2) :     0 :  667.3457813070487 :  None : False : False : NonNegativeReals
+         (3.289898, 3) :     0 :  664.3988467820092 :  None : False : False : NonNegativeReals
+         (3.289898, 4) :     0 :  661.4849831608857 :  None : False : False : NonNegativeReals
+         (3.289898, 5) :     0 :  658.4794649426148 :  None : False : False : NonNegativeReals
+         (3.289898, 6) :     0 :  655.2571640501507 :  None : False : False : NonNegativeReals
+         (3.289898, 7) :     0 :  651.3853674580607 :  None : False : False : NonNegativeReals
+         (3.289898, 8) :     0 :  646.1065630261472 :  None : False : False : NonNegativeReals
+         (3.289898, 9) :     0 :  638.5437965647598 :  None : False : False : NonNegativeReals
+        (3.289898, 10) :     0 :  628.1700791006181 :  None : False : False : NonNegativeReals
+                (4, 1) :     0 :   1065.97657630569 :  None : False : False : NonNegativeReals
+                (4, 2) :     0 :  662.9441178602581 :  None : False : False : NonNegativeReals
+                (4, 3) :     0 :  663.0394112258144 :  None : False : False : NonNegativeReals
+                (4, 4) :     0 :  662.7370712280388 :  None : False : False : NonNegativeReals
+                (4, 5) :     0 :  661.6255462662263 :  None : False : False : NonNegativeReals
+                (4, 6) :     0 :   658.924996291255 :  None : False : False : NonNegativeReals
+                (4, 7) :     0 :  653.9376420687655 :  None : False : False : NonNegativeReals
+                (4, 8) :     0 :  646.4101001449366 :  None : False : False : NonNegativeReals
+                (4, 9) :     0 :  636.8085044574021 :  None : False : False : NonNegativeReals
+               (4, 10) :     0 :  626.2491205508522 :  None : False : False : NonNegativeReals
+         (4.310102, 1) :     0 : 1065.8384906217661 :  None : False : False : NonNegativeReals
+         (4.310102, 2) :     0 :  665.2602376010411 :  None : False : False : NonNegativeReals
+         (4.310102, 3) :     0 :   664.932944016547 :  None : False : False : NonNegativeReals
+         (4.310102, 4) :     0 :  663.8241364591726 :  None : False : False : NonNegativeReals
+         (4.310102, 5) :     0 :   661.620629898301 :  None : False : False : NonNegativeReals
+         (4.310102, 6) :     0 :  658.0044616419322 :  None : False : False : NonNegativeReals
+         (4.310102, 7) :     0 :  652.7673489880857 :  None : False : False : NonNegativeReals
+         (4.310102, 8) :     0 :  645.8393489808439 :  None : False : False : NonNegativeReals
+         (4.310102, 9) :     0 :  637.2654026735629 :  None : False : False : NonNegativeReals
+        (4.310102, 10) :     0 :  627.1633517881286 :  None : False : False : NonNegativeReals
+         (5.289898, 1) :     0 : 1067.2321373992447 :  None : False : False : NonNegativeReals
+         (5.289898, 2) :     0 :  666.7338872566864 :  None : False : False : NonNegativeReals
+         (5.289898, 3) :     0 :  665.3995325464946 :  None : False : False : NonNegativeReals
+         (5.289898, 4) :     0 :  663.4317986657976 :  None : False : False : NonNegativeReals
+         (5.289898, 5) :     0 :  660.7053296672365 :  None : False : False : NonNegativeReals
+         (5.289898, 6) :     0 :  657.0362294495984 :  None : False : False : NonNegativeReals
+         (5.289898, 7) :     0 :  652.1409542608505 :  None : False : False : NonNegativeReals
+         (5.289898, 8) :     0 :  645.6641219789476 :  None : False : False : NonNegativeReals
+         (5.289898, 9) :     0 :  637.3048205550792 :  None : False : False : NonNegativeReals
+        (5.289898, 10) :     0 :  627.0351740264017 :  None : False : False : NonNegativeReals
+                (6, 1) :     0 : 1066.9000966361255 :  None : False : False : NonNegativeReals
+                (6, 2) :     0 :  665.8389636913312 :  None : False : False : NonNegativeReals
+                (6, 3) :     0 :  664.6001470828857 :  None : False : False : NonNegativeReals
+                (6, 4) :     0 :  662.9237616191804 :  None : False : False : NonNegativeReals
+                (6, 5) :     0 :  660.5553484816309 :  None : False : False : NonNegativeReals
+                (6, 6) :     0 :  657.1271979011541 :  None : False : False : NonNegativeReals
+                (6, 7) :     0 :  652.2441665928072 :  None : False : False : NonNegativeReals
+                (6, 8) :     0 :   645.599531004169 :  None : False : False : NonNegativeReals
+                (6, 9) :     0 :   637.091705163981 :  None : False : False : NonNegativeReals
+               (6, 10) :     0 :  626.8873579207096 :  None : False : False : NonNegativeReals
+         (6.310102, 1) :     0 :  1066.600709452632 :  None : False : False : NonNegativeReals
+         (6.310102, 2) :     0 :    665.85301442651 :  None : False : False : NonNegativeReals
+         (6.310102, 3) :     0 :  664.7182082213093 :  None : False : False : NonNegativeReals
+         (6.310102, 4) :     0 :  663.0496489015874 :  None : False : False : NonNegativeReals
+         (6.310102, 5) :     0 :   660.604017742328 :  None : False : False : NonNegativeReals
+         (6.310102, 6) :     0 :  657.0883717884631 :  None : False : False : NonNegativeReals
+         (6.310102, 7) :     0 :  652.1930167640614 :  None : False : False : NonNegativeReals
+         (6.310102, 8) :     0 :  645.6391086117543 :  None : False : False : NonNegativeReals
+         (6.310102, 9) :     0 :  637.2539861300969 :  None : False : False : NonNegativeReals
+        (6.310102, 10) :     0 :  627.0808154659402 :  None : False : False : NonNegativeReals
+         (7.289898, 1) :     0 : 1066.6316406005885 :  None : False : False : NonNegativeReals
+         (7.289898, 2) :     0 :  666.0240535991504 :  None : False : False : NonNegativeReals
+         (7.289898, 3) :     0 :  664.8982296060431 :  None : False : False : NonNegativeReals
+         (7.289898, 4) :     0 :  663.1925714575033 :  None : False : False : NonNegativeReals
+         (7.289898, 5) :     0 :  660.7046133294103 :  None : False : False : NonNegativeReals
+         (7.289898, 6) :     0 :   657.177353362691 :  None : False : False : NonNegativeReals
+         (7.289898, 7) :     0 :  652.3047290709028 :  None : False : False : NonNegativeReals
+         (7.289898, 8) :     0 :  645.7760765301113 :  None : False : False : NonNegativeReals
+         (7.289898, 9) :     0 :  637.3781618947316 :  None : False : False : NonNegativeReals
+        (7.289898, 10) :     0 :  627.1460364700177 :  None : False : False : NonNegativeReals
+                (8, 1) :     0 :  1066.776321217744 :  None : False : False : NonNegativeReals
+                (8, 2) :     0 :  666.0970748783134 :  None : False : False : NonNegativeReals
+                (8, 3) :     0 :  664.9416195136264 :  None : False : False : NonNegativeReals
+                (8, 4) :     0 :  663.2305047406334 :  None : False : False : NonNegativeReals
+                (8, 5) :     0 :  660.7491446335263 :  None : False : False : NonNegativeReals
+                (8, 6) :     0 :  657.2170326119742 :  None : False : False : NonNegativeReals
+                (8, 7) :     0 :  652.3135210833944 :  None : False : False : NonNegativeReals
+                (8, 8) :     0 :  645.7373570136373 :  None : False : False : NonNegativeReals
+                (8, 9) :     0 :  637.3045331355705 :  None : False : False : NonNegativeReals
+               (8, 10) :     0 :  627.0726511577279 :  None : False : False : NonNegativeReals
+         (8.310102, 1) :     0 : 1066.7674820208208 :  None : False : False : NonNegativeReals
+         (8.310102, 2) :     0 :  666.1017214961558 :  None : False : False : NonNegativeReals
+         (8.310102, 3) :     0 :  664.9471331474376 :  None : False : False : NonNegativeReals
+         (8.310102, 4) :     0 :  663.2266023154527 :  None : False : False : NonNegativeReals
+         (8.310102, 5) :     0 :  660.7266597869043 :  None : False : False : NonNegativeReals
+         (8.310102, 6) :     0 :  657.1776718701498 :  None : False : False : NonNegativeReals
+         (8.310102, 7) :     0 :  652.2714720153459 :  None : False : False : NonNegativeReals
+         (8.310102, 8) :     0 :   645.709802025387 :  None : False : False : NonNegativeReals
+         (8.310102, 9) :     0 :  637.2974627594733 :  None : False : False : NonNegativeReals
+        (8.310102, 10) :     0 :  627.0762589775912 :  None : False : False : NonNegativeReals
+         (9.289898, 1) :     0 : 1066.7341665820168 :  None : False : False : NonNegativeReals
+         (9.289898, 2) :     0 :  666.0679999851462 :  None : False : False : NonNegativeReals
+         (9.289898, 3) :     0 :   664.907773456313 :  None : False : False : NonNegativeReals
+         (9.289898, 4) :     0 :  663.1819680487152 :  None : False : False : NonNegativeReals
+         (9.289898, 5) :     0 :  660.6817630399895 :  None : False : False : NonNegativeReals
+         (9.289898, 6) :     0 :  657.1414001204017 :  None : False : False : NonNegativeReals
+         (9.289898, 7) :     0 :  652.2516069206172 :  None : False : False : NonNegativeReals
+         (9.289898, 8) :     0 :   645.707598131282 :  None : False : False : NonNegativeReals
+         (9.289898, 9) :     0 :  637.3066755334232 :  None : False : False : NonNegativeReals
+        (9.289898, 10) :     0 :  627.0882734396655 :  None : False : False : NonNegativeReals
+               (10, 1) :     0 : 1066.7114659194992 :  None : False : False : NonNegativeReals
+               (10, 2) :     0 :  666.0467643989593 :  None : False : False : NonNegativeReals
+               (10, 3) :     0 :  664.8933886510143 :  None : False : False : NonNegativeReals
+               (10, 4) :     0 :  663.1782603969887 :  None : False : False : NonNegativeReals
+               (10, 5) :     0 :  660.6898254328199 :  None : False : False : NonNegativeReals
+               (10, 6) :     0 :   657.157911405011 :  None : False : False : NonNegativeReals
+               (10, 7) :     0 :  652.2703094760831 :  None : False : False : NonNegativeReals
+               (10, 8) :     0 :  645.7231503314595 :  None : False : False : NonNegativeReals
+               (10, 9) :     0 :  637.3177486264236 :  None : False : False : NonNegativeReals
+              (10, 10) :     0 :  627.0968788300572 :  None : False : False : NonNegativeReals
+                (0, 1, 'Nitrogen') :     0 :   0.8373654837541055 :     1 : False : False :  Reals
+                  (0, 1, 'Oxygen') :     0 :  0.16263451624589453 :     1 : False : False :  Reals
+                (0, 2, 'Nitrogen') :     0 :    0.802061621724347 :     1 : False : False :  Reals
+                  (0, 2, 'Oxygen') :     0 :   0.1979383782756531 :     1 : False : False :  Reals
+                (0, 3, 'Nitrogen') :     0 :   0.7950100600679719 :     1 : False : False :  Reals
+                  (0, 3, 'Oxygen') :     0 :  0.20498993993202808 :     1 : False : False :  Reals
+                (0, 4, 'Nitrogen') :     0 :   0.7986340559885228 :     1 : False : False :  Reals
+                  (0, 4, 'Oxygen') :     0 :  0.20136594401147725 :     1 : False : False :  Reals
+                (0, 5, 'Nitrogen') :     0 :   0.8083742232861106 :     1 : False : False :  Reals
+                  (0, 5, 'Oxygen') :     0 :  0.19162577671388933 :     1 : False : False :  Reals
+                (0, 6, 'Nitrogen') :     0 :   0.8226551471397987 :     1 : False : False :  Reals
+                  (0, 6, 'Oxygen') :     0 :   0.1773448528602014 :     1 : False : False :  Reals
+                (0, 7, 'Nitrogen') :     0 :   0.8411404617481834 :     1 : False : False :  Reals
+                  (0, 7, 'Oxygen') :     0 :  0.15885953825181667 :     1 : False : False :  Reals
+                (0, 8, 'Nitrogen') :     0 :   0.8641176515736692 :     1 : False : False :  Reals
+                  (0, 8, 'Oxygen') :     0 :   0.1358823484263309 :     1 : False : False :  Reals
+                (0, 9, 'Nitrogen') :     0 :   0.8921349626888347 :     1 : False : False :  Reals
+                  (0, 9, 'Oxygen') :     0 :  0.10786503731116527 :     1 : False : False :  Reals
+               (0, 10, 'Nitrogen') :     0 :   0.9258478602888144 :     1 : False : False :  Reals
+                 (0, 10, 'Oxygen') :     0 :  0.07415213971118567 :     1 : False : False :  Reals
+         (0.310102, 1, 'Nitrogen') :     0 :   0.8220915786624962 :     1 : False : False :  Reals
+           (0.310102, 1, 'Oxygen') :     0 :  0.17790842133750379 :     1 : False : False :  Reals
+         (0.310102, 2, 'Nitrogen') :     0 :   0.8140926686005728 :     1 : False : False :  Reals
+           (0.310102, 2, 'Oxygen') :     0 :  0.18590733139942714 :     1 : False : False :  Reals
+         (0.310102, 3, 'Nitrogen') :     0 :   0.8154304726032671 :     1 : False : False :  Reals
+           (0.310102, 3, 'Oxygen') :     0 :  0.18456952739673282 :     1 : False : False :  Reals
+         (0.310102, 4, 'Nitrogen') :     0 :   0.8208927693833488 :     1 : False : False :  Reals
+           (0.310102, 4, 'Oxygen') :     0 :  0.17910723061665126 :     1 : False : False :  Reals
+         (0.310102, 5, 'Nitrogen') :     0 :   0.8290015457635157 :     1 : False : False :  Reals
+           (0.310102, 5, 'Oxygen') :     0 :  0.17099845423648435 :     1 : False : False :  Reals
+         (0.310102, 6, 'Nitrogen') :     0 :   0.8396958088287061 :     1 : False : False :  Reals
+           (0.310102, 6, 'Oxygen') :     0 :  0.16030419117129388 :     1 : False : False :  Reals
+         (0.310102, 7, 'Nitrogen') :     0 :   0.8539241119625488 :     1 : False : False :  Reals
+           (0.310102, 7, 'Oxygen') :     0 :  0.14607588803745125 :     1 : False : False :  Reals
+         (0.310102, 8, 'Nitrogen') :     0 :   0.8735295777089532 :     1 : False : False :  Reals
+           (0.310102, 8, 'Oxygen') :     0 :   0.1264704222910468 :     1 : False : False :  Reals
+         (0.310102, 9, 'Nitrogen') :     0 :   0.9009109873988589 :     1 : False : False :  Reals
+           (0.310102, 9, 'Oxygen') :     0 :  0.09908901260114111 :     1 : False : False :  Reals
+        (0.310102, 10, 'Nitrogen') :     0 :    0.937838499706874 :     1 : False : False :  Reals
+          (0.310102, 10, 'Oxygen') :     0 : 0.062161500293125935 :     1 : False : False :  Reals
+         (1.289898, 1, 'Nitrogen') :     0 :   0.8264881340915823 :     1 : False : False :  Reals
+           (1.289898, 1, 'Oxygen') :     0 :  0.17351186590841766 :     1 : False : False :  Reals
+         (1.289898, 2, 'Nitrogen') :     0 :    0.831107594304615 :     1 : False : False :  Reals
+           (1.289898, 2, 'Oxygen') :     0 :    0.168892405695385 :     1 : False : False :  Reals
+         (1.289898, 3, 'Nitrogen') :     0 :   0.8352750777117052 :     1 : False : False :  Reals
+           (1.289898, 3, 'Oxygen') :     0 :   0.1647249222882949 :     1 : False : False :  Reals
+         (1.289898, 4, 'Nitrogen') :     0 :   0.8404489836229425 :     1 : False : False :  Reals
+           (1.289898, 4, 'Oxygen') :     0 :  0.15955101637705754 :     1 : False : False :  Reals
+         (1.289898, 5, 'Nitrogen') :     0 :   0.8478541033506625 :     1 : False : False :  Reals
+           (1.289898, 5, 'Oxygen') :     0 :  0.15214589664933756 :     1 : False : False :  Reals
+         (1.289898, 6, 'Nitrogen') :     0 :    0.858798115204246 :     1 : False : False :  Reals
+           (1.289898, 6, 'Oxygen') :     0 :  0.14120188479575405 :     1 : False : False :  Reals
+         (1.289898, 7, 'Nitrogen') :     0 :   0.8745355857482029 :     1 : False : False :  Reals
+           (1.289898, 7, 'Oxygen') :     0 :  0.12546441425179708 :     1 : False : False :  Reals
+         (1.289898, 8, 'Nitrogen') :     0 :   0.8959398160220245 :     1 : False : False :  Reals
+           (1.289898, 8, 'Oxygen') :     0 :  0.10406018397797556 :     1 : False : False :  Reals
+         (1.289898, 9, 'Nitrogen') :     0 :   0.9231022611101759 :     1 : False : False :  Reals
+           (1.289898, 9, 'Oxygen') :     0 :  0.07689773888982407 :     1 : False : False :  Reals
+        (1.289898, 10, 'Nitrogen') :     0 :   0.9551126745691022 :     1 : False : False :  Reals
+          (1.289898, 10, 'Oxygen') :     0 :  0.04488732543089778 :     1 : False : False :  Reals
+                (2, 1, 'Nitrogen') :     0 :   0.8269391188047609 :     1 : False : False :  Reals
+                  (2, 1, 'Oxygen') :     0 :  0.17306088119523919 :     1 : False : False :  Reals
+                (2, 2, 'Nitrogen') :     0 :   0.8264106102017473 :     1 : False : False :  Reals
+                  (2, 2, 'Oxygen') :     0 :   0.1735893897982526 :     1 : False : False :  Reals
+                (2, 3, 'Nitrogen') :     0 :   0.8285708781811414 :     1 : False : False :  Reals
+                  (2, 3, 'Oxygen') :     0 :  0.17142912181885858 :     1 : False : False :  Reals
+                (2, 4, 'Nitrogen') :     0 :   0.8334779837530704 :     1 : False : False :  Reals
+                  (2, 4, 'Oxygen') :     0 :   0.1665220162469296 :     1 : False : False :  Reals
+                (2, 5, 'Nitrogen') :     0 :    0.841653982509136 :     1 : False : False :  Reals
+                  (2, 5, 'Oxygen') :     0 :  0.15834601749086402 :     1 : False : False :  Reals
+                (2, 6, 'Nitrogen') :     0 :   0.8536585256716017 :     1 : False : False :  Reals
+                  (2, 6, 'Oxygen') :     0 :   0.1463414743283982 :     1 : False : False :  Reals
+                (2, 7, 'Nitrogen') :     0 :   0.8700165525462987 :     1 : False : False :  Reals
+                  (2, 7, 'Oxygen') :     0 :  0.12998344745370144 :     1 : False : False :  Reals
+                (2, 8, 'Nitrogen') :     0 :   0.8912497671544704 :     1 : False : False :  Reals
+                  (2, 8, 'Oxygen') :     0 :  0.10875023284552963 :     1 : False : False :  Reals
+                (2, 9, 'Nitrogen') :     0 :   0.9179389756338525 :     1 : False : False :  Reals
+                  (2, 9, 'Oxygen') :     0 :  0.08206102436614753 :     1 : False : False :  Reals
+               (2, 10, 'Nitrogen') :     0 :   0.9505703396981732 :     1 : False : False :  Reals
+                 (2, 10, 'Oxygen') :     0 : 0.049429660301826855 :     1 : False : False :  Reals
+         (2.310102, 1, 'Nitrogen') :     0 :   0.8259263331101464 :     1 : False : False :  Reals
+           (2.310102, 1, 'Oxygen') :     0 :  0.17407366688985365 :     1 : False : False :  Reals
+         (2.310102, 2, 'Nitrogen') :     0 :   0.8270696978082652 :     1 : False : False :  Reals
+           (2.310102, 2, 'Oxygen') :     0 :  0.17293030219173483 :     1 : False : False :  Reals
+         (2.310102, 3, 'Nitrogen') :     0 :   0.8301334145706943 :     1 : False : False :  Reals
+           (2.310102, 3, 'Oxygen') :     0 :  0.16986658542930574 :     1 : False : False :  Reals
+         (2.310102, 4, 'Nitrogen') :     0 :   0.8353510429040765 :     1 : False : False :  Reals
+           (2.310102, 4, 'Oxygen') :     0 :  0.16464895709592342 :     1 : False : False :  Reals
+         (2.310102, 5, 'Nitrogen') :     0 :   0.8432114060132926 :     1 : False : False :  Reals
+           (2.310102, 5, 'Oxygen') :     0 :   0.1567885939867074 :     1 : False : False :  Reals
+         (2.310102, 6, 'Nitrogen') :     0 :   0.8544117169408297 :     1 : False : False :  Reals
+           (2.310102, 6, 'Oxygen') :     0 :   0.1455882830591703 :     1 : False : False :  Reals
+         (2.310102, 7, 'Nitrogen') :     0 :   0.8698723120926803 :     1 : False : False :  Reals
+           (2.310102, 7, 'Oxygen') :     0 :  0.13012768790731954 :     1 : False : False :  Reals
+         (2.310102, 8, 'Nitrogen') :     0 :   0.8906476302322617 :     1 : False : False :  Reals
+           (2.310102, 8, 'Oxygen') :     0 :  0.10935236976773835 :     1 : False : False :  Reals
+         (2.310102, 9, 'Nitrogen') :     0 :   0.9175913023051254 :     1 : False : False :  Reals
+           (2.310102, 9, 'Oxygen') :     0 :  0.08240869769487462 :     1 : False : False :  Reals
+        (2.310102, 10, 'Nitrogen') :     0 :   0.9507128514738514 :     1 : False : False :  Reals
+          (2.310102, 10, 'Oxygen') :     0 :  0.04928714852614861 :     1 : False : False :  Reals
+         (3.289898, 1, 'Nitrogen') :     0 :   0.8261228125426039 :     1 : False : False :  Reals
+           (3.289898, 1, 'Oxygen') :     0 :   0.1738771874573962 :     1 : False : False :  Reals
+         (3.289898, 2, 'Nitrogen') :     0 :   0.8281177758988789 :     1 : False : False :  Reals
+           (3.289898, 2, 'Oxygen') :     0 :   0.1718822241011212 :     1 : False : False :  Reals
+         (3.289898, 3, 'Nitrogen') :     0 :   0.8313147552130313 :     1 : False : False :  Reals
+           (3.289898, 3, 'Oxygen') :     0 :  0.16868524478696872 :     1 : False : False :  Reals
+         (3.289898, 4, 'Nitrogen') :     0 :   0.8362575821874684 :     1 : False : False :  Reals
+           (3.289898, 4, 'Oxygen') :     0 :   0.1637424178125317 :     1 : False : False :  Reals
+         (3.289898, 5, 'Nitrogen') :     0 :   0.8436960512741704 :     1 : False : False :  Reals
+           (3.289898, 5, 'Oxygen') :     0 :  0.15630394872582956 :     1 : False : False :  Reals
+         (3.289898, 6, 'Nitrogen') :     0 :   0.8546059662777662 :     1 : False : False :  Reals
+           (3.289898, 6, 'Oxygen') :     0 :  0.14539403372223397 :     1 : False : False :  Reals
+         (3.289898, 7, 'Nitrogen') :     0 :   0.8700978008667364 :     1 : False : False :  Reals
+           (3.289898, 7, 'Oxygen') :     0 :  0.12990219913326362 :     1 : False : False :  Reals
+         (3.289898, 8, 'Nitrogen') :     0 :   0.8911849823009861 :     1 : False : False :  Reals
+           (3.289898, 8, 'Oxygen') :     0 :  0.10881501769901404 :     1 : False : False :  Reals
+         (3.289898, 9, 'Nitrogen') :     0 :   0.9184129409154408 :     1 : False : False :  Reals
+           (3.289898, 9, 'Oxygen') :     0 :  0.08158705908455918 :     1 : False : False :  Reals
+        (3.289898, 10, 'Nitrogen') :     0 :   0.9514486180988094 :     1 : False : False :  Reals
+          (3.289898, 10, 'Oxygen') :     0 :  0.04855138190119052 :     1 : False : False :  Reals
+                (4, 1, 'Nitrogen') :     0 :   0.8261359783106447 :     1 : False : False :  Reals
+                  (4, 1, 'Oxygen') :     0 :   0.1738640216893554 :     1 : False : False :  Reals
+                (4, 2, 'Nitrogen') :     0 :   0.8276283586098818 :     1 : False : False :  Reals
+                  (4, 2, 'Oxygen') :     0 :  0.17237164139011815 :     1 : False : False :  Reals
+                (4, 3, 'Nitrogen') :     0 :   0.8305233122332232 :     1 : False : False :  Reals
+                  (4, 3, 'Oxygen') :     0 :  0.16947668776677688 :     1 : False : False :  Reals
+                (4, 4, 'Nitrogen') :     0 :   0.8353987721020113 :     1 : False : False :  Reals
+                  (4, 4, 'Oxygen') :     0 :  0.16460122789798876 :     1 : False : False :  Reals
+                (4, 5, 'Nitrogen') :     0 :   0.8430003923129958 :     1 : False : False :  Reals
+                  (4, 5, 'Oxygen') :     0 :  0.15699960768700424 :     1 : False : False :  Reals
+                (4, 6, 'Nitrogen') :     0 :   0.8541956170252079 :     1 : False : False :  Reals
+                  (4, 6, 'Oxygen') :     0 :  0.14580438297479215 :     1 : False : False :  Reals
+                (4, 7, 'Nitrogen') :     0 :   0.8699177343081014 :     1 : False : False :  Reals
+                  (4, 7, 'Oxygen') :     0 :  0.13008226569189862 :     1 : False : False :  Reals
+                (4, 8, 'Nitrogen') :     0 :   0.8910519322945696 :     1 : False : False :  Reals
+                  (4, 8, 'Oxygen') :     0 :  0.10894806770543043 :     1 : False : False :  Reals
+                (4, 9, 'Nitrogen') :     0 :   0.9181943066043606 :     1 : False : False :  Reals
+                  (4, 9, 'Oxygen') :     0 :  0.08180569339563942 :     1 : False : False :  Reals
+               (4, 10, 'Nitrogen') :     0 :   0.9512156052747393 :     1 : False : False :  Reals
+                 (4, 10, 'Oxygen') :     0 :  0.04878439472526068 :     1 : False : False :  Reals
+         (4.310102, 1, 'Nitrogen') :     0 :   0.8260403376237985 :     1 : False : False :  Reals
+           (4.310102, 1, 'Oxygen') :     0 :  0.17395966237620156 :     1 : False : False :  Reals
+         (4.310102, 2, 'Nitrogen') :     0 :   0.8276945013129726 :     1 : False : False :  Reals
+           (4.310102, 2, 'Oxygen') :     0 :  0.17230549868702738 :     1 : False : False :  Reals
+         (4.310102, 3, 'Nitrogen') :     0 :    0.830766190309886 :     1 : False : False :  Reals
+           (4.310102, 3, 'Oxygen') :     0 :  0.16923380969011403 :     1 : False : False :  Reals
+         (4.310102, 4, 'Nitrogen') :     0 :    0.835781022990484 :     1 : False : False :  Reals
+           (4.310102, 4, 'Oxygen') :     0 :  0.16421897700951602 :     1 : False : False :  Reals
+         (4.310102, 5, 'Nitrogen') :     0 :   0.8434266738639965 :     1 : False : False :  Reals
+           (4.310102, 5, 'Oxygen') :     0 :  0.15657332613600344 :     1 : False : False :  Reals
+         (4.310102, 6, 'Nitrogen') :     0 :   0.8545604793636681 :     1 : False : False :  Reals
+           (4.310102, 6, 'Oxygen') :     0 :  0.14543952063633195 :     1 : False : False :  Reals
+         (4.310102, 7, 'Nitrogen') :     0 :   0.8701719346114573 :     1 : False : False :  Reals
+           (4.310102, 7, 'Oxygen') :     0 :  0.12982806538854277 :     1 : False : False :  Reals
+         (4.310102, 8, 'Nitrogen') :     0 :   0.8912319805366871 :     1 : False : False :  Reals
+           (4.310102, 8, 'Oxygen') :     0 :  0.10876801946331294 :     1 : False : False :  Reals
+         (4.310102, 9, 'Nitrogen') :     0 :   0.9183652531944871 :     1 : False : False :  Reals
+           (4.310102, 9, 'Oxygen') :     0 :   0.0816347468055129 :     1 : False : False :  Reals
+        (4.310102, 10, 'Nitrogen') :     0 :   0.9513676224305915 :     1 : False : False :  Reals
+          (4.310102, 10, 'Oxygen') :     0 :  0.04863237756940858 :     1 : False : False :  Reals
+         (5.289898, 1, 'Nitrogen') :     0 :   0.8261183399624772 :     1 : False : False :  Reals
+           (5.289898, 1, 'Oxygen') :     0 :   0.1738816600375229 :     1 : False : False :  Reals
+         (5.289898, 2, 'Nitrogen') :     0 :   0.8279469668739579 :     1 : False : False :  Reals
+           (5.289898, 2, 'Oxygen') :     0 :  0.17205303312604212 :     1 : False : False :  Reals
+         (5.289898, 3, 'Nitrogen') :     0 :   0.8311289249031154 :     1 : False : False :  Reals
+           (5.289898, 3, 'Oxygen') :     0 :  0.16887107509688462 :     1 : False : False :  Reals
+         (5.289898, 4, 'Nitrogen') :     0 :   0.8361792017660885 :     1 : False : False :  Reals
+           (5.289898, 4, 'Oxygen') :     0 :   0.1638207982339115 :     1 : False : False :  Reals
+         (5.289898, 5, 'Nitrogen') :     0 :   0.8437994262803061 :     1 : False : False :  Reals
+           (5.289898, 5, 'Oxygen') :     0 :  0.15620057371969387 :     1 : False : False :  Reals
+         (5.289898, 6, 'Nitrogen') :     0 :   0.8548859710046101 :     1 : False : False :  Reals
+           (5.289898, 6, 'Oxygen') :     0 :  0.14511402899538992 :     1 : False : False :  Reals
+         (5.289898, 7, 'Nitrogen') :     0 :   0.8704673122779009 :     1 : False : False :  Reals
+           (5.289898, 7, 'Oxygen') :     0 :  0.12953268772209914 :     1 : False : False :  Reals
+         (5.289898, 8, 'Nitrogen') :     0 :   0.8915206126660687 :     1 : False : False :  Reals
+           (5.289898, 8, 'Oxygen') :     0 :  0.10847938733393124 :     1 : False : False :  Reals
+         (5.289898, 9, 'Nitrogen') :     0 :   0.9186348807264332 :     1 : False : False :  Reals
+           (5.289898, 9, 'Oxygen') :     0 :  0.08136511927356696 :     1 : False : False :  Reals
+        (5.289898, 10, 'Nitrogen') :     0 :   0.9515668711126238 :     1 : False : False :  Reals
+          (5.289898, 10, 'Oxygen') :     0 :  0.04843312888737625 :     1 : False : False :  Reals
+                (6, 1, 'Nitrogen') :     0 :   0.8261307380440293 :     1 : False : False :  Reals
+                  (6, 1, 'Oxygen') :     0 :   0.1738692619559708 :     1 : False : False :  Reals
+                (6, 2, 'Nitrogen') :     0 :   0.8279030418351071 :     1 : False : False :  Reals
+                  (6, 2, 'Oxygen') :     0 :   0.1720969581648929 :     1 : False : False :  Reals
+                (6, 3, 'Nitrogen') :     0 :   0.8310169076461249 :     1 : False : False :  Reals
+                  (6, 3, 'Oxygen') :     0 :  0.16898309235387507 :     1 : False : False :  Reals
+                (6, 4, 'Nitrogen') :     0 :   0.8360119926135661 :     1 : False : False :  Reals
+                  (6, 4, 'Oxygen') :     0 :  0.16398800738643396 :     1 : False : False :  Reals
+                (6, 5, 'Nitrogen') :     0 :   0.8436066233184211 :     1 : False : False :  Reals
+                  (6, 5, 'Oxygen') :     0 :   0.1563933766815789 :     1 : False : False :  Reals
+                (6, 6, 'Nitrogen') :     0 :   0.8546942367058074 :     1 : False : False :  Reals
+                  (6, 6, 'Oxygen') :     0 :   0.1453057632941926 :     1 : False : False :  Reals
+                (6, 7, 'Nitrogen') :     0 :    0.870285236502091 :     1 : False : False :  Reals
+                  (6, 7, 'Oxygen') :     0 :    0.129714763497909 :     1 : False : False :  Reals
+                (6, 8, 'Nitrogen') :     0 :   0.8913436685201852 :     1 : False : False :  Reals
+                  (6, 8, 'Oxygen') :     0 :   0.1086563314798148 :     1 : False : False :  Reals
+                (6, 9, 'Nitrogen') :     0 :   0.9184692135957716 :     1 : False : False :  Reals
+                  (6, 9, 'Oxygen') :     0 :  0.08153078640422848 :     1 : False : False :  Reals
+               (6, 10, 'Nitrogen') :     0 :   0.9514425171080731 :     1 : False : False :  Reals
+                 (6, 10, 'Oxygen') :     0 :  0.04855748289192693 :     1 : False : False :  Reals
+         (6.310102, 1, 'Nitrogen') :     0 :   0.8261048361427776 :     1 : False : False :  Reals
+           (6.310102, 1, 'Oxygen') :     0 :  0.17389516385722237 :     1 : False : False :  Reals
+         (6.310102, 2, 'Nitrogen') :     0 :   0.8278691851770593 :     1 : False : False :  Reals
+           (6.310102, 2, 'Oxygen') :     0 :  0.17213081482294068 :     1 : False : False :  Reals
+         (6.310102, 3, 'Nitrogen') :     0 :    0.830986603710514 :     1 : False : False :  Reals
+           (6.310102, 3, 'Oxygen') :     0 :  0.16901339628948592 :     1 : False : False :  Reals
+         (6.310102, 4, 'Nitrogen') :     0 :   0.8359883682336419 :     1 : False : False :  Reals
+           (6.310102, 4, 'Oxygen') :     0 :  0.16401163176635816 :     1 : False : False :  Reals
+         (6.310102, 5, 'Nitrogen') :     0 :   0.8435826361870257 :     1 : False : False :  Reals
+           (6.310102, 5, 'Oxygen') :     0 :   0.1564173638129742 :     1 : False : False :  Reals
+         (6.310102, 6, 'Nitrogen') :     0 :   0.8546598655804429 :     1 : False : False :  Reals
+           (6.310102, 6, 'Oxygen') :     0 :    0.145340134419557 :     1 : False : False :  Reals
+         (6.310102, 7, 'Nitrogen') :     0 :   0.8702384107082296 :     1 : False : False :  Reals
+           (6.310102, 7, 'Oxygen') :     0 :  0.12976158929177037 :     1 : False : False :  Reals
+         (6.310102, 8, 'Nitrogen') :     0 :   0.8912946146077507 :     1 : False : False :  Reals
+           (6.310102, 8, 'Oxygen') :     0 :  0.10870538539224919 :     1 : False : False :  Reals
+         (6.310102, 9, 'Nitrogen') :     0 :   0.9184313877514654 :     1 : False : False :  Reals
+           (6.310102, 9, 'Oxygen') :     0 :  0.08156861224853468 :     1 : False : False :  Reals
+        (6.310102, 10, 'Nitrogen') :     0 :   0.9514198113172139 :     1 : False : False :  Reals
+          (6.310102, 10, 'Oxygen') :     0 : 0.048580188682786116 :     1 : False : False :  Reals
+         (7.289898, 1, 'Nitrogen') :     0 :    0.826097909149337 :     1 : False : False :  Reals
+           (7.289898, 1, 'Oxygen') :     0 :  0.17390209085066302 :     1 : False : False :  Reals
+         (7.289898, 2, 'Nitrogen') :     0 :    0.827868264327034 :     1 : False : False :  Reals
+           (7.289898, 2, 'Oxygen') :     0 :  0.17213173567296594 :     1 : False : False :  Reals
+         (7.289898, 3, 'Nitrogen') :     0 :   0.8309955632632587 :     1 : False : False :  Reals
+           (7.289898, 3, 'Oxygen') :     0 :  0.16900443673674134 :     1 : False : False :  Reals
+         (7.289898, 4, 'Nitrogen') :     0 :   0.8360058613705178 :     1 : False : False :  Reals
+           (7.289898, 4, 'Oxygen') :     0 :  0.16399413862948217 :     1 : False : False :  Reals
+         (7.289898, 5, 'Nitrogen') :     0 :   0.8436055374117518 :     1 : False : False :  Reals
+           (7.289898, 5, 'Oxygen') :     0 :  0.15639446258824824 :     1 : False : False :  Reals
+         (7.289898, 6, 'Nitrogen') :     0 :   0.8546872913770974 :     1 : False : False :  Reals
+           (7.289898, 6, 'Oxygen') :     0 :  0.14531270862290266 :     1 : False : False :  Reals
+         (7.289898, 7, 'Nitrogen') :     0 :   0.8702722230399664 :     1 : False : False :  Reals
+           (7.289898, 7, 'Oxygen') :     0 :  0.12972777696003363 :     1 : False : False :  Reals
+         (7.289898, 8, 'Nitrogen') :     0 :    0.891335162723835 :     1 : False : False :  Reals
+           (7.289898, 8, 'Oxygen') :     0 :  0.10866483727616504 :     1 : False : False :  Reals
+         (7.289898, 9, 'Nitrogen') :     0 :   0.9184726836548677 :     1 : False : False :  Reals
+           (7.289898, 9, 'Oxygen') :     0 :  0.08152731634513241 :     1 : False : False :  Reals
+        (7.289898, 10, 'Nitrogen') :     0 :   0.9514510617136385 :     1 : False : False :  Reals
+          (7.289898, 10, 'Oxygen') :     0 : 0.048548938286361636 :     1 : False : False :  Reals
+                (8, 1, 'Nitrogen') :     0 :   0.8261058077822776 :     1 : False : False :  Reals
+                  (8, 1, 'Oxygen') :     0 :  0.17389419221772237 :     1 : False : False :  Reals
+                (8, 2, 'Nitrogen') :     0 :   0.8278820325335151 :     1 : False : False :  Reals
+                  (8, 2, 'Oxygen') :     0 :  0.17211796746648478 :     1 : False : False :  Reals
+                (8, 3, 'Nitrogen') :     0 :   0.8310134660724332 :     1 : False : False :  Reals
+                  (8, 3, 'Oxygen') :     0 :  0.16898653392756685 :     1 : False : False :  Reals
+                (8, 4, 'Nitrogen') :     0 :   0.8360285409090941 :     1 : False : False :  Reals
+                  (8, 4, 'Oxygen') :     0 :  0.16397145909090602 :     1 : False : False :  Reals
+                (8, 5, 'Nitrogen') :     0 :    0.843635116929963 :     1 : False : False :  Reals
+                  (8, 5, 'Oxygen') :     0 :  0.15636488307003715 :     1 : False : False :  Reals
+                (8, 6, 'Nitrogen') :     0 :   0.8547244415153123 :     1 : False : False :  Reals
+                  (8, 6, 'Oxygen') :     0 :  0.14527555848468773 :     1 : False : False :  Reals
+                (8, 7, 'Nitrogen') :     0 :   0.8703137361597246 :     1 : False : False :  Reals
+                  (8, 7, 'Oxygen') :     0 :  0.12968626384027546 :     1 : False : False :  Reals
+                (8, 8, 'Nitrogen') :     0 :   0.8913746829391607 :     1 : False : False :  Reals
+                  (8, 8, 'Oxygen') :     0 :   0.1086253170608394 :     1 : False : False :  Reals
+                (8, 9, 'Nitrogen') :     0 :   0.9185043744723181 :     1 : False : False :  Reals
+                  (8, 9, 'Oxygen') :     0 :  0.08149562552768186 :     1 : False : False :  Reals
+               (8, 10, 'Nitrogen') :     0 :   0.9514721208549728 :     1 : False : False :  Reals
+                 (8, 10, 'Oxygen') :     0 :  0.04852787914502717 :     1 : False : False :  Reals
+         (8.310102, 1, 'Nitrogen') :     0 :   0.8261053896125646 :     1 : False : False :  Reals
+           (8.310102, 1, 'Oxygen') :     0 :  0.17389461038743526 :     1 : False : False :  Reals
+         (8.310102, 2, 'Nitrogen') :     0 :   0.8278827368640849 :     1 : False : False :  Reals
+           (8.310102, 2, 'Oxygen') :     0 :  0.17211726313591516 :     1 : False : False :  Reals
+         (8.310102, 3, 'Nitrogen') :     0 :   0.8310159835888645 :     1 : False : False :  Reals
+           (8.310102, 3, 'Oxygen') :     0 :  0.16898401641113547 :     1 : False : False :  Reals
+         (8.310102, 4, 'Nitrogen') :     0 :   0.8360324076111143 :     1 : False : False :  Reals
+           (8.310102, 4, 'Oxygen') :     0 :  0.16396759238888578 :     1 : False : False :  Reals
+         (8.310102, 5, 'Nitrogen') :     0 :   0.8436384575848909 :     1 : False : False :  Reals
+           (8.310102, 5, 'Oxygen') :     0 :   0.1563615424151092 :     1 : False : False :  Reals
+         (8.310102, 6, 'Nitrogen') :     0 :   0.8547251052614299 :     1 : False : False :  Reals
+           (8.310102, 6, 'Oxygen') :     0 :   0.1452748947385702 :     1 : False : False :  Reals
+         (8.310102, 7, 'Nitrogen') :     0 :   0.8703110197586446 :     1 : False : False :  Reals
+           (8.310102, 7, 'Oxygen') :     0 :  0.12968898024135553 :     1 : False : False :  Reals
+         (8.310102, 8, 'Nitrogen') :     0 :   0.8913699864468595 :     1 : False : False :  Reals
+           (8.310102, 8, 'Oxygen') :     0 :   0.1086300135531405 :     1 : False : False :  Reals
+         (8.310102, 9, 'Nitrogen') :     0 :   0.9184998967537249 :     1 : False : False :  Reals
+           (8.310102, 9, 'Oxygen') :     0 :  0.08150010324627519 :     1 : False : False :  Reals
+        (8.310102, 10, 'Nitrogen') :     0 :   0.9514690852674931 :     1 : False : False :  Reals
+          (8.310102, 10, 'Oxygen') :     0 : 0.048530914732506994 :     1 : False : False :  Reals
+         (9.289898, 1, 'Nitrogen') :     0 :   0.8261050711294642 :     1 : False : False :  Reals
+           (9.289898, 1, 'Oxygen') :     0 :   0.1738949288705359 :     1 : False : False :  Reals
+         (9.289898, 2, 'Nitrogen') :     0 :   0.8278817405080627 :     1 : False : False :  Reals
+           (9.289898, 2, 'Oxygen') :     0 :  0.17211825949193726 :     1 : False : False :  Reals
+         (9.289898, 3, 'Nitrogen') :     0 :   0.8310132771859354 :     1 : False : False :  Reals
+           (9.289898, 3, 'Oxygen') :     0 :  0.16898672281406468 :     1 : False : False :  Reals
+         (9.289898, 4, 'Nitrogen') :     0 :   0.8360266730255241 :     1 : False : False :  Reals
+           (9.289898, 4, 'Oxygen') :     0 :  0.16397332697447595 :     1 : False : False :  Reals
+         (9.289898, 5, 'Nitrogen') :     0 :   0.8436287427274205 :     1 : False : False :  Reals
+           (9.289898, 5, 'Oxygen') :     0 :  0.15637125727257958 :     1 : False : False :  Reals
+         (9.289898, 6, 'Nitrogen') :     0 :   0.8547116076407987 :     1 : False : False :  Reals
+           (9.289898, 6, 'Oxygen') :     0 :   0.1452883923592013 :     1 : False : False :  Reals
+         (9.289898, 7, 'Nitrogen') :     0 :    0.870295331143112 :     1 : False : False :  Reals
+           (9.289898, 7, 'Oxygen') :     0 :  0.12970466885688794 :     1 : False : False :  Reals
+         (9.289898, 8, 'Nitrogen') :     0 :   0.8913544981923716 :     1 : False : False :  Reals
+           (9.289898, 8, 'Oxygen') :     0 :  0.10864550180762851 :     1 : False : False :  Reals
+         (9.289898, 9, 'Nitrogen') :     0 :   0.9184868449254464 :     1 : False : False :  Reals
+           (9.289898, 9, 'Oxygen') :     0 :  0.08151315507455353 :     1 : False : False :  Reals
+        (9.289898, 10, 'Nitrogen') :     0 :   0.9514600772749727 :     1 : False : False :  Reals
+          (9.289898, 10, 'Oxygen') :     0 :  0.04853992272502723 :     1 : False : False :  Reals
+               (10, 1, 'Nitrogen') :     0 :    0.826103924009329 :     1 : False : False :  Reals
+                 (10, 1, 'Oxygen') :     0 :  0.17389607599067097 :     1 : False : False :  Reals
+               (10, 2, 'Nitrogen') :     0 :   0.8278784231681294 :     1 : False : False :  Reals
+                 (10, 2, 'Oxygen') :     0 :   0.1721215768318706 :     1 : False : False :  Reals
+               (10, 3, 'Nitrogen') :     0 :   0.8310077777601151 :     1 : False : False :  Reals
+                 (10, 3, 'Oxygen') :     0 :  0.16899222223988486 :     1 : False : False :  Reals
+               (10, 4, 'Nitrogen') :     0 :   0.8360195788333014 :     1 : False : False :  Reals
+                 (10, 4, 'Oxygen') :     0 :   0.1639804211666987 :     1 : False : False :  Reals
+               (10, 5, 'Nitrogen') :     0 :   0.8436210875232215 :     1 : False : False :  Reals
+                 (10, 5, 'Oxygen') :     0 :  0.15637891247677854 :     1 : False : False :  Reals
+               (10, 6, 'Nitrogen') :     0 :   0.8547043876591086 :     1 : False : False :  Reals
+                 (10, 6, 'Oxygen') :     0 :  0.14529561234089136 :     1 : False : False :  Reals
+               (10, 7, 'Nitrogen') :     0 :   0.8702890691010511 :     1 : False : False :  Reals
+                 (10, 7, 'Oxygen') :     0 :  0.12971093089894883 :     1 : False : False :  Reals
+               (10, 8, 'Nitrogen') :     0 :   0.8913492545163485 :     1 : False : False :  Reals
+                 (10, 8, 'Oxygen') :     0 :  0.10865074548365145 :     1 : False : False :  Reals
+               (10, 9, 'Nitrogen') :     0 :   0.9184826401792588 :     1 : False : False :  Reals
+                 (10, 9, 'Oxygen') :     0 :  0.08151735982074107 :     1 : False : False :  Reals
+              (10, 10, 'Nitrogen') :     0 :   0.9514571816250811 :     1 : False : False :  Reals
+                (10, 10, 'Oxygen') :     0 :  0.04854281837491889 :     1 : False : False :  Reals
+                (0, 1, 'Nitrogen') :     0 :  0.6666446841875335 :     1 : False : False :  Reals
+                  (0, 1, 'Oxygen') :     0 : 0.33335531581246647 :     1 : False : False :  Reals
+                (0, 2, 'Nitrogen') :     0 :  0.6109122568946485 :     1 : False : False :  Reals
+                  (0, 2, 'Oxygen') :     0 :  0.3890877431053517 :     1 : False : False :  Reals
+                (0, 3, 'Nitrogen') :     0 :  0.5995566004407942 :     1 : False : False :  Reals
+                  (0, 3, 'Oxygen') :     0 :  0.4004433995592059 :     1 : False : False :  Reals
+                (0, 4, 'Nitrogen') :     0 :  0.6040333651570848 :     1 : False : False :  Reals
+                  (0, 4, 'Oxygen') :     0 :  0.3959666348429153 :     1 : False : False :  Reals
+                (0, 5, 'Nitrogen') :     0 :  0.6177716124535999 :     1 : False : False :  Reals
+                  (0, 5, 'Oxygen') :     0 :  0.3822283875464001 :     1 : False : False :  Reals
+                (0, 6, 'Nitrogen') :     0 :    0.63889559963652 :     1 : False : False :  Reals
+                  (0, 6, 'Oxygen') :     0 :    0.36110440036348 :     1 : False : False :  Reals
+                (0, 7, 'Nitrogen') :     0 :  0.6675441537106029 :     1 : False : False :  Reals
+                  (0, 7, 'Oxygen') :     0 :   0.332455846289397 :     1 : False : False :  Reals
+                (0, 8, 'Nitrogen') :     0 :  0.7051100611784067 :     1 : False : False :  Reals
+                  (0, 8, 'Oxygen') :     0 : 0.29488993882159326 :     1 : False : False :  Reals
+                (0, 9, 'Nitrogen') :     0 :  0.7539259737243817 :     1 : False : False :  Reals
+                  (0, 9, 'Oxygen') :     0 : 0.24607402627561822 :     1 : False : False :  Reals
+               (0, 10, 'Nitrogen') :     0 :  0.8173570567510694 :     1 : False : False :  Reals
+                 (0, 10, 'Oxygen') :     0 : 0.18264294324893066 :     1 : False : False :  Reals
+         (0.310102, 1, 'Nitrogen') :     0 :  0.6424640057177724 :     1 : False : False :  Reals
+           (0.310102, 1, 'Oxygen') :     0 : 0.35753599428222765 :     1 : False : False :  Reals
+         (0.310102, 2, 'Nitrogen') :     0 :  0.6290657999130114 :     1 : False : False :  Reals
+           (0.310102, 2, 'Oxygen') :     0 : 0.37093420008698863 :     1 : False : False :  Reals
+         (0.310102, 3, 'Nitrogen') :     0 :  0.6301511701950128 :     1 : False : False :  Reals
+           (0.310102, 3, 'Oxygen') :     0 : 0.36984882980498734 :     1 : False : False :  Reals
+         (0.310102, 4, 'Nitrogen') :     0 :  0.6376837910215113 :     1 : False : False :  Reals
+           (0.310102, 4, 'Oxygen') :     0 :  0.3623162089784887 :     1 : False : False :  Reals
+         (0.310102, 5, 'Nitrogen') :     0 :  0.6495463678397028 :     1 : False : False :  Reals
+           (0.310102, 5, 'Oxygen') :     0 : 0.35045363216029723 :     1 : False : False :  Reals
+         (0.310102, 6, 'Nitrogen') :     0 :  0.6658632342103666 :     1 : False : False :  Reals
+           (0.310102, 6, 'Oxygen') :     0 : 0.33413676578963336 :     1 : False : False :  Reals
+         (0.310102, 7, 'Nitrogen') :     0 :  0.6885201044553558 :     1 : False : False :  Reals
+           (0.310102, 7, 'Oxygen') :     0 : 0.31147989554464417 :     1 : False : False :  Reals
+         (0.310102, 8, 'Nitrogen') :     0 :   0.721316344981217 :     1 : False : False :  Reals
+           (0.310102, 8, 'Oxygen') :     0 : 0.27868365501878306 :     1 : False : False :  Reals
+         (0.310102, 9, 'Nitrogen') :     0 :  0.7700423793476084 :     1 : False : False :  Reals
+           (0.310102, 9, 'Oxygen') :     0 :  0.2299576206523915 :     1 : False : False :  Reals
+        (0.310102, 10, 'Nitrogen') :     0 :  0.8413252248904153 :     1 : False : False :  Reals
+          (0.310102, 10, 'Oxygen') :     0 : 0.15867477510958475 :     1 : False : False :  Reals
+         (1.289898, 1, 'Nitrogen') :     0 :  0.6493421519443473 :     1 : False : False :  Reals
+           (1.289898, 1, 'Oxygen') :     0 : 0.35065784805565275 :     1 : False : False :  Reals
+         (1.289898, 2, 'Nitrogen') :     0 :  0.6555596197269724 :     1 : False : False :  Reals
+           (1.289898, 2, 'Oxygen') :     0 : 0.34444038027302754 :     1 : False : False :  Reals
+         (1.289898, 3, 'Nitrogen') :     0 :  0.6612091124743933 :     1 : False : False :  Reals
+           (1.289898, 3, 'Oxygen') :     0 : 0.33879088752560677 :     1 : False : False :  Reals
+         (1.289898, 4, 'Nitrogen') :     0 :  0.6686263361919393 :     1 : False : False :  Reals
+           (1.289898, 4, 'Oxygen') :     0 :  0.3313736638080606 :     1 : False : False :  Reals
+         (1.289898, 5, 'Nitrogen') :     0 :  0.6798741539113364 :     1 : False : False :  Reals
+           (1.289898, 5, 'Oxygen') :     0 :  0.3201258460886635 :     1 : False : False :  Reals
+         (1.289898, 6, 'Nitrogen') :     0 :  0.6973321053494039 :     1 : False : False :  Reals
+           (1.289898, 6, 'Oxygen') :     0 :  0.3026678946505961 :     1 : False : False :  Reals
+         (1.289898, 7, 'Nitrogen') :     0 :  0.7236386984174469 :     1 : False : False :  Reals
+           (1.289898, 7, 'Oxygen') :     0 : 0.27636130158255306 :     1 : False : False :  Reals
+         (1.289898, 8, 'Nitrogen') :     0 :  0.7613433743635538 :     1 : False : False :  Reals
+           (1.289898, 8, 'Oxygen') :     0 :  0.2386566256364461 :     1 : False : False :  Reals
+         (1.289898, 9, 'Nitrogen') :     0 :  0.8123111141755873 :     1 : False : False :  Reals
+           (1.289898, 9, 'Oxygen') :     0 : 0.18768888582441273 :     1 : False : False :  Reals
+        (1.289898, 10, 'Nitrogen') :     0 :  0.8771068036271539 :     1 : False : False :  Reals
+          (1.289898, 10, 'Oxygen') :     0 : 0.12289319637284615 :     1 : False : False :  Reals
+                (2, 1, 'Nitrogen') :     0 :  0.6500514111742407 :     1 : False : False :  Reals
+                  (2, 1, 'Oxygen') :     0 : 0.34994858882575947 :     1 : False : False :  Reals
+                (2, 2, 'Nitrogen') :     0 :  0.6481477589637281 :     1 : False : False :  Reals
+                  (2, 2, 'Oxygen') :     0 : 0.35185224103627205 :     1 : False : False :  Reals
+                (2, 3, 'Nitrogen') :     0 :  0.6505658023661823 :     1 : False : False :  Reals
+                  (2, 3, 'Oxygen') :     0 : 0.34943419763381756 :     1 : False : False :  Reals
+                (2, 4, 'Nitrogen') :     0 :  0.6574438384793998 :     1 : False : False :  Reals
+                  (2, 4, 'Oxygen') :     0 :  0.3425561615206002 :     1 : False : False :  Reals
+                (2, 5, 'Nitrogen') :     0 :   0.669760125550879 :     1 : False : False :  Reals
+                  (2, 5, 'Oxygen') :     0 :   0.330239874449121 :     1 : False : False :  Reals
+                (2, 6, 'Nitrogen') :     0 :  0.6887325576091397 :     1 : False : False :  Reals
+                  (2, 6, 'Oxygen') :     0 : 0.31126744239086035 :     1 : False : False :  Reals
+                (2, 7, 'Nitrogen') :     0 :  0.7157978487283955 :     1 : False : False :  Reals
+                  (2, 7, 'Oxygen') :     0 : 0.28420215127160453 :     1 : False : False :  Reals
+                (2, 8, 'Nitrogen') :     0 :   0.752794051205577 :     1 : False : False :  Reals
+                  (2, 8, 'Oxygen') :     0 :  0.2472059487944231 :     1 : False : False :  Reals
+                (2, 9, 'Nitrogen') :     0 :  0.8022770021062264 :     1 : False : False :  Reals
+                  (2, 9, 'Oxygen') :     0 :  0.1977229978937736 :     1 : False : False :  Reals
+               (2, 10, 'Nitrogen') :     0 :    0.86755062380201 :     1 : False : False :  Reals
+                 (2, 10, 'Oxygen') :     0 : 0.13244937619799002 :     1 : False : False :  Reals
+         (2.310102, 1, 'Nitrogen') :     0 :   0.648459584952491 :     1 : False : False :  Reals
+           (2.310102, 1, 'Oxygen') :     0 : 0.35154041504750905 :     1 : False : False :  Reals
+         (2.310102, 2, 'Nitrogen') :     0 :  0.6491832286317236 :     1 : False : False :  Reals
+           (2.310102, 2, 'Oxygen') :     0 : 0.35081677136827644 :     1 : False : False :  Reals
+         (2.310102, 3, 'Nitrogen') :     0 :  0.6530324709625044 :     1 : False : False :  Reals
+           (2.310102, 3, 'Oxygen') :     0 :  0.3469675290374955 :     1 : False : False :  Reals
+         (2.310102, 4, 'Nitrogen') :     0 :  0.6604316442062761 :     1 : False : False :  Reals
+           (2.310102, 4, 'Oxygen') :     0 :   0.339568355793724 :     1 : False : False :  Reals
+         (2.310102, 5, 'Nitrogen') :     0 :  0.6722876111985766 :     1 : False : False :  Reals
+           (2.310102, 5, 'Oxygen') :     0 :  0.3277123888014234 :     1 : False : False :  Reals
+         (2.310102, 6, 'Nitrogen') :     0 :  0.6899865994920323 :     1 : False : False :  Reals
+           (2.310102, 6, 'Oxygen') :     0 :  0.3100134005079678 :     1 : False : False :  Reals
+         (2.310102, 7, 'Nitrogen') :     0 :  0.7155489075750362 :     1 : False : False :  Reals
+           (2.310102, 7, 'Oxygen') :     0 :  0.2844510924249638 :     1 : False : False :  Reals
+         (2.310102, 8, 'Nitrogen') :     0 :  0.7517031645529454 :     1 : False : False :  Reals
+           (2.310102, 8, 'Oxygen') :     0 : 0.24829683544705464 :     1 : False : False :  Reals
+         (2.310102, 9, 'Nitrogen') :     0 :  0.8016057707514169 :     1 : False : False :  Reals
+           (2.310102, 9, 'Oxygen') :     0 : 0.19839422924858313 :     1 : False : False :  Reals
+        (2.310102, 10, 'Nitrogen') :     0 :  0.8678488211496715 :     1 : False : False :  Reals
+          (2.310102, 10, 'Oxygen') :     0 :  0.1321511788503284 :     1 : False : False :  Reals
+         (3.289898, 1, 'Nitrogen') :     0 :  0.6487681238127189 :     1 : False : False :  Reals
+           (3.289898, 1, 'Oxygen') :     0 :  0.3512318761872812 :     1 : False : False :  Reals
+         (3.289898, 2, 'Nitrogen') :     0 :  0.6508328937786662 :     1 : False : False :  Reals
+           (3.289898, 2, 'Oxygen') :     0 : 0.34916710622133385 :     1 : False : False :  Reals
+         (3.289898, 3, 'Nitrogen') :     0 :  0.6549029790486229 :     1 : False : False :  Reals
+           (3.289898, 3, 'Oxygen') :     0 :   0.345097020951377 :     1 : False : False :  Reals
+         (3.289898, 4, 'Nitrogen') :     0 :   0.661882137736144 :     1 : False : False :  Reals
+           (3.289898, 4, 'Oxygen') :     0 :  0.3381178622638559 :     1 : False : False :  Reals
+         (3.289898, 5, 'Nitrogen') :     0 :  0.6730759075998983 :     1 : False : False :  Reals
+           (3.289898, 5, 'Oxygen') :     0 : 0.32692409240010173 :     1 : False : False :  Reals
+         (3.289898, 6, 'Nitrogen') :     0 :   0.690310362787494 :     1 : False : False :  Reals
+           (3.289898, 6, 'Oxygen') :     0 : 0.30968963721250586 :     1 : False : False :  Reals
+         (3.289898, 7, 'Nitrogen') :     0 :  0.7159381092321034 :     1 : False : False :  Reals
+           (3.289898, 7, 'Oxygen') :     0 :  0.2840618907678967 :     1 : False : False :  Reals
+         (3.289898, 8, 'Nitrogen') :     0 :  0.7526766078725534 :     1 : False : False :  Reals
+           (3.289898, 8, 'Oxygen') :     0 : 0.24732339212744667 :     1 : False : False :  Reals
+         (3.289898, 9, 'Nitrogen') :     0 :  0.8031929518286295 :     1 : False : False :  Reals
+           (3.289898, 9, 'Oxygen') :     0 : 0.19680704817137054 :     1 : False : False :  Reals
+        (3.289898, 10, 'Nitrogen') :     0 :  0.8693900307556278 :     1 : False : False :  Reals
+          (3.289898, 10, 'Oxygen') :     0 : 0.13060996924437215 :     1 : False : False :  Reals
+                (4, 1, 'Nitrogen') :     0 :   0.648788803210708 :     1 : False : False :  Reals
+                  (4, 1, 'Oxygen') :     0 :  0.3512111967892921 :     1 : False : False :  Reals
+                (4, 2, 'Nitrogen') :     0 :  0.6500620864608125 :     1 : False : False :  Reals
+                  (4, 2, 'Oxygen') :     0 :  0.3499379135391874 :     1 : False : False :  Reals
+                (4, 3, 'Nitrogen') :     0 :  0.6536492913473161 :     1 : False : False :  Reals
+                  (4, 3, 'Oxygen') :     0 :  0.3463507086526839 :     1 : False : False :  Reals
+                (4, 4, 'Nitrogen') :     0 :   0.660507940348185 :     1 : False : False :  Reals
+                  (4, 4, 'Oxygen') :     0 : 0.33949205965181495 :     1 : False : False :  Reals
+                (4, 5, 'Nitrogen') :     0 :  0.6719446531786286 :     1 : False : False :  Reals
+                  (4, 5, 'Oxygen') :     0 :  0.3280553468213713 :     1 : False : False :  Reals
+                (4, 6, 'Nitrogen') :     0 :  0.6896265826463569 :     1 : False : False :  Reals
+                  (4, 6, 'Oxygen') :     0 :   0.310373417353643 :     1 : False : False :  Reals
+                (4, 7, 'Nitrogen') :     0 :  0.7156272918809804 :     1 : False : False :  Reals
+                  (4, 7, 'Oxygen') :     0 :  0.2843727081190196 :     1 : False : False :  Reals
+                (4, 8, 'Nitrogen') :     0 :  0.7524354673656126 :     1 : False : False :  Reals
+                  (4, 8, 'Oxygen') :     0 : 0.24756453263438744 :     1 : False : False :  Reals
+                (4, 9, 'Nitrogen') :     0 :   0.802770307289401 :     1 : False : False :  Reals
+                  (4, 9, 'Oxygen') :     0 :  0.1972296927105989 :     1 : False : False :  Reals
+               (4, 10, 'Nitrogen') :     0 :  0.8689016375036002 :     1 : False : False :  Reals
+                 (4, 10, 'Oxygen') :     0 : 0.13109836249639978 :     1 : False : False :  Reals
+         (4.310102, 1, 'Nitrogen') :     0 :  0.6486385943807711 :     1 : False : False :  Reals
+           (4.310102, 1, 'Oxygen') :     0 :  0.3513614056192289 :     1 : False : False :  Reals
+         (4.310102, 2, 'Nitrogen') :     0 :    0.65016620979321 :     1 : False : False :  Reals
+           (4.310102, 2, 'Oxygen') :     0 : 0.34983379020679006 :     1 : False : False :  Reals
+         (4.310102, 3, 'Nitrogen') :     0 :  0.6540337920847322 :     1 : False : False :  Reals
+           (4.310102, 3, 'Oxygen') :     0 : 0.34596620791526783 :     1 : False : False :  Reals
+         (4.310102, 4, 'Nitrogen') :     0 :  0.6611192658844333 :     1 : False : False :  Reals
+           (4.310102, 4, 'Oxygen') :     0 :  0.3388807341155668 :     1 : False : False :  Reals
+         (4.310102, 5, 'Nitrogen') :     0 :  0.6726376489638203 :     1 : False : False :  Reals
+           (4.310102, 5, 'Oxygen') :     0 : 0.32736235103617967 :     1 : False : False :  Reals
+         (4.310102, 6, 'Nitrogen') :     0 :  0.6902345352429742 :     1 : False : False :  Reals
+           (4.310102, 6, 'Oxygen') :     0 : 0.30976546475702577 :     1 : False : False :  Reals
+         (4.310102, 7, 'Nitrogen') :     0 :  0.7160661103317654 :     1 : False : False :  Reals
+           (4.310102, 7, 'Oxygen') :     0 : 0.28393388966823463 :     1 : False : False :  Reals
+         (4.310102, 8, 'Nitrogen') :     0 :  0.7527618054969168 :     1 : False : False :  Reals
+           (4.310102, 8, 'Oxygen') :     0 : 0.24723819450308332 :     1 : False : False :  Reals
+         (4.310102, 9, 'Nitrogen') :     0 :  0.8031007473966943 :     1 : False : False :  Reals
+           (4.310102, 9, 'Oxygen') :     0 :  0.1968992526033058 :     1 : False : False :  Reals
+        (4.310102, 10, 'Nitrogen') :     0 :  0.8692202326857601 :     1 : False : False :  Reals
+          (4.310102, 10, 'Oxygen') :     0 :  0.1307797673142399 :     1 : False : False :  Reals
+         (5.289898, 1, 'Nitrogen') :     0 :  0.6487610988908444 :     1 : False : False :  Reals
+           (5.289898, 1, 'Oxygen') :     0 :  0.3512389011091556 :     1 : False : False :  Reals
+         (5.289898, 2, 'Nitrogen') :     0 :  0.6505637848185272 :     1 : False : False :  Reals
+           (5.289898, 2, 'Oxygen') :     0 :  0.3494362151814729 :     1 : False : False :  Reals
+         (5.289898, 3, 'Nitrogen') :     0 :   0.654608418754769 :     1 : False : False :  Reals
+           (5.289898, 3, 'Oxygen') :     0 : 0.34539158124523095 :     1 : False : False :  Reals
+         (5.289898, 4, 'Nitrogen') :     0 :   0.661756612005581 :     1 : False : False :  Reals
+           (5.289898, 4, 'Oxygen') :     0 :   0.338243387994419 :     1 : False : False :  Reals
+         (5.289898, 5, 'Nitrogen') :     0 :  0.6732441612630412 :     1 : False : False :  Reals
+           (5.289898, 5, 'Oxygen') :     0 :  0.3267558387369588 :     1 : False : False :  Reals
+         (5.289898, 6, 'Nitrogen') :     0 :  0.6907773063965831 :     1 : False : False :  Reals
+           (5.289898, 6, 'Oxygen') :     0 :  0.3092226936034169 :     1 : False : False :  Reals
+         (5.289898, 7, 'Nitrogen') :     0 :  0.7165763309305808 :     1 : False : False :  Reals
+           (5.289898, 7, 'Oxygen') :     0 :  0.2834236690694191 :     1 : False : False :  Reals
+         (5.289898, 8, 'Nitrogen') :     0 :   0.753285236733355 :     1 : False : False :  Reals
+           (5.289898, 8, 'Oxygen') :     0 : 0.24671476326664507 :     1 : False : False :  Reals
+         (5.289898, 9, 'Nitrogen') :     0 :  0.8036222111348215 :     1 : False : False :  Reals
+           (5.289898, 9, 'Oxygen') :     0 :  0.1963777888651785 :     1 : False : False :  Reals
+        (5.289898, 10, 'Nitrogen') :     0 :  0.8696379952642971 :     1 : False : False :  Reals
+          (5.289898, 10, 'Oxygen') :     0 :   0.130362004735703 :     1 : False : False :  Reals
+                (6, 1, 'Nitrogen') :     0 :  0.6487805722824639 :     1 : False : False :  Reals
+                  (6, 1, 'Oxygen') :     0 : 0.35121942771753606 :     1 : False : False :  Reals
+                (6, 2, 'Nitrogen') :     0 :  0.6504945972883633 :     1 : False : False :  Reals
+                  (6, 2, 'Oxygen') :     0 : 0.34950540271163666 :     1 : False : False :  Reals
+                (6, 3, 'Nitrogen') :     0 :  0.6544309176982778 :     1 : False : False :  Reals
+                  (6, 3, 'Oxygen') :     0 : 0.34556908230172234 :     1 : False : False :  Reals
+                (6, 4, 'Nitrogen') :     0 :  0.6614889000660307 :     1 : False : False :  Reals
+                  (6, 4, 'Oxygen') :     0 : 0.33851109993396933 :     1 : False : False :  Reals
+                (6, 5, 'Nitrogen') :     0 :  0.6729303853692175 :     1 : False : False :  Reals
+                  (6, 5, 'Oxygen') :     0 : 0.32706961463078243 :     1 : False : False :  Reals
+                (6, 6, 'Nitrogen') :     0 :  0.6904575333337266 :     1 : False : False :  Reals
+                  (6, 6, 'Oxygen') :     0 :  0.3095424666662734 :     1 : False : False :  Reals
+                (6, 7, 'Nitrogen') :     0 :  0.7162617818079193 :     1 : False : False :  Reals
+                  (6, 7, 'Oxygen') :     0 :  0.2837382181920807 :     1 : False : False :  Reals
+                (6, 8, 'Nitrogen') :     0 :  0.7529643088843375 :     1 : False : False :  Reals
+                  (6, 8, 'Oxygen') :     0 : 0.24703569111566243 :     1 : False : False :  Reals
+                (6, 9, 'Nitrogen') :     0 :  0.8033017687733502 :     1 : False : False :  Reals
+                  (6, 9, 'Oxygen') :     0 : 0.19669823122664973 :     1 : False : False :  Reals
+               (6, 10, 'Nitrogen') :     0 :   0.869377239555467 :     1 : False : False :  Reals
+                 (6, 10, 'Oxygen') :     0 : 0.13062276044453308 :     1 : False : False :  Reals
+         (6.310102, 1, 'Nitrogen') :     0 :   0.648739889337743 :     1 : False : False :  Reals
+           (6.310102, 1, 'Oxygen') :     0 : 0.35126011066225715 :     1 : False : False :  Reals
+         (6.310102, 2, 'Nitrogen') :     0 :  0.6504412732618752 :     1 : False : False :  Reals
+           (6.310102, 2, 'Oxygen') :     0 : 0.34955872673812477 :     1 : False : False :  Reals
+         (6.310102, 3, 'Nitrogen') :     0 :  0.6543829059671225 :     1 : False : False :  Reals
+           (6.310102, 3, 'Oxygen') :     0 : 0.34561709403287755 :     1 : False : False :  Reals
+         (6.310102, 4, 'Nitrogen') :     0 :  0.6614510839574474 :     1 : False : False :  Reals
+           (6.310102, 4, 'Oxygen') :     0 : 0.33854891604255255 :     1 : False : False :  Reals
+         (6.310102, 5, 'Nitrogen') :     0 :  0.6728913570646908 :     1 : False : False :  Reals
+           (6.310102, 5, 'Oxygen') :     0 : 0.32710864293530906 :     1 : False : False :  Reals
+         (6.310102, 6, 'Nitrogen') :     0 :   0.690400223958439 :     1 : False : False :  Reals
+           (6.310102, 6, 'Oxygen') :     0 : 0.30959977604156097 :     1 : False : False :  Reals
+         (6.310102, 7, 'Nitrogen') :     0 :  0.7161809079136969 :     1 : False : False :  Reals
+           (6.310102, 7, 'Oxygen') :     0 :   0.283819092086303 :     1 : False : False :  Reals
+         (6.310102, 8, 'Nitrogen') :     0 :  0.7528753619395644 :     1 : False : False :  Reals
+           (6.310102, 8, 'Oxygen') :     0 :  0.2471246380604357 :     1 : False : False :  Reals
+         (6.310102, 9, 'Nitrogen') :     0 :  0.8032286216779977 :     1 : False : False :  Reals
+           (6.310102, 9, 'Oxygen') :     0 : 0.19677137832200223 :     1 : False : False :  Reals
+        (6.310102, 10, 'Nitrogen') :     0 :  0.8693296367895995 :     1 : False : False :  Reals
+          (6.310102, 10, 'Oxygen') :     0 : 0.13067036321040057 :     1 : False : False :  Reals
+         (7.289898, 1, 'Nitrogen') :     0 :  0.6487290098105285 :     1 : False : False :  Reals
+           (7.289898, 1, 'Oxygen') :     0 :  0.3512709901894715 :     1 : False : False :  Reals
+         (7.289898, 2, 'Nitrogen') :     0 :  0.6504398229837763 :     1 : False : False :  Reals
+           (7.289898, 2, 'Oxygen') :     0 :  0.3495601770162237 :     1 : False : False :  Reals
+         (7.289898, 3, 'Nitrogen') :     0 :  0.6543971006113556 :     1 : False : False :  Reals
+           (7.289898, 3, 'Oxygen') :     0 :  0.3456028993886444 :     1 : False : False :  Reals
+         (7.289898, 4, 'Nitrogen') :     0 :  0.6614790854499321 :     1 : False : False :  Reals
+           (7.289898, 4, 'Oxygen') :     0 : 0.33852091455006805 :     1 : False : False :  Reals
+         (7.289898, 5, 'Nitrogen') :     0 :  0.6729286184979508 :     1 : False : False :  Reals
+           (7.289898, 5, 'Oxygen') :     0 :  0.3270713815020492 :     1 : False : False :  Reals
+         (7.289898, 6, 'Nitrogen') :     0 :  0.6904459525463911 :     1 : False : False :  Reals
+           (7.289898, 6, 'Oxygen') :     0 :  0.3095540474536089 :     1 : False : False :  Reals
+         (7.289898, 7, 'Nitrogen') :     0 :  0.7162393050967588 :     1 : False : False :  Reals
+           (7.289898, 7, 'Oxygen') :     0 : 0.28376069490324124 :     1 : False : False :  Reals
+         (7.289898, 8, 'Nitrogen') :     0 :   0.752948885034649 :     1 : False : False :  Reals
+           (7.289898, 8, 'Oxygen') :     0 : 0.24705111496535115 :     1 : False : False :  Reals
+         (7.289898, 9, 'Nitrogen') :     0 :  0.8033084794553039 :     1 : False : False :  Reals
+           (7.289898, 9, 'Oxygen') :     0 : 0.19669152054469613 :     1 : False : False :  Reals
+        (7.289898, 10, 'Nitrogen') :     0 :  0.8693951540373952 :     1 : False : False :  Reals
+          (7.289898, 10, 'Oxygen') :     0 :  0.1306048459626049 :     1 : False : False :  Reals
+                (8, 1, 'Nitrogen') :     0 :  0.6487414154066232 :     1 : False : False :  Reals
+                  (8, 1, 'Oxygen') :     0 : 0.35125858459337683 :     1 : False : False :  Reals
+                (8, 2, 'Nitrogen') :     0 :  0.6504615073052067 :     1 : False : False :  Reals
+                  (8, 2, 'Oxygen') :     0 :  0.3495384926947934 :     1 : False : False :  Reals
+                (8, 3, 'Nitrogen') :     0 :  0.6544254649157463 :     1 : False : False :  Reals
+                  (8, 3, 'Oxygen') :     0 :  0.3455745350842537 :     1 : False : False :  Reals
+                (8, 4, 'Nitrogen') :     0 :  0.6615153904894365 :     1 : False : False :  Reals
+                  (8, 4, 'Oxygen') :     0 :  0.3384846095105634 :     1 : False : False :  Reals
+                (8, 5, 'Nitrogen') :     0 :  0.6729767486507026 :     1 : False : False :  Reals
+                  (8, 5, 'Oxygen') :     0 : 0.32702325134929755 :     1 : False : False :  Reals
+                (8, 6, 'Nitrogen') :     0 :  0.6905078995677283 :     1 : False : False :  Reals
+                  (8, 6, 'Oxygen') :     0 : 0.30949210043227166 :     1 : False : False :  Reals
+                (8, 7, 'Nitrogen') :     0 :  0.7163110084334525 :     1 : False : False :  Reals
+                  (8, 7, 'Oxygen') :     0 : 0.28368899156654753 :     1 : False : False :  Reals
+                (8, 8, 'Nitrogen') :     0 :   0.753020550962106 :     1 : False : False :  Reals
+                  (8, 8, 'Oxygen') :     0 : 0.24697944903789396 :     1 : False : False :  Reals
+                (8, 9, 'Nitrogen') :     0 :  0.8033697682935408 :     1 : False : False :  Reals
+                  (8, 9, 'Oxygen') :     0 : 0.19663023170645932 :     1 : False : False :  Reals
+               (8, 10, 'Nitrogen') :     0 :  0.8694393078991802 :     1 : False : False :  Reals
+                 (8, 10, 'Oxygen') :     0 :  0.1305606921008197 :     1 : False : False :  Reals
+         (8.310102, 1, 'Nitrogen') :     0 :  0.6487407586237655 :     1 : False : False :  Reals
+           (8.310102, 1, 'Oxygen') :     0 :  0.3512592413762345 :     1 : False : False :  Reals
+         (8.310102, 2, 'Nitrogen') :     0 :  0.6504626166124682 :     1 : False : False :  Reals
+           (8.310102, 2, 'Oxygen') :     0 :  0.3495373833875318 :     1 : False : False :  Reals
+         (8.310102, 3, 'Nitrogen') :     0 :  0.6544294536304907 :     1 : False : False :  Reals
+           (8.310102, 3, 'Oxygen') :     0 :  0.3455705463695094 :     1 : False : False :  Reals
+         (8.310102, 4, 'Nitrogen') :     0 :  0.6615215804246204 :     1 : False : False :  Reals
+           (8.310102, 4, 'Oxygen') :     0 :  0.3384784195753795 :     1 : False : False :  Reals
+         (8.310102, 5, 'Nitrogen') :     0 :  0.6729821845778702 :     1 : False : False :  Reals
+           (8.310102, 5, 'Oxygen') :     0 : 0.32701781542212977 :     1 : False : False :  Reals
+         (8.310102, 6, 'Nitrogen') :     0 :  0.6905090063964167 :     1 : False : False :  Reals
+           (8.310102, 6, 'Oxygen') :     0 :  0.3094909936035834 :     1 : False : False :  Reals
+         (8.310102, 7, 'Nitrogen') :     0 :  0.7163063163356371 :     1 : False : False :  Reals
+           (8.310102, 7, 'Oxygen') :     0 :  0.2836936836643629 :     1 : False : False :  Reals
+         (8.310102, 8, 'Nitrogen') :     0 :  0.7530120340027245 :     1 : False : False :  Reals
+           (8.310102, 8, 'Oxygen') :     0 :  0.2469879659972755 :     1 : False : False :  Reals
+         (8.310102, 9, 'Nitrogen') :     0 :  0.8033611082754225 :     1 : False : False :  Reals
+           (8.310102, 9, 'Oxygen') :     0 : 0.19663889172457744 :     1 : False : False :  Reals
+        (8.310102, 10, 'Nitrogen') :     0 :  0.8694329431629864 :     1 : False : False :  Reals
+          (8.310102, 10, 'Oxygen') :     0 :  0.1305670568370137 :     1 : False : False :  Reals
+         (9.289898, 1, 'Nitrogen') :     0 :  0.6487402584104128 :     1 : False : False :  Reals
+           (9.289898, 1, 'Oxygen') :     0 : 0.35125974158958717 :     1 : False : False :  Reals
+         (9.289898, 2, 'Nitrogen') :     0 :   0.650461047371167 :     1 : False : False :  Reals
+           (9.289898, 2, 'Oxygen') :     0 :  0.3495389526288331 :     1 : False : False :  Reals
+         (9.289898, 3, 'Nitrogen') :     0 :  0.6544251656477393 :     1 : False : False :  Reals
+           (9.289898, 3, 'Oxygen') :     0 :  0.3455748343522606 :     1 : False : False :  Reals
+         (9.289898, 4, 'Nitrogen') :     0 :  0.6615124003430221 :     1 : False : False :  Reals
+           (9.289898, 4, 'Oxygen') :     0 :  0.3384875996569779 :     1 : False : False :  Reals
+         (9.289898, 5, 'Nitrogen') :     0 :  0.6729663766344531 :     1 : False : False :  Reals
+           (9.289898, 5, 'Oxygen') :     0 : 0.32703362336554687 :     1 : False : False :  Reals
+         (9.289898, 6, 'Nitrogen') :     0 :  0.6904864987864783 :     1 : False : False :  Reals
+           (9.289898, 6, 'Oxygen') :     0 : 0.30951350121352184 :     1 : False : False :  Reals
+         (9.289898, 7, 'Nitrogen') :     0 :  0.7162792176211737 :     1 : False : False :  Reals
+           (9.289898, 7, 'Oxygen') :     0 :  0.2837207823788263 :     1 : False : False :  Reals
+         (9.289898, 8, 'Nitrogen') :     0 :  0.7529839471374071 :     1 : False : False :  Reals
+           (9.289898, 8, 'Oxygen') :     0 : 0.24701605286259287 :     1 : False : False :  Reals
+         (9.289898, 9, 'Nitrogen') :     0 :  0.8033358662441473 :     1 : False : False :  Reals
+           (9.289898, 9, 'Oxygen') :     0 : 0.19666413375585268 :     1 : False : False :  Reals
+        (9.289898, 10, 'Nitrogen') :     0 :  0.8694140563255154 :     1 : False : False :  Reals
+          (9.289898, 10, 'Oxygen') :     0 : 0.13058594367448473 :     1 : False : False :  Reals
+               (10, 1, 'Nitrogen') :     0 :  0.6487384567327348 :     1 : False : False :  Reals
+                 (10, 1, 'Oxygen') :     0 :  0.3512615432672652 :     1 : False : False :  Reals
+               (10, 2, 'Nitrogen') :     0 :  0.6504558226500555 :     1 : False : False :  Reals
+                 (10, 2, 'Oxygen') :     0 :  0.3495441773499446 :     1 : False : False :  Reals
+               (10, 3, 'Nitrogen') :     0 :  0.6544164525212001 :     1 : False : False :  Reals
+                 (10, 3, 'Oxygen') :     0 : 0.34558354747880005 :     1 : False : False :  Reals
+               (10, 4, 'Nitrogen') :     0 :  0.6615010439263508 :     1 : False : False :  Reals
+                 (10, 4, 'Oxygen') :     0 : 0.33849895607364916 :     1 : False : False :  Reals
+               (10, 5, 'Nitrogen') :     0 :  0.6729539203835688 :     1 : False : False :  Reals
+                 (10, 5, 'Oxygen') :     0 :  0.3270460796164311 :     1 : False : False :  Reals
+               (10, 6, 'Nitrogen') :     0 :  0.6904744595715656 :     1 : False : False :  Reals
+                 (10, 6, 'Oxygen') :     0 : 0.30952554042843433 :     1 : False : False :  Reals
+               (10, 7, 'Nitrogen') :     0 :  0.7162684015582919 :     1 : False : False :  Reals
+                 (10, 7, 'Oxygen') :     0 :  0.2837315984417083 :     1 : False : False :  Reals
+               (10, 8, 'Nitrogen') :     0 :  0.7529744383266136 :     1 : False : False :  Reals
+                 (10, 8, 'Oxygen') :     0 :  0.2470255616733865 :     1 : False : False :  Reals
+               (10, 9, 'Nitrogen') :     0 :  0.8033277344978426 :     1 : False : False :  Reals
+                 (10, 9, 'Oxygen') :     0 : 0.19667226550215738 :     1 : False : False :  Reals
+              (10, 10, 'Nitrogen') :     0 :  0.8694079851760645 :     1 : False : False :  Reals
+                (10, 10, 'Oxygen') :     0 : 0.13059201482393543 :     1 : False : False :  Reals
+                (0, 1) :     0 : 101.45307387814715 :  None : False : False : NonNegativeReals
+                (0, 2) :     0 :  32.77486151510813 :  None : False : False : NonNegativeReals
+                (0, 3) :     0 :  60.14609823287537 :  None : False : False : NonNegativeReals
+                (0, 4) :     0 :  69.23151025071793 :  None : False : False : NonNegativeReals
+                (0, 5) :     0 :  71.70257081538956 :  None : False : False : NonNegativeReals
+                (0, 6) :     0 :  70.95194383678981 :  None : False : False : NonNegativeReals
+                (0, 7) :     0 :   68.3687601518205 :  None : False : False : NonNegativeReals
+                (0, 8) :     0 :  64.43108430716451 :  None : False : False : NonNegativeReals
+                (0, 9) :     0 :  58.84945721445394 :  None : False : False : NonNegativeReals
+               (0, 10) :     0 :  49.81039864331223 :  None : False : False : NonNegativeReals
+         (0.310102, 1) :     0 :  98.47780733915516 :  None : False : False : NonNegativeReals
+         (0.310102, 2) :     0 :  58.36439927847712 :  None : False : False : NonNegativeReals
+         (0.310102, 3) :     0 :  66.89263123968244 :  None : False : False : NonNegativeReals
+         (0.310102, 4) :     0 :  68.79010084251432 :  None : False : False : NonNegativeReals
+         (0.310102, 5) :     0 :  68.19988316673813 :  None : False : False : NonNegativeReals
+         (0.310102, 6) :     0 :  66.61226174846635 :  None : False : False : NonNegativeReals
+         (0.310102, 7) :     0 :   64.7845344668714 :  None : False : False : NonNegativeReals
+         (0.310102, 8) :     0 :   63.1773029981403 :  None : False : False : NonNegativeReals
+         (0.310102, 9) :     0 : 62.149706287949755 :  None : False : False : NonNegativeReals
+        (0.310102, 10) :     0 :  62.13660318036951 :  None : False : False : NonNegativeReals
+         (1.289898, 1) :     0 : 108.07987217931168 :  None : False : False : NonNegativeReals
+         (1.289898, 2) :     0 :  69.49747138122616 :  None : False : False : NonNegativeReals
+         (1.289898, 3) :     0 :  67.20860908927314 :  None : False : False : NonNegativeReals
+         (1.289898, 4) :     0 :  66.12472927918381 :  None : False : False : NonNegativeReals
+         (1.289898, 5) :     0 :  65.62211017910941 :  None : False : False : NonNegativeReals
+         (1.289898, 6) :     0 :  65.46436139481528 :  None : False : False : NonNegativeReals
+         (1.289898, 7) :     0 :  65.43880241276916 :  None : False : False : NonNegativeReals
+         (1.289898, 8) :     0 :  65.30628352892424 :  None : False : False : NonNegativeReals
+         (1.289898, 9) :     0 :  64.79462353843628 :  None : False : False : NonNegativeReals
+        (1.289898, 10) :     0 :  63.58522007223494 :  None : False : False : NonNegativeReals
+                (2, 1) :     0 :  107.0508412336137 :  None : False : False : NonNegativeReals
+                (2, 2) :     0 :  64.28805147382427 :  None : False : False : NonNegativeReals
+                (2, 3) :     0 :  65.83607752329871 :  None : False : False : NonNegativeReals
+                (2, 4) :     0 :  66.57742196338316 :  None : False : False : NonNegativeReals
+                (2, 5) :     0 :  66.86241200072898 :  None : False : False : NonNegativeReals
+                (2, 6) :     0 :  66.63495475705207 :  None : False : False : NonNegativeReals
+                (2, 7) :     0 :  65.81619016653725 :  None : False : False : NonNegativeReals
+                (2, 8) :     0 :  64.42507647225261 :  None : False : False : NonNegativeReals
+                (2, 9) :     0 : 62.693218723614535 :  None : False : False : NonNegativeReals
+               (2, 10) :     0 : 61.231984920862814 :  None : False : False : NonNegativeReals
+         (2.310102, 1) :     0 : 106.33867066736357 :  None : False : False : NonNegativeReals
+         (2.310102, 2) :     0 :   66.0989523953832 :  None : False : False : NonNegativeReals
+         (2.310102, 3) :     0 :  66.57886211967816 :  None : False : False : NonNegativeReals
+         (2.310102, 4) :     0 :  66.61576622153297 :  None : False : False : NonNegativeReals
+         (2.310102, 5) :     0 :  66.33598058144862 :  None : False : False : NonNegativeReals
+         (2.310102, 6) :     0 :  65.78481529073109 :  None : False : False : NonNegativeReals
+         (2.310102, 7) :     0 :  65.02848602992167 :  None : False : False : NonNegativeReals
+         (2.310102, 8) :     0 :  64.16208826230746 :  None : False : False : NonNegativeReals
+         (2.310102, 9) :     0 :  63.28709332189037 :  None : False : False : NonNegativeReals
+        (2.310102, 10) :     0 :  62.46128510022494 :  None : False : False : NonNegativeReals
+         (3.289898, 1) :     0 : 106.67838517541654 :  None : False : False : NonNegativeReals
+         (3.289898, 2) :     0 :  66.73457813070488 :  None : False : False : NonNegativeReals
+         (3.289898, 3) :     0 :  66.43988467820091 :  None : False : False : NonNegativeReals
+         (3.289898, 4) :     0 :  66.14849831608858 :  None : False : False : NonNegativeReals
+         (3.289898, 5) :     0 :  65.84794649426149 :  None : False : False : NonNegativeReals
+         (3.289898, 6) :     0 :  65.52571640501507 :  None : False : False : NonNegativeReals
+         (3.289898, 7) :     0 :  65.13853674580606 :  None : False : False : NonNegativeReals
+         (3.289898, 8) :     0 :  64.61065630261473 :  None : False : False : NonNegativeReals
+         (3.289898, 9) :     0 :  63.85437965647598 :  None : False : False : NonNegativeReals
+        (3.289898, 10) :     0 : 62.817007910061804 :  None : False : False : NonNegativeReals
+                (4, 1) :     0 : 106.59765763056902 :  None : False : False : NonNegativeReals
+                (4, 2) :     0 :   66.2944117860258 :  None : False : False : NonNegativeReals
+                (4, 3) :     0 :  66.30394112258145 :  None : False : False : NonNegativeReals
+                (4, 4) :     0 :  66.27370712280387 :  None : False : False : NonNegativeReals
+                (4, 5) :     0 :  66.16255462662262 :  None : False : False : NonNegativeReals
+                (4, 6) :     0 :   65.8924996291255 :  None : False : False : NonNegativeReals
+                (4, 7) :     0 :  65.39376420687655 :  None : False : False : NonNegativeReals
+                (4, 8) :     0 :  64.64101001449366 :  None : False : False : NonNegativeReals
+                (4, 9) :     0 : 63.680850445740205 :  None : False : False : NonNegativeReals
+               (4, 10) :     0 : 62.624912055085225 :  None : False : False : NonNegativeReals
+         (4.310102, 1) :     0 : 106.58384906217661 :  None : False : False : NonNegativeReals
+         (4.310102, 2) :     0 :  66.52602376010412 :  None : False : False : NonNegativeReals
+         (4.310102, 3) :     0 :   66.4932944016547 :  None : False : False : NonNegativeReals
+         (4.310102, 4) :     0 :  66.38241364591725 :  None : False : False : NonNegativeReals
+         (4.310102, 5) :     0 :   66.1620629898301 :  None : False : False : NonNegativeReals
+         (4.310102, 6) :     0 :  65.80044616419322 :  None : False : False : NonNegativeReals
+         (4.310102, 7) :     0 :  65.27673489880857 :  None : False : False : NonNegativeReals
+         (4.310102, 8) :     0 :   64.5839348980844 :  None : False : False : NonNegativeReals
+         (4.310102, 9) :     0 :   63.7265402673563 :  None : False : False : NonNegativeReals
+        (4.310102, 10) :     0 : 62.716335178812855 :  None : False : False : NonNegativeReals
+         (5.289898, 1) :     0 : 106.72321373992449 :  None : False : False : NonNegativeReals
+         (5.289898, 2) :     0 :  66.67338872566864 :  None : False : False : NonNegativeReals
+         (5.289898, 3) :     0 :  66.53995325464946 :  None : False : False : NonNegativeReals
+         (5.289898, 4) :     0 :  66.34317986657977 :  None : False : False : NonNegativeReals
+         (5.289898, 5) :     0 :  66.07053296672365 :  None : False : False : NonNegativeReals
+         (5.289898, 6) :     0 :  65.70362294495985 :  None : False : False : NonNegativeReals
+         (5.289898, 7) :     0 :  65.21409542608505 :  None : False : False : NonNegativeReals
+         (5.289898, 8) :     0 :  64.56641219789476 :  None : False : False : NonNegativeReals
+         (5.289898, 9) :     0 :  63.73048205550792 :  None : False : False : NonNegativeReals
+        (5.289898, 10) :     0 :  62.70351740264017 :  None : False : False : NonNegativeReals
+                (6, 1) :     0 : 106.69000966361254 :  None : False : False : NonNegativeReals
+                (6, 2) :     0 :  66.58389636913313 :  None : False : False : NonNegativeReals
+                (6, 3) :     0 :  66.46001470828857 :  None : False : False : NonNegativeReals
+                (6, 4) :     0 :  66.29237616191804 :  None : False : False : NonNegativeReals
+                (6, 5) :     0 :  66.05553484816308 :  None : False : False : NonNegativeReals
+                (6, 6) :     0 :   65.7127197901154 :  None : False : False : NonNegativeReals
+                (6, 7) :     0 :  65.22441665928072 :  None : False : False : NonNegativeReals
+                (6, 8) :     0 :   64.5599531004169 :  None : False : False : NonNegativeReals
+                (6, 9) :     0 :   63.7091705163981 :  None : False : False : NonNegativeReals
+               (6, 10) :     0 :  62.68873579207096 :  None : False : False : NonNegativeReals
+         (6.310102, 1) :     0 : 106.66007094526319 :  None : False : False : NonNegativeReals
+         (6.310102, 2) :     0 :    66.585301442651 :  None : False : False : NonNegativeReals
+         (6.310102, 3) :     0 :  66.47182082213092 :  None : False : False : NonNegativeReals
+         (6.310102, 4) :     0 :  66.30496489015874 :  None : False : False : NonNegativeReals
+         (6.310102, 5) :     0 :  66.06040177423279 :  None : False : False : NonNegativeReals
+         (6.310102, 6) :     0 :  65.70883717884631 :  None : False : False : NonNegativeReals
+         (6.310102, 7) :     0 :  65.21930167640615 :  None : False : False : NonNegativeReals
+         (6.310102, 8) :     0 :  64.56391086117544 :  None : False : False : NonNegativeReals
+         (6.310102, 9) :     0 :   63.7253986130097 :  None : False : False : NonNegativeReals
+        (6.310102, 10) :     0 :  62.70808154659402 :  None : False : False : NonNegativeReals
+         (7.289898, 1) :     0 : 106.66316406005886 :  None : False : False : NonNegativeReals
+         (7.289898, 2) :     0 :  66.60240535991505 :  None : False : False : NonNegativeReals
+         (7.289898, 3) :     0 :  66.48982296060431 :  None : False : False : NonNegativeReals
+         (7.289898, 4) :     0 :  66.31925714575034 :  None : False : False : NonNegativeReals
+         (7.289898, 5) :     0 :  66.07046133294102 :  None : False : False : NonNegativeReals
+         (7.289898, 6) :     0 :   65.7177353362691 :  None : False : False : NonNegativeReals
+         (7.289898, 7) :     0 :  65.23047290709029 :  None : False : False : NonNegativeReals
+         (7.289898, 8) :     0 :  64.57760765301114 :  None : False : False : NonNegativeReals
+         (7.289898, 9) :     0 :  63.73781618947316 :  None : False : False : NonNegativeReals
+        (7.289898, 10) :     0 :  62.71460364700179 :  None : False : False : NonNegativeReals
+                (8, 1) :     0 : 106.67763212177441 :  None : False : False : NonNegativeReals
+                (8, 2) :     0 :  66.60970748783134 :  None : False : False : NonNegativeReals
+                (8, 3) :     0 :  66.49416195136264 :  None : False : False : NonNegativeReals
+                (8, 4) :     0 :  66.32305047406334 :  None : False : False : NonNegativeReals
+                (8, 5) :     0 :  66.07491446335263 :  None : False : False : NonNegativeReals
+                (8, 6) :     0 :  65.72170326119743 :  None : False : False : NonNegativeReals
+                (8, 7) :     0 :  65.23135210833944 :  None : False : False : NonNegativeReals
+                (8, 8) :     0 :  64.57373570136373 :  None : False : False : NonNegativeReals
+                (8, 9) :     0 :  63.73045331355706 :  None : False : False : NonNegativeReals
+               (8, 10) :     0 :   62.7072651157728 :  None : False : False : NonNegativeReals
+         (8.310102, 1) :     0 : 106.67674820208208 :  None : False : False : NonNegativeReals
+         (8.310102, 2) :     0 :  66.61017214961558 :  None : False : False : NonNegativeReals
+         (8.310102, 3) :     0 :  66.49471331474376 :  None : False : False : NonNegativeReals
+         (8.310102, 4) :     0 :  66.32266023154527 :  None : False : False : NonNegativeReals
+         (8.310102, 5) :     0 :  66.07266597869044 :  None : False : False : NonNegativeReals
+         (8.310102, 6) :     0 :  65.71776718701497 :  None : False : False : NonNegativeReals
+         (8.310102, 7) :     0 :  65.22714720153458 :  None : False : False : NonNegativeReals
+         (8.310102, 8) :     0 :   64.5709802025387 :  None : False : False : NonNegativeReals
+         (8.310102, 9) :     0 :  63.72974627594733 :  None : False : False : NonNegativeReals
+        (8.310102, 10) :     0 :  62.70762589775914 :  None : False : False : NonNegativeReals
+         (9.289898, 1) :     0 : 106.67341665820167 :  None : False : False : NonNegativeReals
+         (9.289898, 2) :     0 :  66.60679999851463 :  None : False : False : NonNegativeReals
+         (9.289898, 3) :     0 :   66.4907773456313 :  None : False : False : NonNegativeReals
+         (9.289898, 4) :     0 :  66.31819680487152 :  None : False : False : NonNegativeReals
+         (9.289898, 5) :     0 :  66.06817630399897 :  None : False : False : NonNegativeReals
+         (9.289898, 6) :     0 :  65.71414001204018 :  None : False : False : NonNegativeReals
+         (9.289898, 7) :     0 :  65.22516069206172 :  None : False : False : NonNegativeReals
+         (9.289898, 8) :     0 :   64.5707598131282 :  None : False : False : NonNegativeReals
+         (9.289898, 9) :     0 :  63.73066755334232 :  None : False : False : NonNegativeReals
+        (9.289898, 10) :     0 :  62.70882734396655 :  None : False : False : NonNegativeReals
+               (10, 1) :     0 : 106.67114659194993 :  None : False : False : NonNegativeReals
+               (10, 2) :     0 :  66.60467643989594 :  None : False : False : NonNegativeReals
+               (10, 3) :     0 :  66.48933886510143 :  None : False : False : NonNegativeReals
+               (10, 4) :     0 :  66.31782603969887 :  None : False : False : NonNegativeReals
+               (10, 5) :     0 :  66.06898254328199 :  None : False : False : NonNegativeReals
+               (10, 6) :     0 :   65.7157911405011 :  None : False : False : NonNegativeReals
+               (10, 7) :     0 :  65.22703094760831 :  None : False : False : NonNegativeReals
+               (10, 8) :     0 :  64.57231503314594 :  None : False : False : NonNegativeReals
+               (10, 9) :     0 :  63.73177486264237 :  None : False : False : NonNegativeReals
+              (10, 10) :     0 :  62.70968788300573 :  None : False : False : NonNegativeReals
+                (0, 1) :  None :     -204.60499414218447 :  None : False : False :  Reals
+                (0, 2) :  None :       184.5502953513113 :  None : False : False :  Reals
+                (0, 3) :  None :      62.258031090130316 :  None : False : False :  Reals
+                (0, 4) :  None :      18.978395913699647 :  None : False : False :  Reals
+                (0, 5) :  None :      -1.857443058463397 :  None : False : False :  Reals
+                (0, 6) :  None :     -13.658225554294045 :  None : False : False :  Reals
+                (0, 7) :  None :     -22.569116547244676 :  None : False : False :  Reals
+                (0, 8) :  None :       -34.1827731459439 :  None : False : False :  Reals
+                (0, 9) :  None :     -60.746483036193176 :  None : False : False :  Reals
+               (0, 10) :  None :      118.76433950987072 :  None : False : False :  Reals
+         (0.310102, 1) :  None :     -1.6363871032232071 :  None : False : False :  Reals
+         (0.310102, 2) :  None :       58.71340648947893 :  None : False : False :  Reals
+         (0.310102, 3) :  None :      14.281521898631409 :  None : False : False :  Reals
+         (0.310102, 4) :  None :     -2.1898240917310905 :  None : False : False :  Reals
+         (0.310102, 5) :  None :       -8.58538236135781 :  None : False : False :  Reals
+         (0.310102, 6) :  None :      -9.654968237330342 :  None : False : False :  Reals
+         (0.310102, 7) :  None :      -7.166815875612936 :  None : False : False :  Reals
+         (0.310102, 8) :  None :     -1.5097554727474434 :  None : False : False :  Reals
+         (0.310102, 9) :  None :       8.306117458463882 :  None : False : False :  Reals
+        (0.310102, 10) :  None :       26.47186954212742 :  None : False : False :  Reals
+         (1.289898, 1) :  None :      10.824143928562865 :  None : False : False :  Reals
+         (1.289898, 2) :  None :     -14.820190739216114 :  None : False : False :  Reals
+         (1.289898, 3) :  None :     -6.3013162534922404 :  None : False : False :  Reals
+         (1.289898, 4) :  None :      -1.814474112950771 :  None : False : False :  Reals
+         (1.289898, 5) :  None :      1.3427395399563848 :  None : False : False :  Reals
+         (1.289898, 6) :  None :      3.3411870935148915 :  None : False : False :  Reals
+         (1.289898, 7) :  None :      3.9140597904848633 :  None : False : False :  Reals
+         (1.289898, 8) :  None :      2.5727332308497326 :  None : False : False :  Reals
+         (1.289898, 9) :  None :     -1.5587505715070067 :  None : False : False :  Reals
+        (1.289898, 10) :  None :     -10.634871127217538 :  None : False : False :  Reals
+                (2, 1) :  None :      -19.19155993975608 :  None : False : False :  Reals
+                (2, 2) :  None :       11.26643985358108 :  None : False : False :  Reals
+                (2, 3) :  None :       6.288446959097281 :  None : False : False :  Reals
+                (2, 4) :  None :      3.8439415449775773 :  None : False : False :  Reals
+                (2, 5) :  None :      1.1101484290413137 :  None : False : False :  Reals
+                (2, 6) :  None :      -2.129813578187894 :  None : False : False :  Reals
+                (2, 7) :  None :      -5.261163414552249 :  None : False : False :  Reals
+                (2, 8) :  None :      -6.778949840634454 :  None : False : False :  Reals
+                (2, 9) :  None :     -3.6515674932735065 :  None : False : False :  Reals
+               (2, 10) :  None :      10.772289753757484 :  None : False : False :  Reals
+         (2.310102, 1) :  None :      -1.308396323451366 :  None : False : False :  Reals
+         (2.310102, 2) :  None :       4.094420207213772 :  None : False : False :  Reals
+         (2.310102, 3) :  None :      1.4909896165150407 :  None : False : False :  Reals
+         (2.310102, 4) :  None :     -0.1501820059350296 :  None : False : False :  Reals
+         (2.310102, 5) :  None :     -1.3525692648094234 :  None : False : False :  Reals
+         (2.310102, 6) :  None :      -1.924454143693033 :  None : False : False :  Reals
+         (2.310102, 7) :  None :     -1.6122893027201495 :  None : False : False :  Reals
+         (2.310102, 8) :  None :     -0.3430080493558389 :  None : False : False :  Reals
+         (2.310102, 9) :  None :      1.5105393482984806 :  None : False : False :  Reals
+        (2.310102, 10) :  None :       2.731273745185438 :  None : False : False :  Reals
+         (3.289898, 1) :  None :      0.8874352464764597 :  None : False : False :  Reals
+         (3.289898, 2) :  None :      -1.225614683209374 :  None : False : False :  Reals
+         (3.289898, 3) :  None :     -0.8446397003438011 :  None : False : False :  Reals
+         (3.289898, 4) :  None :    -0.39460153897533184 :  None : False : False :  Reals
+         (3.289898, 5) :  None :     0.17733283037269237 :  None : False : False :  Reals
+         (3.289898, 6) :  None :      0.6956336171628109 :  None : False : False :  Reals
+         (3.289898, 7) :  None :      0.9200751191910526 :  None : False : False :  Reals
+         (3.289898, 8) :  None :      0.6547961042761649 :  None : False : False :  Reals
+         (3.289898, 9) :  None :      -0.089241300175893 :  None : False : False :  Reals
+        (3.289898, 10) :  None :     -0.8450611034790835 :  None : False : False :  Reals
+                (4, 1) :  None :     -1.7001486326549293 :  None : False : False :  Reals
+                (4, 2) :  None :      0.8112420327249678 :  None : False : False :  Reals
+                (4, 3) :  None :      0.9502615457352465 :  None : False : False :  Reals
+                (4, 4) :  None :      0.9620931818147216 :  None : False : False :  Reals
+                (4, 5) :  None :       0.614717681866141 :  None : False : False :  Reals
+                (4, 6) :  None :    -0.03023549339998525 :  None : False : False :  Reals
+                (4, 7) :  None :      -0.682810253471216 :  None : False : False :  Reals
+                (4, 8) :  None :     -0.8864790395029833 :  None : False : False :  Reals
+                (4, 9) :  None :     -0.2611878706389861 :  None : False : False :  Reals
+               (4, 10) :  None :      0.9133704193164056 :  None : False : False :  Reals
+         (4.310102, 1) :  None :     0.03935853255918162 :  None : False : False :  Reals
+         (4.310102, 2) :  None :      0.5580886411111801 :  None : False : False :  Reals
+         (4.310102, 3) :  None :      0.4233615194376769 :  None : False : False :  Reals
+         (4.310102, 4) :  None :     0.21347845411624813 :  None : False : False :  Reals
+         (4.310102, 5) :  None :    -0.04097743556789595 :  None : False : False :  Reals
+         (4.310102, 6) :  None :    -0.23595346913657567 :  None : False : False :  Reals
+         (4.310102, 7) :  None :    -0.27216786466423476 :  None : False : False :  Reals
+         (4.310102, 8) :  None :     -0.1253238102233741 :  None : False : False :  Reals
+         (4.310102, 9) :  None :     0.09906461842892454 :  None : False : False :  Reals
+        (4.310102, 10) :  None :     0.18522736474125467 :  None : False : False :  Reals
+         (5.289898, 1) :  None :     0.12193484506184517 :  None : False : False :  Reals
+         (5.289898, 2) :  None :    -0.11383314900730915 :  None : False : False :  Reals
+         (5.289898, 3) :  None :    -0.16411816494006348 :  None : False : False :  Reals
+         (5.289898, 4) :  None :    -0.15716310439493664 :  None : False : False :  Reals
+         (5.289898, 5) :  None :    -0.09114956013548776 :  None : False : False :  Reals
+         (5.289898, 6) :  None :  -0.0036696053274797562 :  None : False : False :  Reals
+         (5.289898, 7) :  None :     0.04994816936529303 :  None : False : False :  Reals
+         (5.289898, 8) :  None :    0.030216814034086964 :  None : False : False :  Reals
+         (5.289898, 9) :  None :    -0.04735509802817232 :  None : False : False :  Reals
+        (5.289898, 10) :  None :    -0.09901245072791444 :  None : False : False :  Reals
+                (6, 1) :  None :    -0.28015681940538273 :  None : False : False :  Reals
+                (6, 2) :  None :    -0.06287496121992492 :  None : False : False :  Reals
+                (6, 3) :  None :    0.025114082936451034 :  None : False : False :  Reals
+                (6, 4) :  None :     0.08571995108465173 :  None : False : False :  Reals
+                (6, 5) :  None :     0.07764300587172844 :  None : False : False :  Reals
+                (6, 6) :  None :    0.007238786857779828 :  None : False : False :  Reals
+                (6, 7) :  None :    -0.07044016332018463 :  None : False : False :  Reals
+                (6, 8) :  None :    -0.07957691951379091 :  None : False : False :  Reals
+                (6, 9) :  None :    0.010265634758853259 :  None : False : False :  Reals
+               (6, 10) :  None :     0.11640778850356163 :  None : False : False :  Reals
+         (6.310102, 1) :  None :   -0.062381070321603574 :  None : False : False :  Reals
+         (6.310102, 2) :  None :    0.009805620164323813 :  None : False : False :  Reals
+         (6.310102, 3) :  None :     0.03211849421410416 :  None : False : False :  Reals
+         (6.310102, 4) :  None :     0.03211073766689252 :  None : False : False :  Reals
+         (6.310102, 5) :  None :    0.014109738286070695 :  None : False : False :  Reals
+         (6.310102, 6) :  None :   -0.004468832619313071 :  None : False : False :  Reals
+         (6.310102, 7) :  None :   -0.005588911284306387 :  None : False : False :  Reals
+         (6.310102, 8) :  None :    0.014945373022165406 :  None : False : False :  Reals
+         (6.310102, 9) :  None :    0.040198145281984815 :  None : False : False :  Reals
+        (6.310102, 10) :  None :    0.043951533247879135 :  None : False : False :  Reals
+         (7.289898, 1) :  None :     0.03648418718381937 :  None : False : False :  Reals
+         (7.289898, 2) :  None :    0.018260156011577277 :  None : False : False :  Reals
+         (7.289898, 3) :  None :    0.008475228637888394 :  None : False : False :  Reals
+         (7.289898, 4) :  None :    0.004115576497536513 :  None : False : False :  Reals
+         (7.289898, 5) :  None :    0.007308988832527639 :  None : False : False :  Reals
+         (7.289898, 6) :  None :    0.013601115584626606 :  None : False : False :  Reals
+         (7.289898, 7) :  None :    0.015124487042744626 :  None : False : False :  Reals
+         (7.289898, 8) :  None :    0.007040961290235864 :  None : False : False :  Reals
+         (7.289898, 9) :  None :    -0.00663828243557141 :  None : False : False :  Reals
+        (7.289898, 10) :  None :   -0.014726669107128526 :  None : False : False :  Reals
+                (8, 1) :  None :   -0.012653764263818926 :  None : False : False :  Reals
+                (8, 2) :  None :  -0.0012903952704744653 :  None : False : False :  Reals
+                (8, 3) :  None :    0.005766186554683159 :  None : False : False :  Reals
+                (8, 4) :  None :    0.010272613029761811 :  None : False : False :  Reals
+                (8, 5) :  None :    0.005697951386528978 :  None : False : False :  Reals
+                (8, 6) :  None :   -0.007169050186124477 :  None : False : False :  Reals
+                (8, 7) :  None :   -0.019617096453951453 :  None : False : False :  Reals
+                (8, 8) :  None :   -0.021083189123239372 :  None : False : False :  Reals
+                (8, 9) :  None :   -0.009785526849046069 :  None : False : False :  Reals
+               (8, 10) :  None :    0.002415413794217764 :  None : False : False :  Reals
+         (8.310102, 1) :  None :   -0.003065642209238649 :  None : False : False :  Reals
+         (8.310102, 2) :  None : -0.00031160964407288445 :  None : False : False :  Reals
+         (8.310102, 3) :  None :  -0.0004767398797369012 :  None : False : False :  Reals
+         (8.310102, 4) :  None :  -0.0028019647539440935 :  None : False : False :  Reals
+         (8.310102, 5) :  None :   -0.006808968018237744 :  None : False : False :  Reals
+         (8.310102, 6) :  None :    -0.01001428389028002 :  None : False : False :  Reals
+         (8.310102, 7) :  None :   -0.009848114843060942 :  None : False : False :  Reals
+         (8.310102, 8) :  None :  -0.0060007164831461296 :  None : False : False :  Reals
+         (8.310102, 9) :  None :   -0.001182215355254779 :  None : False : False :  Reals
+        (8.310102, 10) :  None :   0.0011872122648621793 :  None : False : False :  Reals
+         (9.289898, 1) :  None :  -0.0034724589577436664 :  None : False : False :  Reals
+         (9.289898, 2) :  None :   -0.004605285433971623 :  None : False : False :  Reals
+         (9.289898, 3) :  None :  -0.0048353852908262955 :  None : False : False :  Reals
+         (9.289898, 4) :  None :   -0.003936434508554355 :  None : False : False :  Reals
+         (9.289898, 5) :  None :  -0.0017245204407981176 :  None : False : False :  Reals
+         (9.289898, 6) :  None :    0.000976603100204417 :  None : False : False :  Reals
+         (9.289898, 7) :  None :   0.0028257365828769716 :  None : False : False :  Reals
+         (9.289898, 8) :  None :    0.003013931331804594 :  None : False : False :  Reals
+         (9.289898, 9) :  None :   0.0020402697498580723 :  None : False : False :  Reals
+        (9.289898, 10) :  None :   0.0012377824048052715 :  None : False : False :  Reals
+               (10, 1) :  None :  -0.0027833561781239378 :  None : False : False :  Reals
+               (10, 2) :  None :  -0.0003428066949098156 :  None : False : False :  Reals
+               (10, 3) :  None :   0.0022137268140858266 :  None : False : False :  Reals
+               (10, 4) :  None :    0.004138360417312513 :  None : False : False :  Reals
+               (10, 5) :  None :   0.0043267379718143605 :  None : False : False :  Reals
+               (10, 6) :  None :    0.002815663790609404 :  None : False : False :  Reals
+               (10, 7) :  None :   0.0008831724838935727 :  None : False : False :  Reals
+               (10, 8) :  None :  3.3811786598753044e-05 :  None : False : False :  Reals
+               (10, 9) :  None :   0.0005413922532825253 :  None : False : False :  Reals
+              (10, 10) :  None :    0.001171506110363223 :  None : False : False :  Reals
+               0 :  None : 769.1819222514544 :  None : False : False :  Reals
+        0.310102 :  None : 780.2227589024935 :  None : False : False :  Reals
+        1.289898 :  None : 761.1214194404175 :  None : False : False :  Reals
+               2 :  None : 760.8991261976861 :  None : False : False :  Reals
+        2.310102 :  None :  763.166663518551 :  None : False : False :  Reals
+        3.289898 :  None : 762.8625915521176 :  None : False : False :  Reals
+               4 :  None : 762.9194249831743 :  None : False : False :  Reals
+        4.310102 :  None : 763.0186855265788 :  None : False : False :  Reals
+        5.289898 :  None : 762.7101114564206 :  None : False : False :  Reals
+               6 :  None : 762.7497076244308 :  None : False : False :  Reals
+        6.310102 :  None : 762.8296285580091 :  None : False : False :  Reals
+        7.289898 :  None : 762.8386759911006 :  None : False : False :  Reals
+               8 :  None : 762.8032127410721 :  None : False : False :  Reals
+        8.310102 :  None :  762.803726284447 :  None : False : False :  Reals
+        9.289898 :  None : 762.8100534736295 :  None : False : False :  Reals
+              10 :  None : 762.8159773091768 :  None : False : False :  Reals
+               0 :     0 : 915.8164216305721 :  None : False : False : NonNegativeReals
+        0.310102 :     0 : 928.6116748653883 :  None : False : False : NonNegativeReals
+        1.289898 :     0 :  888.674662707203 :  None : False : False : NonNegativeReals
+               2 :     0 : 890.4544761636755 :  None : False : False : NonNegativeReals
+        2.310102 :     0 : 894.2590741672734 :  None : False : False : NonNegativeReals
+        3.289898 :     0 :  893.344470114481 :  None : False : False : NonNegativeReals
+               4 :     0 : 893.5659845102291 :  None : False : False : NonNegativeReals
+        4.310102 :     0 : 893.6756758584629 :  None : False : False : NonNegativeReals
+        5.289898 :     0 : 893.0558460637883 :  None : False : False : NonNegativeReals
+               6 :     0 : 893.1748502531545 :  None : False : False : NonNegativeReals
+        6.310102 :     0 : 893.3217948824322 :  None : False : False : NonNegativeReals
+        7.289898 :     0 :  893.324362998268 :  None : False : False : NonNegativeReals
+               8 :     0 : 893.2551506591418 :  None : False : False : NonNegativeReals
+        8.310102 :     0 : 893.2573005548812 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 893.2716249279657 :  None : False : False : NonNegativeReals
+              10 :     0 : 893.2829673411057 :  None : False : False : NonNegativeReals
+               0 :     0 : 1558.1871133981476 :  None : False : False : NonNegativeReals
+        0.310102 :     0 : 1579.9571955153244 :  None : False : False : NonNegativeReals
+        1.289898 :     0 : 1512.0076193527646 :  None : False : False : NonNegativeReals
+               2 :     0 : 1515.0358271099378 :  None : False : False : NonNegativeReals
+        2.310102 :     0 : 1521.5090409995855 :  None : False : False : NonNegativeReals
+        3.289898 :     0 : 1519.9529166331047 :  None : False : False : NonNegativeReals
+               4 :     0 : 1520.3298053509027 :  None : False : False : NonNegativeReals
+        4.310102 :     0 : 1520.5164362533762 :  None : False : False : NonNegativeReals
+        5.289898 :     0 : 1519.4618462987185 :  None : False : False : NonNegativeReals
+               6 :     0 : 1519.6643222425116 :  None : False : False : NonNegativeReals
+        6.310102 :     0 : 1519.9143365710556 :  None : False : False : NonNegativeReals
+        7.289898 :     0 :   1519.91870601116 :  None : False : False : NonNegativeReals
+               8 :     0 : 1519.8009468485516 :  None : False : False : NonNegativeReals
+        8.310102 :     0 : 1519.8046047211963 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 1519.8289764762997 :  None : False : False : NonNegativeReals
+              10 :     0 : 1519.8482746692257 :  None : False : False : NonNegativeReals
+               0 :     0 : 245.34881653001707 :  None : False : False : NonNegativeReals
+        0.310102 :     0 : 204.55531448905816 :  None : False : False : NonNegativeReals
+        1.289898 :     0 : 319.67730235269914 :  None : False : False : NonNegativeReals
+               2 :     0 : 309.60928613845124 :  None : False : False : NonNegativeReals
+        2.310102 :     0 :  300.2200431550846 :  None : False : False : NonNegativeReals
+        3.289898 :     0 :  303.9212602020479 :  None : False : False : NonNegativeReals
+               4 :     0 : 303.05715132251584 :  None : False : False : NonNegativeReals
+        4.310102 :     0 :  302.8198050951873 :  None : False : False : NonNegativeReals
+        5.289898 :     0 :  304.5220259428243 :  None : False : False : NonNegativeReals
+               6 :     0 :  304.1503890116944 :  None : False : False : NonNegativeReals
+        6.310102 :     0 :  303.7710808946228 :  None : False : False : NonNegativeReals
+        7.289898 :     0 : 303.79296460948797 :  None : False : False : NonNegativeReals
+               8 :     0 : 303.97310847667205 :  None : False : False : NonNegativeReals
+        8.310102 :     0 :  303.9637557363741 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 303.92411310838736 :  None : False : False : NonNegativeReals
+              10 :     0 :  303.8954886103225 :  None : False : False : NonNegativeReals
+               0 :     0 : 1014.5307387814713 :  None : False : False : NonNegativeReals
+        0.310102 :     0 :  984.7780733915515 :  None : False : False : NonNegativeReals
+        1.289898 :     0 : 1080.7987217931168 :  None : False : False : NonNegativeReals
+               2 :     0 :  1070.508412336137 :  None : False : False : NonNegativeReals
+        2.310102 :     0 : 1063.3867066736357 :  None : False : False : NonNegativeReals
+        3.289898 :     0 : 1066.7838517541652 :  None : False : False : NonNegativeReals
+               4 :     0 :   1065.97657630569 :  None : False : False : NonNegativeReals
+        4.310102 :     0 : 1065.8384906217661 :  None : False : False : NonNegativeReals
+        5.289898 :     0 : 1067.2321373992447 :  None : False : False : NonNegativeReals
+               6 :     0 : 1066.9000966361255 :  None : False : False : NonNegativeReals
+        6.310102 :     0 :  1066.600709452632 :  None : False : False : NonNegativeReals
+        7.289898 :     0 : 1066.6316406005885 :  None : False : False : NonNegativeReals
+               8 :     0 :  1066.776321217744 :  None : False : False : NonNegativeReals
+        8.310102 :     0 : 1066.7674820208208 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 1066.7341665820168 :  None : False : False : NonNegativeReals
+              10 :     0 : 1066.7114659194992 :  None : False : False : NonNegativeReals
+               0 :     0 : 602.3727763675755 :  None : False : False : NonNegativeReals
+        0.310102 :     0 : 611.3476052499361 :  None : False : False : NonNegativeReals
+        1.289898 :     0 : 583.3350412455616 :  None : False : False : NonNegativeReals
+               2 :     0 : 584.5834355462622 :  None : False : False : NonNegativeReals
+        2.310102 :     0 : 587.2520514323121 :  None : False : False : NonNegativeReals
+        3.289898 :     0 : 586.6105311186235 :  None : False : False : NonNegativeReals
+               4 :     0 : 586.7659054406734 :  None : False : False : NonNegativeReals
+        4.310102 :     0 : 586.8428449949134 :  None : False : False : NonNegativeReals
+        5.289898 :     0 : 586.4080848349303 :  None : False : False : NonNegativeReals
+               6 :     0 : 586.4915565893571 :  None : False : False : NonNegativeReals
+        6.310102 :     0 : 586.5946262886235 :  None : False : False : NonNegativeReals
+        7.289898 :     0 : 586.5964276128922 :  None : False : False : NonNegativeReals
+               8 :     0 : 586.5478807894096 :  None : False : False : NonNegativeReals
+        8.310102 :     0 :  586.549388766315 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 586.5594361483339 :  None : False : False : NonNegativeReals
+              10 :     0 : 586.5673919281202 :  None : False : False : NonNegativeReals
+               0 :  -230 :  -183.9985775721694 :  -100 : False : False :  Reals
+        0.310102 :  -230 : -183.48529083919308 :  -100 : False : False :  Reals
+        1.289898 :  -230 :  -184.0390229971773 :  -100 : False : False :  Reals
+               2 :  -230 : -184.01905656827074 :  -100 : False : False :  Reals
+        2.310102 :  -230 :  -183.9592495739414 :  -100 : False : False :  Reals
+        3.289898 :  -230 : -183.97607460810315 :  -100 : False : False :  Reals
+               4 :  -230 : -183.97344551078166 :  -100 : False : False :  Reals
+        4.310102 :  -230 :  -183.9702892110934 :  -100 : False : False :  Reals
+        5.289898 :  -230 :  -183.9784899743345 :  -100 : False : False :  Reals
+               6 :  -230 : -183.97743524281006 :  -100 : False : False :  Reals
+        6.310102 :  -230 :  -183.9753821365417 :  -100 : False : False :  Reals
+        7.289898 :  -230 : -183.97526555622534 :  -100 : False : False :  Reals
+               8 :  -230 :  -183.9761380478198 :  -100 : False : False :  Reals
+        8.310102 :  -230 : -183.97609836900978 :  -100 : False : False :  Reals
+        9.289898 :  -230 : -183.97594240829991 :  -100 : False : False :  Reals
+              10 :  -230 :  -183.9758047670719 :  -100 : False : False :  Reals
+               0 :     0 : 539.56 :  1000 : False : False :  Reals
+        0.310102 :     0 : 539.56 :  1000 : False : False :  Reals
+        1.289898 :     0 : 539.56 :  1000 : False : False :  Reals
+               2 :     0 : 539.56 :  1000 : False : False :  Reals
+        2.310102 :     0 : 539.56 :  1000 : False : False :  Reals
+        3.289898 :     0 : 539.56 :  1000 : False : False :  Reals
+               4 :     0 : 539.56 :  1000 : False : False :  Reals
+        4.310102 :     0 : 539.56 :  1000 : False : False :  Reals
+        5.289898 :     0 : 539.56 :  1000 : False : False :  Reals
+               6 :     0 : 539.56 :  1000 : False : False :  Reals
+        6.310102 :     0 : 539.56 :  1000 : False : False :  Reals
+        7.289898 :     0 : 539.56 :  1000 : False : False :  Reals
+               8 :     0 : 539.56 :  1000 : False : False :  Reals
+        8.310102 :     0 : 539.56 :  1000 : False : False :  Reals
+        9.289898 :     0 : 539.56 :  1000 : False : False :  Reals
+              10 :     0 : 539.56 :  1000 : False : False :  Reals
+               0 :  -230 : -186.44112620258682 :  -100 : False : False :  Reals
+        0.310102 :  -230 : -185.95618709333198 :  -100 : False : False :  Reals
+        1.289898 :  -230 :  -186.4186167069679 :  -100 : False : False :  Reals
+               2 :  -230 :  -186.4017215299477 :  -100 : False : False :  Reals
+        2.310102 :  -230 : -186.35107024809662 :  -100 : False : False :  Reals
+        3.289898 :  -230 : -186.36596715968693 :  -100 : False : False :  Reals
+               4 :  -230 :  -186.3638146787709 :  -100 : False : False :  Reals
+        4.310102 :  -230 :  -186.3609406510944 :  -100 : False : False :  Reals
+        5.289898 :  -230 :  -186.3676884708307 :  -100 : False : False :  Reals
+               6 :  -230 : -186.36689645594268 :  -100 : False : False :  Reals
+        6.310102 :  -230 : -186.36519314576537 :  -100 : False : False :  Reals
+        7.289898 :  -230 : -186.36509062514241 :  -100 : False : False :  Reals
+               8 :  -230 : -186.36579974918644 :  -100 : False : False :  Reals
+        8.310102 :  -230 : -186.36576421481783 :  -100 : False : False :  Reals
+        9.289898 :  -230 : -186.36564112527412 :  -100 : False : False :  Reals
+              10 :  -230 : -186.36553051642937 :  -100 : False : False :  Reals
+               0 :     0 : 164.0 :  1000 : False : False :  Reals
+        0.310102 :     0 : 164.0 :  1000 : False : False :  Reals
+        1.289898 :     0 : 164.0 :  1000 : False : False :  Reals
+               2 :     0 : 164.0 :  1000 : False : False :  Reals
+        2.310102 :     0 : 164.0 :  1000 : False : False :  Reals
+        3.289898 :     0 : 164.0 :  1000 : False : False :  Reals
+               4 :     0 : 164.0 :  1000 : False : False :  Reals
+        4.310102 :     0 : 164.0 :  1000 : False : False :  Reals
+        5.289898 :     0 : 164.0 :  1000 : False : False :  Reals
+               6 :     0 : 164.0 :  1000 : False : False :  Reals
+        6.310102 :     0 : 164.0 :  1000 : False : False :  Reals
+        7.289898 :     0 : 164.0 :  1000 : False : False :  Reals
+               8 :     0 : 164.0 :  1000 : False : False :  Reals
+        8.310102 :     0 : 164.0 :  1000 : False : False :  Reals
+        9.289898 :     0 : 164.0 :  1000 : False : False :  Reals
+              10 :     0 : 164.0 :  1000 : False : False :  Reals
+               0 :     0 :  4241383.109677307 :  None : False : False : NonNegativeReals
+        0.310102 :     0 :   4290607.56766954 :  None : False : False : NonNegativeReals
+        1.289898 :     0 : 4132064.5341155617 :  None : False : False : NonNegativeReals
+               2 :     0 : 4137397.6340236575 :  None : False : False : NonNegativeReals
+        2.310102 :     0 :  4153296.144202195 :  None : False : False : NonNegativeReals
+        3.289898 :     0 :  4149948.040338139 :  None : False : False : NonNegativeReals
+               4 :     0 : 4150775.6647082726 :  None : False : False : NonNegativeReals
+        4.310102 :     0 : 4151265.8182013435 :  None : False : False : NonNegativeReals
+        5.289898 :     0 : 4148742.8428287213 :  None : False : False : NonNegativeReals
+               6 :     0 :  4149199.039233842 :  None : False : False : NonNegativeReals
+        6.310102 :     0 : 4149806.4454545057 :  None : False : False : NonNegativeReals
+        7.289898 :     0 :  4149830.859521585 :  None : False : False : NonNegativeReals
+               8 :     0 :  4149547.178631773 :  None : False : False : NonNegativeReals
+        8.310102 :     0 : 4149554.3752802173 :  None : False : False : NonNegativeReals
+        9.289898 :     0 : 4149611.4546796144 :  None : False : False : NonNegativeReals
+              10 :     0 : 4149658.3952777786 :  None : False : False : NonNegativeReals
+               (0, 'Nitrogen') :     0 : 0.44601353573026586 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 :  0.5539864642697341 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 : 0.40661511204558165 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 :  0.5933848879544185 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 : 0.44413645474426267 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 :  0.5558635452557373 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 :  0.4427306870465719 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 :  0.5572693129534281 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 : 0.43853228513232134 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 :  0.5614677148676788 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 : 0.43976457079970677 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 :  0.5602354292002932 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 : 0.43958638732587574 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 :  0.5604136126741243 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 : 0.43934854145488433 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 :  0.5606514585451157 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 :  0.4399070930334794 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 :  0.5600929069665206 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 : 0.43984151182653036 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 :  0.5601584881734696 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 :  0.4397004925361059 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 :  0.5602995074638941 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 :  0.4396920055855153 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 :  0.5603079944144849 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 :  0.4397507109170383 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 :  0.5602492890829617 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 : 0.43974776906735835 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 :  0.5602522309326418 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 : 0.43973757871639646 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 :  0.5602624212836036 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 : 0.43972842173994453 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 :  0.5602715782600555 :     1 : False : False :  Reals
+               (0, 'Nitrogen') :     0 :  0.7370202219087175 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 :  0.2629797780912824 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 :  0.7042978141699018 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 :  0.2957021858300982 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 :  0.7355302449787899 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 : 0.26446975502121006 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 :  0.7344100589755097 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 :  0.2655899410244904 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 :  0.7310423103572918 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 : 0.26895768964270833 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 :  0.7320342636416302 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 : 0.26796573635836973 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 :  0.7318910105103139 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 : 0.26810898948968614 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 :  0.7316996966021939 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 : 0.26830030339780614 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 :  0.7321488028620323 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 :  0.2678511971379677 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 :  0.7320961027666801 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 : 0.26790389723331987 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 :  0.7319827539810957 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 :  0.2680172460189044 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 :  0.7319759311128561 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 :   0.268024068887144 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 :  0.7320231229628192 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 : 0.26797687703718076 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 :  0.7320207582346347 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 :  0.2679792417653652 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 :  0.7320125668625932 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 : 0.26798743313740675 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 :  0.7320052059854847 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 :  0.2679947940145153 :     1 : False : False :  Reals
+               (0, 'Nitrogen') :     0 :  0.8627750301901486 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 : 0.13722496980985144 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 :  0.8488622058197797 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 : 0.15113779418022041 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 :  0.8528883152191368 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 : 0.14711168478086334 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 :  0.8533003286346685 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 :  0.1466996713653315 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 :  0.8523748082606434 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 : 0.14762519173935654 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 :  0.8525544297070026 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 : 0.14744557029299749 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 :  0.8525664646203198 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 : 0.14743353537968018 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 :  0.8524790353420928 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 :  0.1475209646579072 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 :  0.8525503412576094 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 :  0.1474496587423906 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 :  0.8525616744773608 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 : 0.14743832552263927 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 :   0.852537997115037 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 : 0.14746200288496303 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 :  0.8525316649329545 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 : 0.14746833506704554 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 :   0.852538885317784 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 :  0.1474611146822161 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 :  0.8525385030573004 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 : 0.14746149694269964 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 :  0.8525382119229955 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 : 0.14746178807700458 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 :  0.8525371633076747 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 : 0.14746283669232524 :     1 : False : False :  Reals
+               (0, 'Nitrogen') :     0 :  0.6410944050970651 :     1 : False : False :  Reals
+                 (0, 'Oxygen') :     0 :  0.3589055949029349 :     1 : False : False :  Reals
+        (0.310102, 'Nitrogen') :     0 :  0.6152363806345308 :     1 : False : False :  Reals
+          (0.310102, 'Oxygen') :     0 : 0.38476361936546916 :     1 : False : False :  Reals
+        (1.289898, 'Nitrogen') :     0 :  0.6225870975773685 :     1 : False : False :  Reals
+          (1.289898, 'Oxygen') :     0 : 0.37741290242263154 :     1 : False : False :  Reals
+               (2, 'Nitrogen') :     0 :  0.6233453001021889 :     1 : False : False :  Reals
+                 (2, 'Oxygen') :     0 :  0.3766546998978111 :     1 : False : False :  Reals
+        (2.310102, 'Nitrogen') :     0 :  0.6216436828478933 :     1 : False : False :  Reals
+          (2.310102, 'Oxygen') :     0 : 0.37835631715210666 :     1 : False : False :  Reals
+        (3.289898, 'Nitrogen') :     0 :  0.6219734866889794 :     1 : False : False :  Reals
+          (3.289898, 'Oxygen') :     0 : 0.37802651331102055 :     1 : False : False :  Reals
+               (4, 'Nitrogen') :     0 :  0.6219955916103487 :     1 : False : False :  Reals
+                 (4, 'Oxygen') :     0 :  0.3780044083896512 :     1 : False : False :  Reals
+        (4.310102, 'Nitrogen') :     0 :  0.6218350289765899 :     1 : False : False :  Reals
+          (4.310102, 'Oxygen') :     0 :  0.3781649710234101 :     1 : False : False :  Reals
+        (5.289898, 'Nitrogen') :     0 :   0.621965977515451 :     1 : False : False :  Reals
+          (5.289898, 'Oxygen') :     0 : 0.37803402248454904 :     1 : False : False :  Reals
+               (6, 'Nitrogen') :     0 :  0.6219867932833981 :     1 : False : False :  Reals
+                 (6, 'Oxygen') :     0 :  0.3780132067166018 :     1 : False : False :  Reals
+        (6.310102, 'Nitrogen') :     0 :   0.621943305939497 :     1 : False : False :  Reals
+          (6.310102, 'Oxygen') :     0 : 0.37805669406050313 :     1 : False : False :  Reals
+        (7.289898, 'Nitrogen') :     0 :  0.6219316764753477 :     1 : False : False :  Reals
+          (7.289898, 'Oxygen') :     0 :  0.3780683235246523 :     1 : False : False :  Reals
+               (8, 'Nitrogen') :     0 :  0.6219449372026071 :     1 : False : False :  Reals
+                 (8, 'Oxygen') :     0 :  0.3780550627973928 :     1 : False : False :  Reals
+        (8.310102, 'Nitrogen') :     0 :  0.6219442351466937 :     1 : False : False :  Reals
+          (8.310102, 'Oxygen') :     0 :  0.3780557648533063 :     1 : False : False :  Reals
+        (9.289898, 'Nitrogen') :     0 :  0.6219437004528859 :     1 : False : False :  Reals
+          (9.289898, 'Oxygen') :     0 : 0.37805629954711417 :     1 : False : False :  Reals
+              (10, 'Nitrogen') :     0 :  0.6219417745830301 :     1 : False : False :  Reals
+                (10, 'Oxygen') :     0 : 0.37805822541696993 :     1 : False : False :  Reals
+               0 :     0 : 0.11525715916814078 :   0.3 : False : False :  Reals
+        0.310102 :     0 :  0.1165437299650428 :   0.3 : False : False :  Reals
+        1.289898 :     0 : 0.11617417676269859 :   0.3 : False : False :  Reals
+               2 :     0 : 0.11613623429974329 :   0.3 : False : False :  Reals
+        2.310102 :     0 : 0.11622143330955974 :   0.3 : False : False :  Reals
+        3.289898 :     0 : 0.11620490736584824 :   0.3 : False : False :  Reals
+               4 :     0 : 0.11620379994484617 :   0.3 : False : False :  Reals
+        4.310102 :     0 : 0.11621184450683447 :   0.3 : False : False :  Reals
+        5.289898 :     0 : 0.11620528356968741 :   0.3 : False : False :  Reals
+               6 :     0 : 0.11620424072354398 :   0.3 : False : False :  Reals
+        6.310102 :     0 : 0.11620641941772654 :   0.3 : False : False :  Reals
+        7.289898 :     0 : 0.11620700206629532 :   0.3 : False : False :  Reals
+               8 :     0 : 0.11620633769031823 :   0.3 : False : False :  Reals
+        8.310102 :     0 : 0.11620637286378628 :   0.3 : False : False :  Reals
+        9.289898 :     0 : 0.11620639965231981 :   0.3 : False : False :  Reals
+              10 :     0 : 0.11620649613988056 :   0.3 : False : False :  Reals
+               0 :  -200 : -188.51884634944753 :  -170 : False : False :  Reals
+        0.310102 :  -200 :  -188.2690196992818 :  -170 : False : False :  Reals
+        1.289898 :  -200 :  -188.3407200887125 :  -170 : False : False :  Reals
+               2 :  -200 :  -188.3480845123206 :  -170 : False : False :  Reals
+        2.310102 :  -200 : -188.33154858344238 :  -170 : False : False :  Reals
+        3.289898 :  -200 :  -188.3347558301812 :  -170 : False : False :  Reals
+               4 :  -200 : -188.33497075474932 :  -170 : False : False :  Reals
+        4.310102 :  -200 : -188.33340950321877 :  -170 : False : False :  Reals
+        5.289898 :  -200 : -188.33468281789894 :  -170 : False : False :  Reals
+               6 :  -200 : -188.33488520983877 :  -170 : False : False :  Reals
+        6.310102 :  -200 : -188.33446237692698 :  -170 : False : False :  Reals
+        7.289898 :  -200 : -188.33434929894057 :  -170 : False : False :  Reals
+               8 :  -200 : -188.33447823824892 :  -170 : False : False :  Reals
+        8.310102 :  -200 :  -188.3344714119256 :  -170 : False : False :  Reals
+        9.289898 :  -200 : -188.33446621291634 :  -170 : False : False :  Reals
+              10 :  -200 : -188.33444748700663 :  -170 : False : False :  Reals

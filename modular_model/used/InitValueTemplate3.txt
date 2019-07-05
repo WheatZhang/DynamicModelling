@@ -1,0 +1,102 @@
+ColumnLiqLvMFlow
+1	None
+2	None
+3	None
+4	None
+5	None
+6	None
+7	None
+8	None
+9	None
+10	None
+
+ColumnLiqLvMFrac
+(1, 'Nitrogen')	None
+(1, 'Oxygen')	None
+(2, 'Nitrogen')	None
+(2, 'Oxygen')	None
+(3, 'Nitrogen')	None
+(3, 'Oxygen')	None
+(4, 'Nitrogen')	None
+(4, 'Oxygen')	None
+(5, 'Nitrogen')	None
+(5, 'Oxygen')	None
+(6, 'Nitrogen')	None
+(6, 'Oxygen')	None
+(7, 'Nitrogen')	None
+(7, 'Oxygen')	None
+(8, 'Nitrogen')	None
+(8, 'Oxygen')	None
+(9, 'Nitrogen')	None
+(9, 'Oxygen')	None
+(10, 'Nitrogen')	None
+(10, 'Oxygen')	None
+
+ColumnTrayPressure
+1	None
+2	None
+3	None
+4	None
+5	None
+6	None
+7	None
+8	None
+9	None
+10	None
+
+ColumnTrayTemp
+1	None
+2	None
+3	None
+4	None
+5	None
+6	None
+7	None
+8	None
+9	None
+10	None
+
+ColumnVapLvMFlow
+1	None
+2	None
+3	None
+4	None
+5	None
+6	None
+7	None
+8	None
+9	None
+10	None
+
+ColumnVapLvMFrac
+(1, 'Nitrogen')	None
+(1, 'Oxygen')	None
+(2, 'Nitrogen')	None
+(2, 'Oxygen')	None
+(3, 'Nitrogen')	None
+(3, 'Oxygen')	None
+(4, 'Nitrogen')	None
+(4, 'Oxygen')	None
+(5, 'Nitrogen')	None
+(5, 'Oxygen')	None
+(6, 'Nitrogen')	None
+(6, 'Oxygen')	None
+(7, 'Nitrogen')	None
+(7, 'Oxygen')	None
+(8, 'Nitrogen')	None
+(8, 'Oxygen')	None
+(9, 'Nitrogen')	None
+(9, 'Oxygen')	None
+(10, 'Nitrogen')	None
+(10, 'Oxygen')	None
+
+FeedLiqMFrac
+Nitrogen	None
+Oxygen	None
+
+FeedTemp	None
+
+FeedVapMFrac
+Nitrogen	None
+Oxygen	None
+

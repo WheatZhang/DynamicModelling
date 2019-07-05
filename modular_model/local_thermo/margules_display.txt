@@ -1,0 +1,62 @@
+Model unknown
+
+  Variables:
+    LiqMFrac : Size=2, Index=Component
+        Key      : Lower : Value : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :   1.0 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.0 :     1 : False : False :  Reals
+    VapMFrac : Size=2, Index=Component
+        Key      : Lower : Value : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :   1.0 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.0 :     1 : False : False :  Reals
+    Pressure : Size=1, Index=None
+        Key  : Lower : Value : Upper : Fixed : Stale : Domain
+        None :     0 : 465.0 :  None : False : False : NonNegativeReals
+    SatPres : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 464.72086317150143 :  None : False : False : NonNegativeReals
+          Oxygen :     0 :  136.6868477670705 :  None : False : False : NonNegativeReals
+    PhEquConst : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :  None : 0.9999999929995671 :  None : False : False :  Reals
+          Oxygen :  None : 0.2939525673313423 :  None : False : False :  Reals
+    Activity : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 :                1.0 :  None : False : False : NonNegativeReals
+          Oxygen :     0 : 1.0000080186354674 :  None : False : False : NonNegativeReals
+    Temp : Size=1, Index=None
+        Key  : Lower : Value  : Upper : Fixed : Stale : Domain
+        None :  -273 : -180.0 :   100 : False : False :  Reals
+
+  Objectives:
+    None
+
+  Constraints:
+    VapSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    LiqSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    PhEquilibruim : Size=2
+        Key      : Lower : Body                   : Upper
+        Nitrogen :   0.0 : -7.000432900028386e-09 :   0.0
+          Oxygen :   0.0 :                    0.0 :   0.0
+    PhEquilConstEqu : Size=2
+        Key      : Lower : Body                    : Upper
+        Nitrogen :   0.0 :   6.002872544027538e-06 :   0.0
+          Oxygen :   0.0 : -3.8302694349567904e-17 :   0.0
+    SatPresSpec : Size=2
+        Key      : Lower : Body                   : Upper
+        Nitrogen :   0.0 : 4.1744385725905886e-14 :   0.0
+          Oxygen :   0.0 : 1.3322676295501878e-15 :   0.0
+    MarguleEqu : Size=2
+        Key      : Lower : Body                    : Upper
+        Nitrogen :   0.0 :                     0.0 :   0.0
+          Oxygen :   0.0 : -2.3792316380943923e-07 :   0.0
+    TempSpec : Size=1
+        Key  : Lower  : Body   : Upper
+        None : -180.0 : -180.0 : -180.0
+    PressureSpec : Size=1
+        Key  : Lower : Body  : Upper
+        None : 465.0 : 465.0 : 465.0

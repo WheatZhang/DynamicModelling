@@ -1,0 +1,67 @@
+Model unknown
+
+  Variables:
+    rebEquilibriumConstant : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :  None : 1.8638200022292433 :  None : False : False :  Reals
+          Oxygen :  None : 0.7396111119957315 :  None : False : False :  Reals
+    expandValveOutTemperature : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  -230 : -178.12700000191532 :  -100 : False : False :  Reals
+    ircWasteMolarFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 328.92190909717874 :  None : False : False : NonNegativeReals
+    ircDrainMolarFlow : Size=1, Index=None
+        Key  : Lower : Value                 : Upper : Fixed : Stale : Domain
+        None :     0 : 4.790851527071643e-09 :  None : False : False : NonNegativeReals
+    ircBottomLiquidMolarFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 325.53105574896176 :  None : False : False : NonNegativeReals
+    ircRebTemperature : Size=1, Index=None
+        Key  : Lower : Value  : Upper : Fixed : Stale : Domain
+        None :  -230 : -100.0 :  -100 : False : False :  Reals
+    ircRebPressure : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 463.99999999898375 :  1000 : False : False :  Reals
+    ircDrainMolarFraction : Size=2, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 0.23161966629723285 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.7683803337027673 :     1 : False : False :  Reals
+    ircWNMolarFraction : Size=2, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+        Nitrogen :     0 : 0.4316973669544451 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.5683026330455548 :     1 : False : False :  Reals
+
+  Objectives:
+    None
+
+  Constraints:
+    IBottomLiquidMolarFlow : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -3.3943877042474926e-11 :   0.0
+    ircRebMaterialBalance : Size=2
+        Key      : Lower : Body                   : Upper
+        Nitrogen :   0.0 :    -0.0033908532797049 :   0.0
+          Oxygen :   0.0 : -7.330290182897166e-11 :   0.0
+    ircRebEnergyBalance : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.8337884119384917e-06 :   0.0
+    IRCRebWNSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    IRCRebDrainSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    ExpandValveEnthalpy : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 7.832877599867062e-12 :   0.0
+    ExpandValvePressure : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.0162466423935257e-12 :   0.0
+    rebEquilibrium : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.1102230246251565e-16 :   0.0
+    rebVLE : Size=2
+        Key      : Lower : Body                    : Upper
+        Nitrogen :   0.0 :                     0.0 :   0.0
+          Oxygen :   0.0 : -1.1102230246251565e-16 :   0.0

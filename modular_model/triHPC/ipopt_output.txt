@@ -1,0 +1,548 @@
+
+List of options:
+
+                                    Name   Value                # times used
+                             alpha_for_y = max                       1
+                         alpha_for_y_tol = 9.73429                   1
+                      barrier_tol_factor = 8.15004                   1
+                              bound_frac = 1e-010                    3
+                     bound_mult_init_val = 1.05963                   1
+                              bound_push = 1e-010                    3
+                        file_print_level = 7                         1
+                         fixed_mu_oracle = loqo                      0
+                           linear_solver = ma57                      2
+                  ma57_automatic_scaling = yes                       3
+                             ma57_pivtol = 0.001                     3
+                                max_iter = 400                       1
+                                 max_soc = 3                         1
+               mu_linear_decrease_factor = 0.337604                  1
+                                  mu_max = 20068                     0
+                             mu_max_fact = 621.588                   0
+                                  mu_min = 1.168e-011                0
+                               mu_oracle = probing                   0
+           mu_superlinear_decrease_power = 1.50305                   1
+                nlp_scaling_max_gradient = 191.94                    1
+                      obj_scaling_factor = 0.729844                  1
+                             output_file = ipopt_output.txt          1
+      quality_function_max_section_steps = 18                        0
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+NOTE: You are using Ipopt by default with the MUMPS linear solver.
+      Other linear solvers might be more efficient (see Ipopt documentation).
+
+
+This is Ipopt version 3.11.1, running with linear solver ma57.
+
+Number of nonzeros in equality constraint Jacobian...:   143833
+Number of nonzeros in inequality constraint Jacobian.:        0
+Number of nonzeros in Lagrangian Hessian.............:    39742
+
+Scaling parameter for objective function = 1.000000e+000
+objective scaling factor = 0.729844
+No x scaling provided
+c scaling provided
+No d scaling provided
+Initial values of x sufficiently inside the bounds.
+Initial values of s sufficiently inside the bounds.
+Total number of variables............................:    27280
+                     variables with only lower bounds:     8091
+                variables with lower and upper bounds:     8463
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:    27280
+Total number of inequality constraints...............:        0
+        inequality constraints with only lower bounds:        0
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:        0
+
+Convergence Check:
+  overall_error = 5.4265587224008138e+000   IpData().tol()   = 1.0000000000000000e-008
+  dual_inf      = 1.4518582053151086e+000   dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 1.0003291807598089e+001   constr_viol_tol_ = 1.0000000000000000e-004
+  compl_inf     = 2.5631535425534416e+007   compl_inf_tol_   = 1.0000000000000001e+300
+obj val update iter = 0
+Acceptable Check:
+  overall_error = 5.4265587224008138e+000   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 1.4518582053151086e+000   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 1.0003291807598089e+001   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 2.5631535425534416e+007   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = -1.0000000000000001e+050
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 1.0000000000000001e+050 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 0
+
+**************************************************
+*** Update HessianMatrix for Iteration 0:
+**************************************************
+
+
+
+**************************************************
+*** Summary of Iteration: 0:
+**************************************************
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0 0.0000000e+000 1.00e+001 1.06e+000  -1.0 0.00e+000    -  0.00e+000 0.00e+000   0 s
+
+**************************************************
+*** Beginning Iteration 0 from the following point:
+**************************************************
+
+Current barrier parameter mu = 1.0000000000000001e-001
+Current fraction-to-the-boundary parameter tau = 9.8999999999999999e-001
+
+||curr_x||_inf   = 1.7654296632894244e+007
+||curr_s||_inf   = 0.0000000000000000e+000
+||curr_y_c||_inf = 0.0000000000000000e+000
+||curr_y_d||_inf = 0.0000000000000000e+000
+||curr_z_L||_inf = 1.0596300000000001e+000
+||curr_z_U||_inf = 1.0596300000000001e+000
+||curr_v_L||_inf = 0.0000000000000000e+000
+||curr_v_U||_inf = 0.0000000000000000e+000
+
+No search direction has been computed yet.
+
+
+***Current NLP Values for Iteration 0:
+
+                                   (scaled)                 (unscaled)
+Objective...............:  0.0000000000000000e+000   0.0000000000000000e+000
+Dual infeasibility......:  1.0596300000000001e+000   1.4518582053151086e+000
+Constraint violation....:  5.4265587224008138e+000   1.0003291807598089e+001
+Complementarity.........:  1.8707022341113742e+007   2.5631535425534416e+007
+Overall NLP error.......:  5.4265587224008138e+000   2.5631535425534416e+007
+
+
+
+
+**************************************************
+*** Update Barrier Parameter for Iteration 0:
+**************************************************
+
+Optimality Error for Barrier Sub-problem = 1.870702e+007
+Barrier Parameter: 1.000000e-001
+
+**************************************************
+*** Solving the Primal Dual System for Iteration 0:
+**************************************************
+
+Solving system with delta_x=0.000000e+000 delta_s=0.000000e+000
+                    delta_c=0.000000e+000 delta_d=0.000000e+000
+Suggested lfact  (*1.050000e+000):  3226551
+Suggested lifact (*1.050000e+000):  1036566
+Reallocating memory for MA57: lfact (4790047)
+MA57 peak memory use: 45463KB
+Factorization successful.
+Number of trial factorizations performed: 1
+Perturbation parameters: delta_x=0.000000e+000 delta_s=0.000000e+000
+                         delta_c=0.000000e+000 delta_d=0.000000e+000
+max-norm resid_x  1.288556e+005
+max-norm resid_s  0.000000e+000
+max-norm resid_c  2.777923e-007
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 3.725290e-009
+max-norm resid_zU 2.775558e-017
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 1.87e+007 nrm_sol = 4.77e+008 nrm_resid = 1.29e+005
+residual_ratio = 2.597367e-004
+Factorization successful.
+max-norm resid_x  2.402812e-007
+max-norm resid_s  0.000000e+000
+max-norm resid_c  5.820766e-011
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 7.450581e-009
+max-norm resid_zU 2.220446e-016
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 1.87e+007 nrm_sol = 4.77e+008 nrm_resid = 2.40e-007
+residual_ratio = 4.843397e-016
+
+**************************************************
+*** Finding Acceptable Trial Point for Iteration 0:
+**************************************************
+
+--> Starting line search in iteration 0 <--
+Mu has changed in line search - resetting watchdog counters.
+Acceptable Check:
+  overall_error = 5.4265587224008138e+000   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 1.4518582053151086e+000   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 1.0003291807598089e+001   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 2.5631535425534416e+007   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = -1.0000000000000001e+050
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 1.0000000000000001e+050 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 0
+The current filter has 0 entries.
+Relative step size for delta_x = 3.773005e+007
+minimal step size ALPHA_MIN = 2.567663E-008
+Starting checks for alpha (primal) = 1.00e+000
+trial_max is initialized to 2.120855e+006
+trial_min is initialized to 2.120855e-002
+Checking acceptability for trial step size alpha_primal_test=1.000000e+000:
+  New values of barrier function     = 1.0310511672112430e+003  (reference 1.0268103626605018e+003):
+  New values of constraint violation = 3.9226928344620283e+004  (reference 2.1208553829302343e+002):
+reference_theta = 2.120855e+002 reference_gradBarrTDelta = -4.129933e+000
+Checking sufficient reduction...
+Failed...
+Trying second order correction number 1
+Factorization successful.
+max-norm resid_x  1.981752e+005
+max-norm resid_s  0.000000e+000
+max-norm resid_c  4.743272e-007
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 3.725290e-009
+max-norm resid_zU 2.775558e-017
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+Checking acceptability for trial step size alpha_primal_test=1.000000e+000:
+  New values of barrier function     = 1.0262358454938769e+003  (reference 1.0268103626605018e+003):
+  New values of constraint violation = 1.6206666485486589e+003  (reference 2.1208553829302343e+002):
+reference_theta = 2.120855e+002 reference_gradBarrTDelta = -4.129933e+000
+Checking sufficient reduction...
+Succeeded...
+Checking filter acceptability...
+Succeeded...
+Second order correction step accepted with 1 corrections.
+reference_theta = 2.120855e+002 reference_gradBarrTDelta = -4.129933e+000
+Convergence Check:
+  overall_error = 4.3143192663189257e+002   IpData().tol()   = 1.0000000000000000e-008
+  dual_inf      = 2.3431233913227171e+008   dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 4.3143192663189257e+002   constr_viol_tol_ = 1.0000000000000000e-004
+  compl_inf     = 1.8103072274620101e+007   compl_inf_tol_   = 1.0000000000000001e+300
+obj val update iter = 1
+Acceptable Check:
+  overall_error = 4.3143192663189257e+002   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 2.3431233913227171e+008   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 4.3143192663189257e+002   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 1.8103072274620101e+007   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = 0.0000000000000000e+000
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 0.0000000000000000e+000 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 1
+
+**************************************************
+*** Update HessianMatrix for Iteration 1:
+**************************************************
+
+
+
+**************************************************
+*** Summary of Iteration: 1:
+**************************************************
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   1 0.0000000e+000 4.31e+002 1.71e+008  -1.0 3.88e+007    -  3.11e-001 1.00e+000H  1 
+
+**************************************************
+*** Beginning Iteration 1 from the following point:
+**************************************************
+
+Current barrier parameter mu = 1.0000000000000001e-001
+Current fraction-to-the-boundary parameter tau = 9.8999999999999999e-001
+
+||curr_x||_inf   = 5.6110661893699616e+007
+||curr_s||_inf   = 0.0000000000000000e+000
+||curr_y_c||_inf = 4.7023580458050489e+008
+||curr_y_d||_inf = 0.0000000000000000e+000
+||curr_z_L||_inf = 1.4919948826957581e+004
+||curr_z_U||_inf = 7.0218577919273898e+001
+||curr_v_L||_inf = 0.0000000000000000e+000
+||curr_v_U||_inf = 0.0000000000000000e+000
+
+||delta_x||_inf   = 3.8808889254477926e+007
+||delta_s||_inf   = 0.0000000000000000e+000
+||delta_y_c||_inf = 4.7739350077250147e+008
+||delta_y_d||_inf = 0.0000000000000000e+000
+||delta_z_L||_inf = 4.8036395249247114e+004
+||delta_z_U||_inf = 2.2268055707189137e+002
+||delta_v_L||_inf = 0.0000000000000000e+000
+||delta_v_U||_inf = 0.0000000000000000e+000
+
+
+***Current NLP Values for Iteration 1:
+
+                                   (scaled)                 (unscaled)
+Objective...............:  0.0000000000000000e+000   0.0000000000000000e+000
+Dual infeasibility......:  1.7101145484165370e+008   2.3431233913227171e+008
+Constraint violation....:  4.3143192663189257e+002   4.3143192663189257e+002
+Complementarity.........:  1.3212418681197833e+007   1.8103072274620101e+007
+Overall NLP error.......:  4.3143192663189257e+002   2.3431233913227171e+008
+
+
+
+
+**************************************************
+*** Update Barrier Parameter for Iteration 1:
+**************************************************
+
+Optimality Error for Barrier Sub-problem = 1.321242e+007
+Barrier Parameter: 1.000000e-001
+
+**************************************************
+*** Solving the Primal Dual System for Iteration 1:
+**************************************************
+
+Solving system with delta_x=0.000000e+000 delta_s=0.000000e+000
+                    delta_c=0.000000e+000 delta_d=0.000000e+000
+MA57 peak memory use: 45463KB
+Factorization successful.
+Number of trial factorizations performed: 1
+Perturbation parameters: delta_x=0.000000e+000 delta_s=0.000000e+000
+                         delta_c=0.000000e+000 delta_d=0.000000e+000
+max-norm resid_x  1.477916e+005
+max-norm resid_s  0.000000e+000
+max-norm resid_c  1.437530e-006
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 1.862645e-009
+max-norm resid_zU 5.551115e-017
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 1.71e+008 nrm_sol = 4.70e+008 nrm_resid = 1.48e+005
+residual_ratio = 2.305233e-004
+Factorization successful.
+max-norm resid_x  3.317658e-007
+max-norm resid_s  0.000000e+000
+max-norm resid_c  5.684342e-014
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 1.862645e-009
+max-norm resid_zU 2.220446e-016
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 1.71e+008 nrm_sol = 4.70e+008 nrm_resid = 3.32e-007
+residual_ratio = 5.174834e-016
+
+**************************************************
+*** Finding Acceptable Trial Point for Iteration 1:
+**************************************************
+
+--> Starting line search in iteration 1 <--
+Acceptable Check:
+  overall_error = 4.3143192663189257e+002   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 2.3431233913227171e+008   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 4.3143192663189257e+002   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 1.8103072274620101e+007   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = 0.0000000000000000e+000
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 0.0000000000000000e+000 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 1
+The current filter has 1 entries.
+Relative step size for delta_x = 9.765258e-001
+minimal step size ALPHA_MIN = 5.000000E-007
+Starting checks for alpha (primal) = 1.00e+000
+Checking acceptability for trial step size alpha_primal_test=1.000000e+000:
+  New values of barrier function     = 1.0260995870167499e+003  (reference 1.0262358454938769e+003):
+  New values of constraint violation = 7.1032676989695202e-004  (reference 1.6206666485486589e+003):
+reference_theta = 1.620667e+003 reference_gradBarrTDelta = -1.365694e-001
+Checking sufficient reduction...
+Succeeded...
+Checking filter acceptability...
+Succeeded...
+reference_theta = 1.620667e+003 reference_gradBarrTDelta = -1.365694e-001
+Convergence Check:
+  overall_error = 5.9757527083093009e-005   IpData().tol()   = 1.0000000000000000e-008
+  dual_inf      = 4.7879257724914933e+005   dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 5.9757527083093009e-005   constr_viol_tol_ = 1.0000000000000000e-004
+  compl_inf     = 1.9156999760020044e+005   compl_inf_tol_   = 1.0000000000000001e+300
+obj val update iter = 2
+Acceptable Check:
+  overall_error = 5.9757527083093009e-005   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 4.7879257724914933e+005   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 5.9757527083093009e-005   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 1.9156999760020044e+005   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = 0.0000000000000000e+000
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 0.0000000000000000e+000 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 2
+
+**************************************************
+*** Update HessianMatrix for Iteration 2:
+**************************************************
+
+
+
+**************************************************
+*** Summary of Iteration: 2:
+**************************************************
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   2 0.0000000e+000 5.98e-005 3.49e+005  -1.0 3.45e+004    -  9.89e-001 1.00e+000h  1 Nhj 
+
+**************************************************
+*** Beginning Iteration 2 from the following point:
+**************************************************
+
+Current barrier parameter mu = 1.0000000000000001e-001
+Current fraction-to-the-boundary parameter tau = 9.8999999999999999e-001
+
+||curr_x||_inf   = 5.6106203188855365e+007
+||curr_s||_inf   = 0.0000000000000000e+000
+||curr_y_c||_inf = 5.0170841361194849e+005
+||curr_y_d||_inf = 0.0000000000000000e+000
+||curr_z_L||_inf = 4.7695205243627010e+004
+||curr_z_U||_inf = 2.2211581941769367e+002
+||curr_v_L||_inf = 0.0000000000000000e+000
+||curr_v_U||_inf = 0.0000000000000000e+000
+
+||delta_x||_inf   = 3.4465344468393181e+004
+||delta_s||_inf   = 0.0000000000000000e+000
+||delta_y_c||_inf = 4.7010237397660416e+008
+||delta_y_d||_inf = 0.0000000000000000e+000
+||delta_z_L||_inf = 3.3125723536435005e+004
+||delta_z_U||_inf = 1.5352148474007487e+002
+||delta_v_L||_inf = 0.0000000000000000e+000
+||delta_v_U||_inf = 0.0000000000000000e+000
+
+
+***Current NLP Values for Iteration 2:
+
+                                   (scaled)                 (unscaled)
+Objective...............:  0.0000000000000000e+000   0.0000000000000000e+000
+Dual infeasibility......:  3.4944388974982814e+005   4.7879257724914933e+005
+Constraint violation....:  5.9757527083093009e-005   5.9757527083093009e-005
+Complementarity.........:  1.3981621332852071e+005   1.9156999760020044e+005
+Overall NLP error.......:  5.9757527083093009e-005   4.7879257724914933e+005
+
+
+
+
+**************************************************
+*** Update Barrier Parameter for Iteration 2:
+**************************************************
+
+Optimality Error for Barrier Sub-problem = 6.883784e+004
+Barrier Parameter: 1.000000e-001
+
+**************************************************
+*** Solving the Primal Dual System for Iteration 2:
+**************************************************
+
+Solving system with delta_x=0.000000e+000 delta_s=0.000000e+000
+                    delta_c=0.000000e+000 delta_d=0.000000e+000
+MA57 peak memory use: 45463KB
+Factorization successful.
+Number of trial factorizations performed: 1
+Perturbation parameters: delta_x=0.000000e+000 delta_s=0.000000e+000
+                         delta_c=0.000000e+000 delta_d=0.000000e+000
+max-norm resid_x  3.062784e-001
+max-norm resid_s  0.000000e+000
+max-norm resid_c  4.005901e-011
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 1.455192e-011
+max-norm resid_zU 4.336809e-019
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 3.49e+005 nrm_sol = 5.00e+005 nrm_resid = 3.06e-001
+residual_ratio = 3.607352e-007
+Factorization successful.
+max-norm resid_x  8.761702e-011
+max-norm resid_s  0.000000e+000
+max-norm resid_c  3.252607e-019
+max-norm resid_d  0.000000e+000
+max-norm resid_zL 2.910383e-011
+max-norm resid_zU 8.673617e-019
+max-norm resid_vL 0.000000e+000
+max-norm resid_vU 0.000000e+000
+nrm_rhs = 3.49e+005 nrm_sol = 5.00e+005 nrm_resid = 8.76e-011
+residual_ratio = 1.031955e-016
+
+**************************************************
+*** Finding Acceptable Trial Point for Iteration 2:
+**************************************************
+
+--> Starting line search in iteration 2 <--
+Acceptable Check:
+  overall_error = 5.9757527083093009e-005   acceptable_tol_             = 9.9999999999999995e-007
+  dual_inf      = 4.7879257724914933e+005   acceptable_dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 5.9757527083093009e-005   acceptable_constr_viol_tol_ = 1.0000000000000000e-002
+  compl_inf     = 1.9156999760020044e+005   acceptable_compl_inf_tol_   = 1.0000000000000001e+300
+  curr_obj_val_ = 0.0000000000000000e+000   last_obj_val                = 0.0000000000000000e+000
+  fabs(curr_obj_val_-last_obj_val_)/Max(1., fabs(curr_obj_val_)) = 0.0000000000000000e+000 acceptable_obj_change_tol_ = 1.0000000000000000e+020
+test iter = 2
+The current filter has 2 entries.
+Relative step size for delta_x = 2.253297e-005
+minimal step size ALPHA_MIN = 5.000000E-007
+Starting checks for alpha (primal) = 1.00e+000
+Checking acceptability for trial step size alpha_primal_test=1.000000e+000:
+  New values of barrier function     = 1.0260995894718303e+003  (reference 1.0260995870167499e+003):
+  New values of constraint violation = 9.6896667804509981e-009  (reference 7.1032676989695202e-004):
+reference_theta = 7.103268e-004 reference_gradBarrTDelta = 2.455058e-006
+Checking sufficient reduction...
+Succeeded...
+Checking filter acceptability...
+Succeeded...
+reference_theta = 7.103268e-004 reference_gradBarrTDelta = 2.455058e-006
+Convergence Check:
+  overall_error = 9.8953023552894592e-010   IpData().tol()   = 1.0000000000000000e-008
+  dual_inf      = 4.8017018467578003e+000   dual_inf_tol_    = 1.0000000000000001e+300
+  constr_viol   = 9.8953023552894592e-010   constr_viol_tol_ = 1.0000000000000000e-004
+  compl_inf     = 1.9156999773837595e+003   compl_inf_tol_   = 1.0000000000000001e+300
+
+
+**************************************************
+*** Summary of Iteration: 3:
+**************************************************
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   3 0.0000000e+000 9.90e-010 3.50e+000  -1.0 7.54e-002    -  9.90e-001 1.00e+000h  1 
+
+**************************************************
+*** Beginning Iteration 3 from the following point:
+**************************************************
+
+Current barrier parameter mu = 1.0000000000000001e-001
+Current fraction-to-the-boundary parameter tau = 9.8999999999999999e-001
+
+||curr_x||_inf   = 5.6106203188423507e+007
+||curr_s||_inf   = 0.0000000000000000e+000
+||curr_y_c||_inf = 3.0607655711040151e+005
+||curr_y_d||_inf = 0.0000000000000000e+000
+||curr_z_L||_inf = 4.8042167940100946e+004
+||curr_z_U||_inf = 2.2372382137585495e+002
+||curr_v_L||_inf = 0.0000000000000000e+000
+||curr_v_U||_inf = 0.0000000000000000e+000
+
+||delta_x||_inf   = 7.5363442482580187e-002
+||delta_s||_inf   = 0.0000000000000000e+000
+||delta_y_c||_inf = 4.9959538319289603e+005
+||delta_y_d||_inf = 0.0000000000000000e+000
+||delta_z_L||_inf = 3.5046711976558385e+002
+||delta_z_U||_inf = 3.5112536321686236e+000
+||delta_v_L||_inf = 0.0000000000000000e+000
+||delta_v_U||_inf = 0.0000000000000000e+000
+
+
+***Current NLP Values for Iteration 3:
+
+                                   (scaled)                 (unscaled)
+Objective...............:  0.0000000000000000e+000   0.0000000000000000e+000
+Dual infeasibility......:  3.5044932826450998e+000   4.8017018467578003e+000
+Constraint violation....:  9.8953023552894592e-010   9.8953023552894592e-010
+Complementarity.........:  1.3981621342936726e+003   1.9156999773837595e+003
+Overall NLP error.......:  9.8953023552894592e-010   1.9156999773837595e+003
+
+
+
+MA57 peak memory use: 45463KB
+Factorization successful.
+
+Number of Iterations....: 3
+
+                                   (scaled)                 (unscaled)
+Objective...............:  0.0000000000000000e+000   0.0000000000000000e+000
+Dual infeasibility......:  0.0000000000000000e+000   0.0000000000000000e+000
+Constraint violation....:  9.8953023552894592e-010   9.8953023552894592e-010
+Complementarity.........:  0.0000000000000000e+000   0.0000000000000000e+000
+Overall NLP error.......:  9.8953023552894592e-010   9.8953023552894592e-010
+
+
+Number of objective function evaluations             = 5
+Number of objective gradient evaluations             = 4
+Number of equality constraint evaluations            = 5
+Number of inequality constraint evaluations          = 0
+Number of equality constraint Jacobian evaluations   = 4
+Number of inequality constraint Jacobian evaluations = 0
+Number of Lagrangian Hessian evaluations             = 3
+Total CPU secs in IPOPT (w/o function evaluations)   =     13.051
+Total CPU secs in NLP function evaluations           =      0.132
+
+EXIT: Optimal Solution Found.

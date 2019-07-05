@@ -1,0 +1,1016 @@
+Model unknown
+
+  Variables:
+    HPCFeed1Temp : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :  None : -172.9133217527942 :  None : False : False :  Reals
+    HPCFeed1LiqMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.016592086631534927 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.4897712742527343 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.4936366391157308 :     1 : False : False :  Reals
+    HPCFeed1VapMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.009151181905478787 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.7871475250152503 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.2037012930792708 :     1 : False : False :  Reals
+    HPCFeed2Temp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -175.45005287578545 :  None : False : False :  Reals
+    HPCFeed2LiqMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.006082274504320165 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.7734123886005839 :     1 : False : False :  Reals
+          Oxygen :     0 :   0.2205053368950959 :     1 : False : False :  Reals
+    HPCFeed2VapMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.044342981944033126 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.8660118107101683 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.08964520734579846 :     1 : False : False :  Reals
+    HPCVapLvMFlow : Size=42, Index=HPCTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 :  3285.270446716192 :  None : False : False : NonNegativeReals
+          2 :     0 : 3304.3938015922217 :  None : False : False : NonNegativeReals
+          3 :     0 : 3323.9404728995773 :  None : False : False : NonNegativeReals
+          4 :     0 : 3557.6748335935363 :  None : False : False : NonNegativeReals
+          5 :     0 : 3566.6535774504478 :  None : False : False : NonNegativeReals
+          6 :     0 : 3583.2397487811845 :  None : False : False : NonNegativeReals
+          7 :     0 :  3600.081332559893 :  None : False : False : NonNegativeReals
+          8 :     0 : 3616.6107971473484 :  None : False : False : NonNegativeReals
+          9 :     0 : 3632.1551653524275 :  None : False : False : NonNegativeReals
+         10 :     0 : 3646.2705769518416 :  None : False : False : NonNegativeReals
+         11 :     0 :   3658.66918494138 :  None : False : False : NonNegativeReals
+         12 :     0 : 3669.2575360408596 :  None : False : False : NonNegativeReals
+         13 :     0 :  3678.084641138944 :  None : False : False : NonNegativeReals
+         14 :     0 :  3685.303218574499 :  None : False : False : NonNegativeReals
+         15 :     0 : 3691.1120489439854 :  None : False : False : NonNegativeReals
+         16 :     0 :  3695.730264419801 :  None : False : False : NonNegativeReals
+         17 :     0 : 3699.3671974523786 :  None : False : False : NonNegativeReals
+         18 :     0 : 3702.2113783319605 :  None : False : False : NonNegativeReals
+         19 :     0 :  3704.423748482256 :  None : False : False : NonNegativeReals
+         20 :     0 : 3706.1401516953824 :  None : False : False : NonNegativeReals
+         21 :     0 : 3707.4677419139193 :  None : False : False : NonNegativeReals
+         22 :     0 : 3661.2039537424653 :  None : False : False : NonNegativeReals
+         23 :     0 :  3661.981281187134 :  None : False : False : NonNegativeReals
+         24 :     0 : 3662.5687760481073 :  None : False : False : NonNegativeReals
+         25 :     0 : 3663.0102451176194 :  None : False : False : NonNegativeReals
+         26 :     0 :  3663.338994590972 :  None : False : False : NonNegativeReals
+         27 :     0 : 3663.5803460401366 :  None : False : False : NonNegativeReals
+         28 :     0 : 3663.7533766254487 :  None : False : False : NonNegativeReals
+         29 :     0 : 3663.8727041332286 :  None : False : False : NonNegativeReals
+         30 :     0 : 3663.9484079709987 :  None : False : False : NonNegativeReals
+         31 :     0 : 3663.9892337489987 :  None : False : False : NonNegativeReals
+         32 :     0 :  3664.001245687381 :  None : False : False : NonNegativeReals
+         33 :     0 :  3663.988332801821 :  None : False : False : NonNegativeReals
+         34 :     0 :  3663.955591976615 :  None : False : False : NonNegativeReals
+         35 :     0 :  3663.904378499117 :  None : False : False : NonNegativeReals
+         36 :     0 : 3663.8376737364915 :  None : False : False : NonNegativeReals
+         37 :     0 :  3663.756331154419 :  None : False : False : NonNegativeReals
+         38 :     0 : 3663.6463100602405 :  None : False : False : NonNegativeReals
+         39 :     0 : 3663.5585641462612 :  None : False : False : NonNegativeReals
+         40 :     0 :  3663.444342099237 :  None : False : False : NonNegativeReals
+         41 :     0 :  3663.323402362376 :  None : False : False : NonNegativeReals
+         42 :     0 : 3663.5828986866586 :  None : False : False : NonNegativeReals
+    HPCLiqLvMFlow : Size=42, Index=HPCTrays
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 : 2129.9691850567638 :  None : False : False : NonNegativeReals
+          2 :     0 : 2089.2396317729554 :  None : False : False : NonNegativeReals
+          3 :     0 :  2108.362986648986 :  None : False : False : NonNegativeReals
+          4 :     0 :  2127.909657956341 :  None : False : False : NonNegativeReals
+          5 :     0 : 1085.6440186503005 :  None : False : False : NonNegativeReals
+          6 :     0 : 1094.6227625072117 :  None : False : False : NonNegativeReals
+          7 :     0 :  1941.008933837948 :  None : False : False : NonNegativeReals
+          8 :     0 :  1957.850517616657 :  None : False : False : NonNegativeReals
+          9 :     0 : 1974.3799822041121 :  None : False : False : NonNegativeReals
+         10 :     0 :  1989.924350409192 :  None : False : False : NonNegativeReals
+         11 :     0 : 2004.0397620086062 :  None : False : False : NonNegativeReals
+         12 :     0 :  2016.438369998145 :  None : False : False : NonNegativeReals
+         13 :     0 : 2027.0267210976244 :  None : False : False : NonNegativeReals
+         14 :     0 : 2035.8538261957087 :  None : False : False : NonNegativeReals
+         15 :     0 : 2043.0724036312636 :  None : False : False : NonNegativeReals
+         16 :     0 : 2048.8812340007494 :  None : False : False : NonNegativeReals
+         17 :     0 : 2053.4994494765647 :  None : False : False : NonNegativeReals
+         18 :     0 : 2057.1363825091416 :  None : False : False : NonNegativeReals
+         19 :     0 :  2059.980563388724 :  None : False : False : NonNegativeReals
+         20 :     0 :  2062.192933539019 :  None : False : False : NonNegativeReals
+         21 :     0 : 2063.9093367521464 :  None : False : False : NonNegativeReals
+         22 :     0 : 2065.2369269706837 :  None : False : False : NonNegativeReals
+         23 :     0 :  2066.263138799229 :  None : False : False : NonNegativeReals
+         24 :     0 : 2067.0404662438978 :  None : False : False : NonNegativeReals
+         25 :     0 :  2067.627961104871 :  None : False : False : NonNegativeReals
+         26 :     0 :  2068.069430174384 :  None : False : False : NonNegativeReals
+         27 :     0 :  2068.398179647736 :  None : False : False : NonNegativeReals
+         28 :     0 : 2068.6395310969006 :  None : False : False : NonNegativeReals
+         29 :     0 : 2068.8125616822126 :  None : False : False : NonNegativeReals
+         30 :     0 :  2068.931889189993 :  None : False : False : NonNegativeReals
+         31 :     0 : 2069.0075930277635 :  None : False : False : NonNegativeReals
+         32 :     0 : 2069.0484188057626 :  None : False : False : NonNegativeReals
+         33 :     0 :  2069.060430744146 :  None : False : False : NonNegativeReals
+         34 :     0 :  2069.047517858585 :  None : False : False : NonNegativeReals
+         35 :     0 :  2069.014777033379 :  None : False : False : NonNegativeReals
+         36 :     0 : 2068.9635635558802 :  None : False : False : NonNegativeReals
+         37 :     0 :  2068.896858793255 :  None : False : False : NonNegativeReals
+         38 :     0 : 2068.8155162111816 :  None : False : False : NonNegativeReals
+         39 :     0 : 2068.7054951170035 :  None : False : False : NonNegativeReals
+         40 :     0 :  2068.617749203024 :  None : False : False : NonNegativeReals
+         41 :     0 : 2068.5035271559996 :  None : False : False : NonNegativeReals
+         42 :     0 :  2068.382587419138 :  None : False : False : NonNegativeReals
+    HPCTrayTemp : Size=42, Index=HPCTrays
+        Key : Lower : Value               : Upper : Fixed : Stale : Domain
+          1 :  None :  -173.6747137878953 :  None : False : False :  Reals
+          2 :  None : -174.05392205528494 :  None : False : False :  Reals
+          3 :  None : -174.43720410392865 :  None : False : False :  Reals
+          4 :  None :  -174.8073983110251 :  None : False : False :  Reals
+          5 :  None :  -174.9783501743476 :  None : False : False :  Reals
+          6 :  None :  -175.2828055997677 :  None : False : False :  Reals
+          7 :  None :  -175.5915808659757 :  None : False : False :  Reals
+          8 :  None : -175.89304038837892 :  None : False : False :  Reals
+          9 :  None : -176.17690363870057 :  None : False : False :  Reals
+         10 :  None : -176.43550931946294 :  None : False : False :  Reals
+         11 :  None : -176.66444196440102 :  None : False : False :  Reals
+         12 :  None : -176.86235810733336 :  None : False : False :  Reals
+         13 :  None : -177.03035523811934 :  None : False : False :  Reals
+         14 :  None : -177.17111423965864 :  None : False : False :  Reals
+         15 :  None : -177.28814971289071 :  None : False : False :  Reals
+         16 :  None :  -177.3851821831895 :  None : False : False :  Reals
+         17 :  None : -177.46577292008777 :  None : False : False :  Reals
+         18 :  None : -177.53310029409286 :  None : False : False :  Reals
+         19 :  None : -177.58988702513042 :  None : False : False :  Reals
+         20 :  None : -177.63838261130294 :  None : False : False :  Reals
+         21 :  None :  -177.6804122081193 :  None : False : False :  Reals
+         22 :  None : -177.71741740108632 :  None : False : False :  Reals
+         23 :  None : -177.75053791432902 :  None : False : False :  Reals
+         24 :  None : -177.78045962600322 :  None : False : False :  Reals
+         25 :  None : -177.80792662056743 :  None : False : False :  Reals
+         26 :  None : -177.83350292820668 :  None : False : False :  Reals
+         27 :  None : -177.85761534291538 :  None : False : False :  Reals
+         28 :  None : -177.88058409889274 :  None : False : False :  Reals
+         29 :  None :  -177.9026518614106 :  None : False : False :  Reals
+         30 :  None :  -177.9240012264855 :  None : False : False :  Reals
+         31 :  None : -177.94476954892545 :  None : False : False :  Reals
+         32 :  None : -177.96505959355437 :  None : False : False :  Reals
+         33 :  None : -177.98495188777775 :  None : False : False :  Reals
+         34 :  None :  -178.0045050524608 :  None : False : False :  Reals
+         35 :  None : -178.02376668935938 :  None : False : False :  Reals
+         36 :  None : -178.04277267583683 :  None : False : False :  Reals
+         37 :  None :  -178.0615498354869 :  None : False : False :  Reals
+         38 :  None :  -178.0801204534965 :  None : False : False :  Reals
+         39 :  None : -178.09855390183503 :  None : False : False :  Reals
+         40 :  None :  -178.1167947934979 :  None : False : False :  Reals
+         41 :  None : -178.13486505581466 :  None : False : False :  Reals
+         42 :  None :  -178.1527755914158 :  None : False : False :  Reals
+    HPCTrayPressure : Size=42, Index=HPCTrays
+        Key : Lower : Value             : Upper : Fixed : Stale : Domain
+          1 :  None :             564.0 :  None : False : False :  Reals
+          2 :  None :  563.380487804878 :  None : False : False :  Reals
+          3 :  None : 562.7609756097561 :  None : False : False :  Reals
+          4 :  None : 562.1414634146341 :  None : False : False :  Reals
+          5 :  None : 561.5219512195122 :  None : False : False :  Reals
+          6 :  None : 560.9024390243902 :  None : False : False :  Reals
+          7 :  None : 560.2829268292683 :  None : False : False :  Reals
+          8 :  None : 559.6634146341463 :  None : False : False :  Reals
+          9 :  None : 559.0439024390244 :  None : False : False :  Reals
+         10 :  None : 558.4243902439024 :  None : False : False :  Reals
+         11 :  None : 557.8048780487804 :  None : False : False :  Reals
+         12 :  None : 557.1853658536586 :  None : False : False :  Reals
+         13 :  None : 556.5658536585366 :  None : False : False :  Reals
+         14 :  None : 555.9463414634147 :  None : False : False :  Reals
+         15 :  None : 555.3268292682927 :  None : False : False :  Reals
+         16 :  None : 554.7073170731708 :  None : False : False :  Reals
+         17 :  None : 554.0878048780488 :  None : False : False :  Reals
+         18 :  None : 553.4682926829269 :  None : False : False :  Reals
+         19 :  None : 552.8487804878049 :  None : False : False :  Reals
+         20 :  None :  552.229268292683 :  None : False : False :  Reals
+         21 :  None :  551.609756097561 :  None : False : False :  Reals
+         22 :  None :  550.990243902439 :  None : False : False :  Reals
+         23 :  None : 550.3707317073171 :  None : False : False :  Reals
+         24 :  None : 549.7512195121951 :  None : False : False :  Reals
+         25 :  None : 549.1317073170732 :  None : False : False :  Reals
+         26 :  None : 548.5121951219512 :  None : False : False :  Reals
+         27 :  None : 547.8926829268293 :  None : False : False :  Reals
+         28 :  None : 547.2731707317073 :  None : False : False :  Reals
+         29 :  None : 546.6536585365853 :  None : False : False :  Reals
+         30 :  None : 546.0341463414634 :  None : False : False :  Reals
+         31 :  None : 545.4146341463414 :  None : False : False :  Reals
+         32 :  None : 544.7951219512195 :  None : False : False :  Reals
+         33 :  None : 544.1756097560976 :  None : False : False :  Reals
+         34 :  None : 543.5560975609757 :  None : False : False :  Reals
+         35 :  None : 542.9365853658537 :  None : False : False :  Reals
+         36 :  None : 542.3170731707318 :  None : False : False :  Reals
+         37 :  None : 541.6975609756098 :  None : False : False :  Reals
+         38 :  None : 541.0780487804878 :  None : False : False :  Reals
+         39 :  None : 540.4585365853659 :  None : False : False :  Reals
+         40 :  None : 539.8390243902439 :  None : False : False :  Reals
+         41 :  None :  539.219512195122 :  None : False : False :  Reals
+         42 :  None :             538.6 :  None : False : False :  Reals
+    HPCLiqLvMFrac : Size=126, Index=HPCLiqLvMFrac_index
+        Key              : Lower : Value                  : Upper : Fixed : Stale : Domain
+            (1, 'Argon') :     0 :   0.013726066153293654 :     1 : False : False :  Reals
+         (1, 'Nitrogen') :     0 :     0.6218101468792158 :     1 : False : False :  Reals
+           (1, 'Oxygen') :     0 :    0.36446378696749054 :     1 : False : False :  Reals
+            (2, 'Argon') :     0 :   0.013691172598408557 :     1 : False : False :  Reals
+         (2, 'Nitrogen') :     0 :     0.6530519038941519 :     1 : False : False :  Reals
+           (2, 'Oxygen') :     0 :     0.3332569235074395 :     1 : False : False :  Reals
+            (3, 'Argon') :     0 :   0.013307418849714852 :     1 : False : False :  Reals
+         (3, 'Nitrogen') :     0 :     0.6855696826338907 :     1 : False : False :  Reals
+           (3, 'Oxygen') :     0 :    0.30112289851639445 :     1 : False : False :  Reals
+            (4, 'Argon') :     0 :   0.012578983528727604 :     1 : False : False :  Reals
+         (4, 'Nitrogen') :     0 :     0.7177882160566078 :     1 : False : False :  Reals
+           (4, 'Oxygen') :     0 :    0.26963280041466464 :     1 : False : False :  Reals
+            (5, 'Argon') :     0 :   0.013497985862132864 :     1 : False : False :  Reals
+         (5, 'Nitrogen') :     0 :     0.7319785995216423 :     1 : False : False :  Reals
+           (5, 'Oxygen') :     0 :    0.25452341461622474 :     1 : False : False :  Reals
+            (6, 'Argon') :     0 :   0.015070432560723417 :     1 : False : False :  Reals
+         (6, 'Nitrogen') :     0 :      0.758706458136159 :     1 : False : False :  Reals
+           (6, 'Oxygen') :     0 :    0.22622310930311765 :     1 : False : False :  Reals
+            (7, 'Argon') :     0 :   0.016531836947445325 :     1 : False : False :  Reals
+         (7, 'Nitrogen') :     0 :     0.7864027584828168 :     1 : False : False :  Reals
+           (7, 'Oxygen') :     0 :     0.1970654045697379 :     1 : False : False :  Reals
+            (8, 'Argon') :     0 :   0.017801093037202495 :     1 : False : False :  Reals
+         (8, 'Nitrogen') :     0 :     0.8139649764033466 :     1 : False : False :  Reals
+           (8, 'Oxygen') :     0 :    0.16823393055945082 :     1 : False : False :  Reals
+            (9, 'Argon') :     0 :   0.018815559466535434 :     1 : False : False :  Reals
+         (9, 'Nitrogen') :     0 :     0.8403393560510812 :     1 : False : False :  Reals
+           (9, 'Oxygen') :     0 :    0.14084508448238328 :     1 : False : False :  Reals
+           (10, 'Argon') :     0 :   0.019537860810226456 :     1 : False : False :  Reals
+        (10, 'Nitrogen') :     0 :     0.8646671777801774 :     1 : False : False :  Reals
+          (10, 'Oxygen') :     0 :    0.11579496140959616 :     1 : False : False :  Reals
+           (11, 'Argon') :     0 :   0.019959691986751897 :     1 : False : False :  Reals
+        (11, 'Nitrogen') :     0 :     0.8863816529676743 :     1 : False : False :  Reals
+          (11, 'Oxygen') :     0 :    0.09365865504557376 :     1 : False : False :  Reals
+           (12, 'Argon') :     0 :   0.020098996501490374 :     1 : False : False :  Reals
+        (12, 'Nitrogen') :     0 :     0.9052213368595697 :     1 : False : False :  Reals
+          (12, 'Oxygen') :     0 :    0.07467966663893988 :     1 : False : False :  Reals
+           (13, 'Argon') :     0 :   0.019986268638062833 :     1 : False : False :  Reals
+        (13, 'Nitrogen') :     0 :     0.9211898118128496 :     1 : False : False :  Reals
+          (13, 'Oxygen') :     0 :    0.05882391954908751 :     1 : False : False :  Reals
+           (14, 'Argon') :     0 :   0.019665233859619918 :     1 : False : False :  Reals
+        (14, 'Nitrogen') :     0 :     0.9344768572196106 :     1 : False : False :  Reals
+          (14, 'Oxygen') :     0 :   0.045857908920769505 :     1 : False : False :  Reals
+           (15, 'Argon') :     0 :   0.019169418158257227 :     1 : False : False :  Reals
+        (15, 'Nitrogen') :     0 :      0.945383104523176 :     1 : False : False :  Reals
+          (15, 'Oxygen') :     0 :   0.035447477318566935 :     1 : False : False :  Reals
+           (16, 'Argon') :     0 :     0.0185417984535287 :     1 : False : False :  Reals
+        (16, 'Nitrogen') :     0 :     0.9542521069630618 :     1 : False : False :  Reals
+          (16, 'Oxygen') :     0 :   0.027206094583409463 :     1 : False : False :  Reals
+           (17, 'Argon') :     0 :    0.01781794623367028 :     1 : False : False :  Reals
+        (17, 'Nitrogen') :     0 :     0.9614264559049585 :     1 : False : False :  Reals
+          (17, 'Oxygen') :     0 :    0.02075559786137124 :     1 : False : False :  Reals
+           (18, 'Argon') :     0 :   0.017025862492938616 :     1 : False : False :  Reals
+        (18, 'Nitrogen') :     0 :     0.9672210585754306 :     1 : False : False :  Reals
+          (18, 'Oxygen') :     0 :     0.0157530789316308 :     1 : False : False :  Reals
+           (19, 'Argon') :     0 :   0.016187926018427886 :     1 : False : False :  Reals
+        (19, 'Nitrogen') :     0 :     0.9719101291330468 :     1 : False : False :  Reals
+          (19, 'Oxygen') :     0 :   0.011901944848525354 :     1 : False : False :  Reals
+           (20, 'Argon') :     0 :    0.01532230122957375 :     1 : False : False :  Reals
+        (20, 'Nitrogen') :     0 :     0.9757234962817609 :     1 : False : False :  Reals
+          (20, 'Oxygen') :     0 :   0.008954202488665323 :     1 : False : False :  Reals
+           (21, 'Argon') :     0 :    0.01444205315543856 :     1 : False : False :  Reals
+        (21, 'Nitrogen') :     0 :     0.9788497281329895 :     1 : False : False :  Reals
+          (21, 'Oxygen') :     0 :     0.0067082187115719 :     1 : False : False :  Reals
+           (22, 'Argon') :     0 :   0.013558189129529987 :     1 : False : False :  Reals
+        (22, 'Nitrogen') :     0 :     0.9814387768212377 :     1 : False : False :  Reals
+          (22, 'Oxygen') :     0 :    0.00500303404923217 :     1 : False : False :  Reals
+           (23, 'Argon') :     0 :    0.01267786906795246 :     1 : False : False :  Reals
+        (23, 'Nitrogen') :     0 :     0.9836096669828894 :     1 : False : False :  Reals
+          (23, 'Oxygen') :     0 :   0.003712463949157996 :     1 : False : False :  Reals
+           (24, 'Argon') :     0 :   0.011817582273026105 :     1 : False : False :  Reals
+        (24, 'Nitrogen') :     0 :     0.9854318761024013 :     1 : False : False :  Reals
+          (24, 'Oxygen') :     0 :   0.002750541624572509 :     1 : False : False :  Reals
+           (25, 'Argon') :     0 :   0.010981097835631162 :     1 : False : False :  Reals
+        (25, 'Nitrogen') :     0 :      0.986984034709016 :     1 : False : False :  Reals
+          (25, 'Oxygen') :     0 :   0.002034867455352795 :     1 : False : False :  Reals
+           (26, 'Argon') :     0 :    0.01017057409301984 :     1 : False : False :  Reals
+        (26, 'Nitrogen') :     0 :     0.9883260008495455 :     1 : False : False :  Reals
+          (26, 'Oxygen') :     0 :  0.0015034250574346912 :     1 : False : False :  Reals
+           (27, 'Argon') :     0 :   0.009387358179981691 :     1 : False : False :  Reals
+        (27, 'Nitrogen') :     0 :     0.9895032904778058 :     1 : False : False :  Reals
+          (27, 'Oxygen') :     0 :   0.001109351342212485 :     1 : False : False :  Reals
+           (28, 'Argon') :     0 :   0.008632358646488675 :     1 : False : False :  Reals
+        (28, 'Nitrogen') :     0 :     0.9905501563087061 :     1 : False : False :  Reals
+          (28, 'Oxygen') :     0 :  0.0008174850448052172 :     1 : False : False :  Reals
+           (29, 'Argon') :     0 :    0.00790560601840216 :     1 : False : False :  Reals
+        (29, 'Nitrogen') :     0 :      0.991492813472614 :     1 : False : False :  Reals
+          (29, 'Oxygen') :     0 :  0.0006015805089837215 :     1 : False : False :  Reals
+           (30, 'Argon') :     0 :   0.007207623081237363 :     1 : False : False :  Reals
+        (30, 'Nitrogen') :     0 :     0.9923506019611769 :     1 : False : False :  Reals
+          (30, 'Oxygen') :     0 :  0.0004417749575857506 :     1 : False : False :  Reals
+           (31, 'Argon') :     0 :   0.006537563485287707 :     1 : False : False :  Reals
+        (31, 'Nitrogen') :     0 :     0.9931385410948396 :     1 : False : False :  Reals
+          (31, 'Oxygen') :     0 :  0.0003238954198727285 :     1 : False : False :  Reals
+           (32, 'Argon') :     0 :   0.005895356315722931 :     1 : False : False :  Reals
+        (32, 'Nitrogen') :     0 :     0.9938679102758781 :     1 : False : False :  Reals
+          (32, 'Oxygen') :     0 : 0.00023673340839885175 :     1 : False : False :  Reals
+           (33, 'Argon') :     0 :   0.005280178309431145 :     1 : False : False :  Reals
+        (33, 'Nitrogen') :     0 :      0.994547319586437 :     1 : False : False :  Reals
+          (33, 'Oxygen') :     0 : 0.00017250210413172228 :     1 : False : False :  Reals
+           (34, 'Argon') :     0 :  0.0046912852676652865 :     1 : False : False :  Reals
+        (34, 'Nitrogen') :     0 :     0.9951833836182573 :     1 : False : False :  Reals
+          (34, 'Oxygen') :     0 : 0.00012533111407730049 :     1 : False : False :  Reals
+           (35, 'Argon') :     0 :   0.004128203939316051 :     1 : False : False :  Reals
+        (35, 'Nitrogen') :     0 :     0.9957812418926851 :     1 : False : False :  Reals
+          (35, 'Oxygen') :     0 :  9.055416799886729e-05 :     1 : False : False :  Reals
+           (36, 'Argon') :     0 :   0.003589995790135155 :     1 : False : False :  Reals
+        (36, 'Nitrogen') :     0 :     0.9963449645227492 :     1 : False : False :  Reals
+          (36, 'Oxygen') :     0 :  6.503968711570288e-05 :     1 : False : False :  Reals
+           (37, 'Argon') :     0 :   0.003076188816644688 :     1 : False : False :  Reals
+        (37, 'Nitrogen') :     0 :      0.996877600277703 :     1 : False : False :  Reals
+          (37, 'Oxygen') :     0 :  4.621090565232343e-05 :     1 : False : False :  Reals
+           (38, 'Argon') :     0 :  0.0025860305247777677 :     1 : False : False :  Reals
+        (38, 'Nitrogen') :     0 :     0.9973816806494529 :     1 : False : False :  Reals
+          (38, 'Oxygen') :     0 :   3.22888257693446e-05 :     1 : False : False :  Reals
+           (39, 'Argon') :     0 :  0.0021122868406479654 :     1 : False : False :  Reals
+        (39, 'Nitrogen') :     0 :     0.9978655536532975 :     1 : False : False :  Reals
+          (39, 'Oxygen') :     0 : 2.2159506054483477e-05 :     1 : False : False :  Reals
+           (40, 'Argon') :     0 :  0.0016620973730991308 :     1 : False : False :  Reals
+        (40, 'Nitrogen') :     0 :     0.9983232958559235 :     1 : False : False :  Reals
+          (40, 'Oxygen') :     0 : 1.4606770977403844e-05 :     1 : False : False :  Reals
+           (41, 'Argon') :     0 :  0.0012345750643056941 :     1 : False : False :  Reals
+        (41, 'Nitrogen') :     0 :      0.998756288183093 :     1 : False : False :  Reals
+          (41, 'Oxygen') :     0 :  9.136752601372841e-06 :     1 : False : False :  Reals
+           (42, 'Argon') :     0 :  0.0008287672098214556 :     1 : False : False :  Reals
+        (42, 'Nitrogen') :     0 :      0.999166223184594 :     1 : False : False :  Reals
+          (42, 'Oxygen') :     0 :  5.009605584534009e-06 :     1 : False : False :  Reals
+    HPCVapLvMFrac : Size=126, Index=HPCVapLvMFrac_index
+        Key              : Lower : Value                  : Upper : Fixed : Stale : Domain
+            (1, 'Argon') :     0 :   0.009222937030880684 :     1 : False : False :  Reals
+         (1, 'Nitrogen') :     0 :     0.8030439838063075 :     1 : False : False :  Reals
+           (1, 'Oxygen') :     0 :     0.1877330791628118 :     1 : False : False :  Reals
+            (2, 'Argon') :     0 :   0.009003942386552338 :     1 : False : False :  Reals
+         (2, 'Nitrogen') :     0 :      0.822923856870615 :     1 : False : False :  Reals
+           (2, 'Oxygen') :     0 :     0.1680722007428326 :     1 : False : False :  Reals
+            (3, 'Argon') :     0 :   0.008562921878882829 :     1 : False : False :  Reals
+         (3, 'Nitrogen') :     0 :     0.8427416941862825 :     1 : False : False :  Reals
+           (3, 'Oxygen') :     0 :     0.1486953839348347 :     1 : False : False :  Reals
+            (4, 'Argon') :     0 :   0.007931165999233845 :     1 : False : False :  Reals
+         (4, 'Nitrogen') :     0 :     0.8616060432499006 :     1 : False : False :  Reals
+           (4, 'Oxygen') :     0 :    0.13046279075086556 :     1 : False : False :  Reals
+            (5, 'Argon') :     0 :   0.008427771279350139 :     1 : False : False :  Reals
+         (5, 'Nitrogen') :     0 :     0.8694826228526217 :     1 : False : False :  Reals
+           (5, 'Oxygen') :     0 :    0.12208960586802824 :     1 : False : False :  Reals
+            (6, 'Argon') :     0 :   0.009250148651671362 :     1 : False : False :  Reals
+         (6, 'Nitrogen') :     0 :     0.8839726982031942 :     1 : False : False :  Reals
+           (6, 'Oxygen') :     0 :    0.10677715314513435 :     1 : False : False :  Reals
+            (7, 'Argon') :     0 :   0.009974479191810852 :     1 : False : False :  Reals
+         (7, 'Nitrogen') :     0 :     0.8985055560678058 :     1 : False : False :  Reals
+           (7, 'Oxygen') :     0 :    0.09151996474038322 :     1 : False : False :  Reals
+            (8, 'Argon') :     0 :   0.010564067639503369 :     1 : False : False :  Reals
+         (8, 'Nitrogen') :     0 :     0.9125174693058101 :     1 : False : False :  Reals
+           (8, 'Oxygen') :     0 :     0.0769184630546864 :     1 : False : False :  Reals
+            (9, 'Argon') :     0 :    0.01099510353695837 :     1 : False : False :  Reals
+         (9, 'Nitrogen') :     0 :     0.9255368915283717 :     1 : False : False :  Reals
+           (9, 'Oxygen') :     0 :    0.06346800493467002 :     1 : False : False :  Reals
+           (10, 'Argon') :     0 :    0.01126001832205911 :     1 : False : False :  Reals
+        (10, 'Nitrogen') :     0 :     0.9372358232782374 :     1 : False : False :  Reals
+          (10, 'Oxygen') :     0 :    0.05150415839970347 :     1 : False : False :  Reals
+           (11, 'Argon') :     0 :    0.01136627630553877 :     1 : False : False :  Reals
+        (11, 'Nitrogen') :     0 :     0.9474467876116106 :     1 : False : False :  Reals
+          (11, 'Oxygen') :     0 :    0.04118693608285062 :     1 : False : False :  Reals
+           (12, 'Argon') :     0 :   0.011329201424656408 :     1 : False : False :  Reals
+        (12, 'Nitrogen') :     0 :     0.9561464842717871 :     1 : False : False :  Reals
+          (12, 'Oxygen') :     0 :    0.03252431430355647 :     1 : False : False :  Reals
+           (13, 'Argon') :     0 :   0.011172281968830406 :     1 : False : False :  Reals
+        (13, 'Nitrogen') :     0 :     0.9634170934668569 :     1 : False : False :  Reals
+          (13, 'Oxygen') :     0 :    0.02541062456431275 :     1 : False : False :  Reals
+           (14, 'Argon') :     0 :   0.010914045322427379 :     1 : False : False :  Reals
+        (14, 'Nitrogen') :     0 :     0.9694066536871405 :     1 : False : False :  Reals
+          (14, 'Oxygen') :     0 :   0.019679300990432077 :     1 : False : False :  Reals
+           (15, 'Argon') :     0 :   0.010578654752589208 :     1 : False : False :  Reals
+        (15, 'Nitrogen') :     0 :      0.974291897944779 :     1 : False : False :  Reals
+          (15, 'Oxygen') :     0 :    0.01512944730263165 :     1 : False : False :  Reals
+           (16, 'Argon') :     0 :   0.010186403555412058 :     1 : False : False :  Reals
+        (16, 'Nitrogen') :     0 :     0.9782532188426284 :     1 : False : False :  Reals
+          (16, 'Oxygen') :     0 :   0.011560377601959578 :     1 : False : False :  Reals
+           (17, 'Argon') :     0 :   0.009753446029064241 :     1 : False : False :  Reals
+        (17, 'Nitrogen') :     0 :     0.9814589266115935 :     1 : False : False :  Reals
+          (17, 'Oxygen') :     0 :    0.00878762735934221 :     1 : False : False :  Reals
+           (18, 'Argon') :     0 :   0.009292789246291653 :     1 : False : False :  Reals
+        (18, 'Nitrogen') :     0 :      0.984057076245312 :     1 : False : False :  Reals
+          (18, 'Oxygen') :     0 :   0.006650134508396331 :     1 : False : False :  Reals
+           (19, 'Argon') :     0 :    0.00881502783239182 :     1 : False : False :  Reals
+        (19, 'Nitrogen') :     0 :     0.9861726617656668 :     1 : False : False :  Reals
+          (19, 'Oxygen') :     0 :   0.005012310401941395 :     1 : False : False :  Reals
+           (20, 'Argon') :     0 :   0.008327840883174396 :     1 : False : False :  Reals
+        (20, 'Nitrogen') :     0 :     0.9879087871850669 :     1 : False : False :  Reals
+          (20, 'Oxygen') :     0 :  0.0037633719317586873 :     1 : False : False :  Reals
+           (21, 'Argon') :     0 :   0.007837675740039737 :     1 : False : False :  Reals
+        (21, 'Nitrogen') :     0 :     0.9893477672679266 :     1 : False : False :  Reals
+          (21, 'Oxygen') :     0 :   0.002814556992033644 :     1 : False : False :  Reals
+           (22, 'Argon') :     0 :   0.007348770416799568 :     1 : False : False :  Reals
+        (22, 'Nitrogen') :     0 :     0.9905551344837678 :     1 : False : False :  Reals
+          (22, 'Oxygen') :     0 :  0.0020960950994325734 :     1 : False : False :  Reals
+           (23, 'Argon') :     0 :   0.006864304487848494 :     1 : False : False :  Reals
+        (23, 'Nitrogen') :     0 :     0.9915822235912165 :     1 : False : False :  Reals
+          (23, 'Oxygen') :     0 :  0.0015534719209350564 :     1 : False : False :  Reals
+           (24, 'Argon') :     0 :   0.006392878914084154 :     1 : False : False :  Reals
+        (24, 'Nitrogen') :     0 :     0.9924574762987337 :     1 : False : False :  Reals
+          (24, 'Oxygen') :     0 :    0.00114964478718217 :     1 : False : False :  Reals
+           (25, 'Argon') :     0 :   0.005935824823072663 :     1 : False : False :  Reals
+        (25, 'Nitrogen') :     0 :     0.9932144664819434 :     1 : False : False :  Reals
+          (25, 'Oxygen') :     0 :  0.0008497086949838668 :     1 : False : False :  Reals
+           (26, 'Argon') :     0 :   0.005493984687677596 :     1 : False : False :  Reals
+        (26, 'Nitrogen') :     0 :     0.9938787502534615 :     1 : False : False :  Reals
+          (26, 'Oxygen') :     0 :  0.0006272650588609232 :     1 : False : False :  Reals
+           (27, 'Argon') :     0 :   0.005067930919960551 :     1 : False : False :  Reals
+        (27, 'Nitrogen') :     0 :     0.9944695744783214 :     1 : False : False :  Reals
+          (27, 'Oxygen') :     0 : 0.00046249460171793837 :     1 : False : False :  Reals
+           (28, 'Argon') :     0 :   0.004657723666125702 :     1 : False : False :  Reals
+        (28, 'Nitrogen') :     0 :     0.9950016798365666 :     1 : False : False :  Reals
+          (28, 'Oxygen') :     0 :  0.0003405964973077086 :     1 : False : False :  Reals
+           (29, 'Argon') :     0 :   0.004263689344568612 :     1 : False : False :  Reals
+        (29, 'Nitrogen') :     0 :     0.9954859453657805 :     1 : False : False :  Reals
+          (29, 'Oxygen') :     0 : 0.00025036528965091806 :     1 : False : False :  Reals
+           (30, 'Argon') :     0 :  0.0038853719201653813 :     1 : False : False :  Reals
+        (30, 'Nitrogen') :     0 :      0.995930824635766 :     1 : False : False :  Reals
+          (30, 'Oxygen') :     0 : 0.00018380344406865393 :     1 : False : False :  Reals
+           (31, 'Argon') :     0 :  0.0035227481878593405 :     1 : False : False :  Reals
+        (31, 'Nitrogen') :     0 :     0.9963426670450819 :     1 : False : False :  Reals
+          (31, 'Oxygen') :     0 :  0.0001345847670588599 :     1 : False : False :  Reals
+           (32, 'Argon') :     0 :  0.0031753651260578086 :     1 : False : False :  Reals
+        (32, 'Nitrogen') :     0 :     0.9967263211707192 :     1 : False : False :  Reals
+          (32, 'Oxygen') :     0 :  9.831370322302206e-05 :     1 : False : False :  Reals
+           (33, 'Argon') :     0 :  0.0028428108832522516 :     1 : False : False :  Reals
+        (33, 'Nitrogen') :     0 :     0.9970855130468937 :     1 : False : False :  Reals
+          (33, 'Oxygen') :     0 :  7.167606985389583e-05 :     1 : False : False :  Reals
+           (34, 'Argon') :     0 :  0.0025248255582536495 :     1 : False : False :  Reals
+        (34, 'Nitrogen') :     0 :     0.9974231371939918 :     1 : False : False :  Reals
+          (34, 'Oxygen') :     0 :  5.203724775464254e-05 :     1 : False : False :  Reals
+           (35, 'Argon') :     0 :   0.002220883356196287 :     1 : False : False :  Reals
+        (35, 'Nitrogen') :     0 :     0.9977414876606829 :     1 : False : False :  Reals
+          (35, 'Oxygen') :     0 : 3.7628983120826596e-05 :     1 : False : False :  Reals
+           (36, 'Argon') :     0 :  0.0019307217675721118 :     1 : False : False :  Reals
+        (36, 'Nitrogen') :     0 :     0.9980422819898158 :     1 : False : False :  Reals
+          (36, 'Oxygen') :     0 : 2.6996242612087772e-05 :     1 : False : False :  Reals
+           (37, 'Argon') :     0 :  0.0016539183551018968 :     1 : False : False :  Reals
+        (37, 'Nitrogen') :     0 :      0.998326947218206 :     1 : False : False :  Reals
+          (37, 'Oxygen') :     0 :  1.913442669200083e-05 :     1 : False : False :  Reals
+           (38, 'Argon') :     0 :  0.0013863874223274944 :     1 : False : False :  Reals
+        (38, 'Nitrogen') :     0 :     0.9986001981427168 :     1 : False : False :  Reals
+          (38, 'Oxygen') :     0 :  1.341443495570838e-05 :     1 : False : False :  Reals
+           (39, 'Argon') :     0 :  0.0011321718552712316 :     1 : False : False :  Reals
+        (39, 'Nitrogen') :     0 :     0.9988586785492474 :     1 : False : False :  Reals
+          (39, 'Oxygen') :     0 :  9.149595481501926e-06 :     1 : False : False :  Reals
+           (40, 'Argon') :     0 :  0.0008907619005132181 :     1 : False : False :  Reals
+        (40, 'Nitrogen') :     0 :     0.9991031772299631 :     1 : False : False :  Reals
+          (40, 'Oxygen') :     0 :  6.060869523650945e-06 :     1 : False : False :  Reals
+           (41, 'Argon') :     0 :  0.0006616236594819863 :     1 : False : False :  Reals
+        (41, 'Nitrogen') :     0 :     0.9993346458388283 :     1 : False : False :  Reals
+          (41, 'Oxygen') :     0 :  3.730501689745565e-06 :     1 : False : False :  Reals
+           (42, 'Argon') :     0 : 0.00044486526575861565 :     1 : False : False :  Reals
+        (42, 'Nitrogen') :     0 :     0.9995530630252785 :     1 : False : False :  Reals
+          (42, 'Oxygen') :     0 : 2.0717089629052255e-06 :     1 : False : False :  Reals
+    HPCExt6MFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.015070432560723417 :     1 : False : False :  Reals
+        Nitrogen :     0 :    0.758706458136159 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.22622310930311765 :     1 : False : False :  Reals
+    HPCExt6MEtlp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -11067.014826113369 :  None : False : False :  Reals
+    HPCExt22MFrac : Size=3, Index=Component
+        Key      : Lower : Value                 : Upper : Fixed : Stale : Domain
+           Argon :     0 :  0.007348770416799568 :     1 : False : False :  Reals
+        Nitrogen :     0 :    0.9905551344837678 :     1 : False : False :  Reals
+          Oxygen :     0 : 0.0020960950994325734 :     1 : False : False :  Reals
+    HPCExt22MEtlp : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :  None : -6077.38205023886 :  None : False : False :  Reals
+    HPCSumpOutMFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 2129.9691850567638 :  None : False : False : NonNegativeReals
+    HPCSumpHldpMFrac : Size=3, Index=Component
+        Key      : Lower : Value                : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.013726066153293654 :     1 : False : False :  Reals
+        Nitrogen :     0 :   0.6218101468792158 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.36446378696749054 :     1 : False : False :  Reals
+    HPCCondRefMFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 2068.6420837434216 :  None : False : False : NonNegativeReals
+    HPCCondPrdtMFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1594.9408149432368 :  None : False : False : NonNegativeReals
+    HPCCondMHeatOut : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 17654296.632894244 :  None : False : False : NonNegativeReals
+    HPCCondTemp : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  None : -178.15557264959853 :  None : False : False :  Reals
+
+  Objectives:
+    None
+
+  Constraints:
+    HPCFeed1MassBlnc0 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCFeed1MassBlnc1 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCFeed1SelfLiqO2Frac : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.8762769116165146e-14 :   0.0
+    HPCFeed1SelfVapO2Frac : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 2.4702462297909733e-15 :   0.0
+    HPCFeed1SelfVapN2Frac : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.2212453270876722e-15 :   0.0
+    HPCFeed1LiqSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    HPCFeed1VapSum : Size=1
+        Key  : Lower : Body               : Upper
+        None :   1.0 : 0.9999999999999999 :   1.0
+    HPCFeed2MassBlnc0 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCFeed2MassBlnc1 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCFeed2SelfLiqO2Frac : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -8.631984016460592e-15 :   0.0
+    HPCFeed2SelfVapO2Frac : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 2.345346139520643e-15 :   0.0
+    HPCFeed2SelfVapN2Frac : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 5.551115123125783e-16 :   0.0
+    HPCFeed2LiqSum : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    HPCFeed2VapSum : Size=1
+        Key  : Lower : Body               : Upper
+        None :   1.0 : 0.9999999999999999 :   1.0
+    HPCMassBlnc : Size=126
+        Key              : Lower : Body                    : Upper
+            (1, 'Argon') :   0.0 :  -3.733902076419326e-15 :   0.0
+         (1, 'Nitrogen') :   0.0 : -2.7284841053187848e-15 :   0.0
+           (1, 'Oxygen') :   0.0 :  6.1390892369672655e-15 :   0.0
+            (2, 'Argon') :   0.0 :  -5.581313189395587e-15 :   0.0
+         (2, 'Nitrogen') :   0.0 :   1.546140993013978e-14 :   0.0
+           (2, 'Oxygen') :   0.0 :  -8.640199666842818e-15 :   0.0
+            (3, 'Argon') :   0.0 :   4.796163466380677e-16 :   0.0
+         (3, 'Nitrogen') :   0.0 :   3.183231456205249e-15 :   0.0
+           (3, 'Oxygen') :   0.0 :  -4.547473508864641e-15 :   0.0
+            (4, 'Argon') :   0.0 :  -3.339728493756411e-14 :   0.0
+         (4, 'Nitrogen') :   0.0 :  5.3546500566881153e-14 :   0.0
+           (4, 'Oxygen') :   0.0 : -1.9895196601282807e-14 :   0.0
+            (5, 'Argon') :   0.0 :  -1.544933070363186e-13 :   0.0
+         (5, 'Nitrogen') :   0.0 :   3.437889972701669e-13 :   0.0
+           (5, 'Oxygen') :   0.0 :  -1.893454282253515e-13 :   0.0
+            (6, 'Argon') :   0.0 : -3.1754332496802817e-13 :   0.0
+         (6, 'Nitrogen') :   0.0 :   7.667040335945785e-13 :   0.0
+           (6, 'Oxygen') :   0.0 : -4.4894932216266173e-13 :   0.0
+            (7, 'Argon') :   0.0 : -3.5630165484690226e-13 :   0.0
+         (7, 'Nitrogen') :   0.0 :   1.154148776549846e-12 :   0.0
+           (7, 'Oxygen') :   0.0 :  -7.972289495228324e-13 :   0.0
+            (8, 'Argon') :   0.0 :   1.292036699851451e-12 :   0.0
+         (8, 'Nitrogen') :   0.0 :  -3.487002686597407e-12 :   0.0
+           (8, 'Oxygen') :   0.0 :   2.193985437770607e-12 :   0.0
+            (9, 'Argon') :   0.0 : -2.0488570839916065e-12 :   0.0
+         (9, 'Nitrogen') :   0.0 :   6.783011485822499e-12 :   0.0
+           (9, 'Oxygen') :   0.0 :  -4.733209379992331e-12 :   0.0
+           (10, 'Argon') :   0.0 :  -5.944329473095423e-13 :   0.0
+        (10, 'Nitrogen') :   0.0 :   2.095475792884827e-12 :   0.0
+          (10, 'Oxygen') :   0.0 : -1.5010641618573573e-12 :   0.0
+           (11, 'Argon') :   0.0 :  2.2270398858381668e-12 :   0.0
+        (11, 'Nitrogen') :   0.0 :   8.922143024392426e-13 :   0.0
+          (11, 'Oxygen') :   0.0 :  -3.118941549473675e-12 :   0.0
+           (12, 'Argon') :   0.0 :   2.183796254939807e-12 :   0.0
+        (12, 'Nitrogen') :   0.0 :  -4.041794454678893e-12 :   0.0
+          (12, 'Oxygen') :   0.0 :   1.858211362559814e-12 :   0.0
+           (13, 'Argon') :   0.0 :   4.685105636781372e-13 :   0.0
+        (13, 'Nitrogen') :   0.0 :  -3.593868314055726e-12 :   0.0
+          (13, 'Oxygen') :   0.0 :  3.1250380061464966e-12 :   0.0
+           (14, 'Argon') :   0.0 : -1.7181278622047103e-12 :   0.0
+        (14, 'Nitrogen') :   0.0 :  -9.194991434924306e-13 :   0.0
+          (14, 'Oxygen') :   0.0 :  2.6373641048849094e-12 :   0.0
+           (15, 'Argon') :   0.0 : -1.2353140732557221e-12 :   0.0
+        (15, 'Nitrogen') :   0.0 :    1.77351466845721e-14 :   0.0
+          (15, 'Oxygen') :   0.0 :   1.216726275288238e-12 :   0.0
+           (16, 'Argon') :   0.0 :  -8.433502785010205e-13 :   0.0
+        (16, 'Nitrogen') :   0.0 :  4.3291947804391387e-13 :   0.0
+          (16, 'Oxygen') :   0.0 :   4.096563088751282e-13 :   0.0
+           (17, 'Argon') :   0.0 :  -5.357421173357579e-13 :   0.0
+        (17, 'Nitrogen') :   0.0 :   5.247784429229796e-13 :   0.0
+          (17, 'Oxygen') :   0.0 :  1.0345502232667058e-14 :   0.0
+           (18, 'Argon') :   0.0 :  -3.051923158636782e-13 :   0.0
+        (18, 'Nitrogen') :   0.0 :  4.5156411943025887e-13 :   0.0
+          (18, 'Oxygen') :   0.0 : -1.4645706869487186e-13 :   0.0
+           (19, 'Argon') :   0.0 : -1.3532996945286868e-13 :   0.0
+        (19, 'Nitrogen') :   0.0 :   3.124114300590009e-13 :   0.0
+          (19, 'Oxygen') :   0.0 : -1.7708146060613217e-13 :   0.0
+           (20, 'Argon') :   0.0 : -2.1408652628451818e-14 :   0.0
+        (20, 'Nitrogen') :   0.0 :  1.7462298274040223e-13 :   0.0
+          (20, 'Oxygen') :   0.0 : -1.5237056061323529e-13 :   0.0
+           (21, 'Argon') :   0.0 :    6.17355055965163e-14 :   0.0
+        (21, 'Nitrogen') :   0.0 :  5.0022208597511053e-14 :   0.0
+          (21, 'Oxygen') :   0.0 : -1.1147349709972331e-13 :   0.0
+           (22, 'Argon') :   0.0 :   1.112001601910606e-13 :   0.0
+        (22, 'Nitrogen') :   0.0 : -3.9101166748878314e-14 :   0.0
+          (22, 'Oxygen') :   0.0 :   -7.16626619157168e-14 :   0.0
+           (23, 'Argon') :   0.0 :  1.4061640740692382e-13 :   0.0
+        (23, 'Nitrogen') :   0.0 : -1.0322764865122736e-13 :   0.0
+          (23, 'Oxygen') :   0.0 : -3.7827518895028337e-14 :   0.0
+           (24, 'Argon') :   0.0 :   1.567279639402841e-13 :   0.0
+        (24, 'Nitrogen') :   0.0 :  -1.418811734765768e-13 :   0.0
+          (24, 'Oxygen') :   0.0 :  -1.574207431076502e-14 :   0.0
+           (25, 'Argon') :   0.0 :   1.610338529189903e-13 :   0.0
+        (25, 'Nitrogen') :   0.0 : -1.5643308870494367e-13 :   0.0
+          (25, 'Oxygen') :   0.0 : -2.4438229218048946e-15 :   0.0
+           (26, 'Argon') :   0.0 :  1.6112977618831792e-13 :   0.0
+        (26, 'Nitrogen') :   0.0 : -1.6689227777533233e-13 :   0.0
+          (26, 'Oxygen') :   0.0 :  5.0297543907618094e-15 :   0.0
+           (27, 'Argon') :   0.0 :  1.5564793898192875e-13 :   0.0
+        (27, 'Nitrogen') :   0.0 : -1.6370904631912708e-13 :   0.0
+          (27, 'Oxygen') :   0.0 :   8.637757176188644e-15 :   0.0
+           (28, 'Argon') :   0.0 :  1.4856382790640055e-13 :   0.0
+        (28, 'Nitrogen') :   0.0 : -1.5961632016114892e-13 :   0.0
+          (28, 'Oxygen') :   0.0 :   9.690692692743142e-15 :   0.0
+           (29, 'Argon') :   0.0 :  1.4059686748169043e-13 :   0.0
+        (29, 'Nitrogen') :   0.0 : -1.4870238373987377e-13 :   0.0
+          (29, 'Oxygen') :   0.0 :    9.52382617214198e-15 :   0.0
+           (30, 'Argon') :   0.0 :  1.3096190798478348e-13 :   0.0
+        (30, 'Nitrogen') :   0.0 :  -1.382431946694851e-13 :   0.0
+          (30, 'Oxygen') :   0.0 :   8.351874747347666e-15 :   0.0
+           (31, 'Argon') :   0.0 :  1.2153300588124694e-13 :   0.0
+        (31, 'Nitrogen') :   0.0 : -1.3005774235352875e-13 :   0.0
+          (31, 'Oxygen') :   0.0 :    7.20373760643156e-15 :   0.0
+           (32, 'Argon') :   0.0 :  1.1173995062563336e-13 :   0.0
+        (32, 'Nitrogen') :   0.0 : -1.1641532182693482e-13 :   0.0
+          (32, 'Oxygen') :   0.0 :  5.8970606175989814e-15 :   0.0
+           (33, 'Argon') :   0.0 :  1.0169820541250374e-13 :   0.0
+        (33, 'Nitrogen') :   0.0 : -1.0686562745831907e-13 :   0.0
+          (33, 'Oxygen') :   0.0 :   4.566680367190657e-15 :   0.0
+           (34, 'Argon') :   0.0 :    9.22586451679308e-14 :   0.0
+        (34, 'Nitrogen') :   0.0 :  -9.549694368615746e-14 :   0.0
+          (34, 'Oxygen') :   0.0 :  3.5973168888148166e-15 :   0.0
+           (35, 'Argon') :   0.0 :   8.187051037111814e-14 :   0.0
+        (35, 'Nitrogen') :   0.0 :  -8.458300726488233e-14 :   0.0
+          (35, 'Oxygen') :   0.0 :   2.673722354629149e-15 :   0.0
+           (36, 'Argon') :   0.0 :   7.207301422340607e-14 :   0.0
+        (36, 'Nitrogen') :   0.0 :  -7.412381819449365e-14 :   0.0
+          (36, 'Oxygen') :   0.0 :  1.9876600365620334e-15 :   0.0
+           (37, 'Argon') :   0.0 :   6.159073251410518e-14 :   0.0
+        (37, 'Nitrogen') :   0.0 :  -6.366462912410498e-14 :   0.0
+          (37, 'Oxygen') :   0.0 :  1.4455936447888007e-15 :   0.0
+           (38, 'Argon') :   0.0 :   4.881250958987948e-14 :   0.0
+        (38, 'Nitrogen') :   0.0 : -5.0022208597511053e-14 :   0.0
+          (38, 'Oxygen') :   0.0 :   9.329689798498465e-16 :   0.0
+           (39, 'Argon') :   0.0 :  4.4574122171070485e-14 :   0.0
+        (39, 'Nitrogen') :   0.0 : -4.6384229790419343e-14 :   0.0
+          (39, 'Oxygen') :   0.0 :   7.065042995080262e-16 :   0.0
+           (40, 'Argon') :   0.0 :  3.0161206865386703e-14 :   0.0
+        (40, 'Nitrogen') :   0.0 :   -3.04680725093931e-14 :   0.0
+          (40, 'Oxygen') :   0.0 :  3.9984682231875014e-16 :   0.0
+           (41, 'Argon') :   0.0 :  1.9184209776312854e-14 :   0.0
+        (41, 'Nitrogen') :   0.0 :  -2.000888343900442e-14 :   0.0
+          (41, 'Oxygen') :   0.0 :  2.1978079078888159e-16 :   0.0
+           (42, 'Argon') :   0.0 :   9.368283926391996e-15 :   0.0
+        (42, 'Nitrogen') :   0.0 :  -8.640199666842818e-15 :   0.0
+          (42, 'Oxygen') :   0.0 :   8.822803598818041e-17 :   0.0
+    HPCEngBlnc : Size=42
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :  1.7508864402770998e-12 :   0.0
+          2 :   0.0 :  -9.685754776000978e-13 :   0.0
+          3 :   0.0 :  -8.568167686462403e-13 :   0.0
+          4 :   0.0 :                     0.0 :   0.0
+          5 :   0.0 :  3.3155083656311037e-12 :   0.0
+          6 :   0.0 :  2.4884939193725587e-11 :   0.0
+          7 :   0.0 :   5.349516868591309e-11 :   0.0
+          8 :   0.0 :   7.750838994979859e-10 :   0.0
+          9 :   0.0 :  -6.597861647605897e-10 :   0.0
+         10 :   0.0 :    5.23403286933899e-11 :   0.0
+         11 :   0.0 :  1.7911195755004885e-10 :   0.0
+         12 :   0.0 : -1.1760741472244263e-10 :   0.0
+         13 :   0.0 : -2.1923333406448367e-10 :   0.0
+         14 :   0.0 :  -6.977468729019165e-11 :   0.0
+         15 :   0.0 : -3.1068921089172364e-11 :   0.0
+         16 :   0.0 :  -8.419156074523927e-12 :   0.0
+         17 :   0.0 :   1.080334186553955e-12 :   0.0
+         18 :   0.0 :   7.562339305877686e-12 :   0.0
+         19 :   0.0 :   6.817281246185304e-12 :   0.0
+         20 :   0.0 :  6.0722231864929205e-12 :   0.0
+         21 :   0.0 :   5.587935447692871e-12 :   0.0
+         22 :   0.0 :  1.7922138795256615e-12 :   0.0
+         23 :   0.0 :  -1.862645149230957e-13 :   0.0
+         24 :   0.0 :   9.313225746154785e-13 :   0.0
+         25 :   0.0 :   7.450580596923828e-13 :   0.0
+         26 :   0.0 :  -1.862645149230957e-12 :   0.0
+         27 :   0.0 :   -2.60770320892334e-13 :   0.0
+         28 :   0.0 : -1.7508864402770998e-12 :   0.0
+         29 :   0.0 : -4.0978193283081056e-13 :   0.0
+         30 :   0.0 : -2.2351741790771487e-13 :   0.0
+         31 :   0.0 :  -1.564621925354004e-12 :   0.0
+         32 :   0.0 :  -6.332993507385254e-13 :   0.0
+         33 :   0.0 :  2.9802322387695315e-13 :   0.0
+         34 :   0.0 : -2.0116567611694336e-12 :   0.0
+         35 :   0.0 : -4.4703483581542975e-13 :   0.0
+         36 :   0.0 :  -5.960464477539063e-13 :   0.0
+         37 :   0.0 :  -8.195638656616211e-13 :   0.0
+         38 :   0.0 :  1.4901161193847657e-13 :   0.0
+         39 :   0.0 : -4.4703483581542975e-13 :   0.0
+         40 :   0.0 :   -2.60770320892334e-13 :   0.0
+         41 :   0.0 : -1.8998980522155763e-12 :   0.0
+         42 :   0.0 :  1.4901161193847657e-12 :   0.0
+    HPCAllTraysLiqO2Frac : Size=42
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :  3.6637359812630166e-15 :   0.0
+          2 :   0.0 :   8.271161533457416e-15 :   0.0
+          3 :   0.0 :    8.93729534823251e-15 :   0.0
+          4 :   0.0 :   1.970645868709653e-14 :   0.0
+          5 :   0.0 :  1.7236212457305555e-13 :   0.0
+          6 :   0.0 :   1.654704151476949e-12 :   0.0
+          7 :   0.0 :   5.280331727419707e-12 :   0.0
+          8 :   0.0 :  1.2884249223077404e-11 :   0.0
+          9 :   0.0 :  2.4017565714018474e-11 :   0.0
+         10 :   0.0 :   4.101805006762049e-11 :   0.0
+         11 :   0.0 :   5.855026186107892e-11 :   0.0
+         12 :   0.0 :  3.7515601736259896e-11 :   0.0
+         13 :   0.0 :  1.9536136597331222e-11 :   0.0
+         14 :   0.0 :  3.7816971776294395e-15 :   0.0
+         15 :   0.0 :  -2.418204525511669e-14 :   0.0
+         16 :   0.0 : -2.9559688030644793e-15 :   0.0
+         17 :   0.0 :  1.0224460167407301e-14 :   0.0
+         18 :   0.0 :  -2.518818487118324e-15 :   0.0
+         19 :   0.0 :  2.0261570199409107e-15 :   0.0
+         20 :   0.0 : -6.9909356081865326e-15 :   0.0
+         21 :   0.0 :  -9.309393533829535e-15 :   0.0
+         22 :   0.0 :  -8.599891632155021e-15 :   0.0
+         23 :   0.0 :  -6.069797442442848e-15 :   0.0
+         24 :   0.0 :  2.3586601421987652e-14 :   0.0
+         25 :   0.0 :  1.5059568175823657e-14 :   0.0
+         26 :   0.0 :  1.0675054590292277e-15 :   0.0
+         27 :   0.0 : -1.9340215193230925e-14 :   0.0
+         28 :   0.0 : -1.6031338583022414e-14 :   0.0
+         29 :   0.0 :  1.4310384474636173e-14 :   0.0
+         30 :   0.0 :   7.950834001596574e-15 :   0.0
+         31 :   0.0 :  -2.135932489905068e-15 :   0.0
+         32 :   0.0 :   8.098366812217539e-15 :   0.0
+         33 :   0.0 : -2.2526061961916644e-14 :   0.0
+         34 :   0.0 :   -1.81454243991519e-14 :   0.0
+         35 :   0.0 :   9.231696895643793e-15 :   0.0
+         36 :   0.0 :  -8.639085540690372e-15 :   0.0
+         37 :   0.0 :  -9.813384913709422e-17 :   0.0
+         38 :   0.0 :  5.9605572973013554e-15 :   0.0
+         39 :   0.0 :   3.238007057577638e-15 :   0.0
+         40 :   0.0 :  -3.424554205749136e-17 :   0.0
+         41 :   0.0 :  -1.615641316207988e-14 :   0.0
+         42 :   0.0 : -6.8643702511419005e-15 :   0.0
+    HPCAllTraysVapO2Frac : Size=42
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :  2.4424906541753444e-15 :   0.0
+          2 :   0.0 :   1.074140776324839e-14 :   0.0
+          3 :   0.0 :  4.3576253716537394e-15 :   0.0
+          4 :   0.0 : -3.0531133177191805e-15 :   0.0
+          5 :   0.0 :   7.022160630754115e-14 :   0.0
+          6 :   0.0 :   5.265232694284805e-13 :   0.0
+          7 :   0.0 :  1.3018058853120351e-12 :   0.0
+          8 :   0.0 :   2.622013717257232e-12 :   0.0
+          9 :   0.0 :   4.388572838465166e-12 :   0.0
+         10 :   0.0 :   8.253522865153684e-12 :   0.0
+         11 :   0.0 :  1.2158413165153092e-11 :   0.0
+         12 :   0.0 :  6.0235358367854985e-12 :   0.0
+         13 :   0.0 :  -8.753414659778969e-15 :   0.0
+         14 :   0.0 : -2.2516710718178956e-15 :   0.0
+         15 :   0.0 :  1.0739673039772413e-14 :   0.0
+         16 :   0.0 : -1.2607970223399434e-14 :   0.0
+         17 :   0.0 :  -8.239936510889834e-16 :   0.0
+         18 :   0.0 :   7.554720737878995e-15 :   0.0
+         19 :   0.0 :   4.602221381766469e-15 :   0.0
+         20 :   0.0 :   9.237402509576498e-16 :   0.0
+         21 :   0.0 :   6.544244313122505e-15 :   0.0
+         22 :   0.0 :  2.3583565655904692e-15 :   0.0
+         23 :   0.0 :   2.701831813833877e-16 :   0.0
+         24 :   0.0 : -2.3566218421144924e-15 :   0.0
+         25 :   0.0 :  -4.282923841969488e-15 :   0.0
+         26 :   0.0 :   4.689824917303298e-15 :   0.0
+         27 :   0.0 :   1.492837971295291e-15 :   0.0
+         28 :   0.0 : -4.4324895316638635e-15 :   0.0
+         29 :   0.0 :   4.536301889679351e-16 :   0.0
+         30 :   0.0 :  -4.100561036557426e-15 :   0.0
+         31 :   0.0 :  -4.697848013379691e-16 :   0.0
+         32 :   0.0 :   4.415806370734743e-15 :   0.0
+         33 :   0.0 :   7.726905595396849e-15 :   0.0
+         34 :   0.0 :  3.8305675905542236e-15 :   0.0
+         35 :   0.0 : -2.1346585523523975e-16 :   0.0
+         36 :   0.0 : -1.6719203875092264e-14 :   0.0
+         37 :   0.0 :   8.516679115416759e-16 :   0.0
+         38 :   0.0 : -3.9523963393578096e-15 :   0.0
+         39 :   0.0 :  1.2530609010260804e-14 :   0.0
+         40 :   0.0 : -3.8799267414895734e-15 :   0.0
+         41 :   0.0 :  -3.964718127641518e-15 :   0.0
+         42 :   0.0 : -1.0771493526501915e-14 :   0.0
+    HPCAllTraysVapN2Frac : Size=42
+        Key : Lower : Body                    : Upper
+          1 :   0.0 :   -2.55351295663786e-15 :   0.0
+          2 :   0.0 : -2.1094237467877974e-15 :   0.0
+          3 :   0.0 : -1.5543122344752192e-15 :   0.0
+          4 :   0.0 :   9.992007221626409e-16 :   0.0
+          5 :   0.0 :   5.939693181744587e-14 :   0.0
+          6 :   0.0 :   5.434541705540141e-13 :   0.0
+          7 :   0.0 :   1.503019930737537e-12 :   0.0
+          8 :   0.0 :   3.198330489340151e-12 :   0.0
+          9 :   0.0 :   5.627387444917531e-12 :   0.0
+         10 :   0.0 :    9.89053283717567e-12 :   0.0
+         11 :   0.0 :  -4.440892098500626e-16 :   0.0
+         12 :   0.0 :  3.3306690738754696e-16 :   0.0
+         13 :   0.0 :   4.440892098500626e-16 :   0.0
+         14 :   0.0 :  -4.440892098500626e-16 :   0.0
+         15 :   0.0 : -1.9984014443252818e-15 :   0.0
+         16 :   0.0 :  -2.886579864025407e-15 :   0.0
+         17 :   0.0 :   1.887379141862766e-15 :   0.0
+         18 :   0.0 :  -8.881784197001252e-16 :   0.0
+         19 :   0.0 :  -5.551115123125783e-16 :   0.0
+         20 :   0.0 :  1.6653345369377348e-15 :   0.0
+         21 :   0.0 :  3.3306690738754696e-16 :   0.0
+         22 :   0.0 :  -4.440892098500626e-16 :   0.0
+         23 :   0.0 : -3.4416913763379853e-15 :   0.0
+         24 :   0.0 :  2.4424906541753444e-15 :   0.0
+         25 :   0.0 :   8.881784197001252e-16 :   0.0
+         26 :   0.0 : -1.1102230246251565e-16 :   0.0
+         27 :   0.0 :  -2.220446049250313e-16 :   0.0
+         28 :   0.0 : -1.3322676295501878e-15 :   0.0
+         29 :   0.0 :  1.1102230246251565e-16 :   0.0
+         30 :   0.0 : -2.6645352591003757e-15 :   0.0
+         31 :   0.0 :   -2.55351295663786e-15 :   0.0
+         32 :   0.0 :   5.551115123125783e-16 :   0.0
+         33 :   0.0 : -1.2212453270876722e-15 :   0.0
+         34 :   0.0 : -1.1102230246251565e-16 :   0.0
+         35 :   0.0 :  -7.771561172376096e-16 :   0.0
+         36 :   0.0 : -1.9984014443252818e-15 :   0.0
+         37 :   0.0 :  1.1102230246251565e-15 :   0.0
+         38 :   0.0 :  -5.551115123125783e-16 :   0.0
+         39 :   0.0 : -1.1102230246251565e-16 :   0.0
+         40 :   0.0 :  3.3306690738754696e-16 :   0.0
+         41 :   0.0 : -1.1102230246251565e-16 :   0.0
+         42 :   0.0 :  1.4432899320127035e-15 :   0.0
+    HPCLiqSum : Size=42
+        Key : Lower : Body               : Upper
+          1 :   1.0 :                1.0 :   1.0
+          2 :   1.0 :                1.0 :   1.0
+          3 :   1.0 :                1.0 :   1.0
+          4 :   1.0 :                1.0 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+          6 :   1.0 :                1.0 :   1.0
+          7 :   1.0 :                1.0 :   1.0
+          8 :   1.0 :                1.0 :   1.0
+          9 :   1.0 :                1.0 :   1.0
+         10 :   1.0 :                1.0 :   1.0
+         11 :   1.0 :                1.0 :   1.0
+         12 :   1.0 :                1.0 :   1.0
+         13 :   1.0 :                1.0 :   1.0
+         14 :   1.0 :                1.0 :   1.0
+         15 :   1.0 : 1.0000000000000002 :   1.0
+         16 :   1.0 :                1.0 :   1.0
+         17 :   1.0 :                1.0 :   1.0
+         18 :   1.0 :                1.0 :   1.0
+         19 :   1.0 :                1.0 :   1.0
+         20 :   1.0 :                1.0 :   1.0
+         21 :   1.0 :                1.0 :   1.0
+         22 :   1.0 : 0.9999999999999999 :   1.0
+         23 :   1.0 : 0.9999999999999999 :   1.0
+         24 :   1.0 :                1.0 :   1.0
+         25 :   1.0 : 0.9999999999999999 :   1.0
+         26 :   1.0 :                1.0 :   1.0
+         27 :   1.0 :                1.0 :   1.0
+         28 :   1.0 :                1.0 :   1.0
+         29 :   1.0 : 0.9999999999999999 :   1.0
+         30 :   1.0 :                1.0 :   1.0
+         31 :   1.0 :                1.0 :   1.0
+         32 :   1.0 : 0.9999999999999999 :   1.0
+         33 :   1.0 : 0.9999999999999999 :   1.0
+         34 :   1.0 : 0.9999999999999999 :   1.0
+         35 :   1.0 :                1.0 :   1.0
+         36 :   1.0 :                1.0 :   1.0
+         37 :   1.0 :                1.0 :   1.0
+         38 :   1.0 :                1.0 :   1.0
+         39 :   1.0 :                1.0 :   1.0
+         40 :   1.0 :                1.0 :   1.0
+         41 :   1.0 :                1.0 :   1.0
+         42 :   1.0 :                1.0 :   1.0
+    HPCVapSum : Size=42
+        Key : Lower : Body               : Upper
+          1 :   1.0 :                1.0 :   1.0
+          2 :   1.0 : 0.9999999999999999 :   1.0
+          3 :   1.0 :                1.0 :   1.0
+          4 :   1.0 :                1.0 :   1.0
+          5 :   1.0 :                1.0 :   1.0
+          6 :   1.0 :                1.0 :   1.0
+          7 :   1.0 : 0.9999999999999999 :   1.0
+          8 :   1.0 : 0.9999999999999999 :   1.0
+          9 :   1.0 :                1.0 :   1.0
+         10 :   1.0 :                1.0 :   1.0
+         11 :   1.0 :                1.0 :   1.0
+         12 :   1.0 : 0.9999999999999999 :   1.0
+         13 :   1.0 :                1.0 :   1.0
+         14 :   1.0 :                1.0 :   1.0
+         15 :   1.0 : 0.9999999999999999 :   1.0
+         16 :   1.0 :                1.0 :   1.0
+         17 :   1.0 :                1.0 :   1.0
+         18 :   1.0 :                1.0 :   1.0
+         19 :   1.0 :                1.0 :   1.0
+         20 :   1.0 :                1.0 :   1.0
+         21 :   1.0 :                1.0 :   1.0
+         22 :   1.0 : 0.9999999999999999 :   1.0
+         23 :   1.0 :                1.0 :   1.0
+         24 :   1.0 :                1.0 :   1.0
+         25 :   1.0 :                1.0 :   1.0
+         26 :   1.0 :                1.0 :   1.0
+         27 :   1.0 : 0.9999999999999999 :   1.0
+         28 :   1.0 :                1.0 :   1.0
+         29 :   1.0 :                1.0 :   1.0
+         30 :   1.0 :                1.0 :   1.0
+         31 :   1.0 :                1.0 :   1.0
+         32 :   1.0 :                1.0 :   1.0
+         33 :   1.0 : 0.9999999999999999 :   1.0
+         34 :   1.0 :                1.0 :   1.0
+         35 :   1.0 :                1.0 :   1.0
+         36 :   1.0 :                1.0 :   1.0
+         37 :   1.0 : 0.9999999999999999 :   1.0
+         38 :   1.0 :                1.0 :   1.0
+         39 :   1.0 :                1.0 :   1.0
+         40 :   1.0 :                1.0 :   1.0
+         41 :   1.0 :                1.0 :   1.0
+         42 :   1.0 :                1.0 :   1.0
+    HPCPProf : Size=42
+        Key : Lower : Body : Upper
+          1 :   0.0 :  0.0 :   0.0
+          2 :   0.0 :  0.0 :   0.0
+          3 :   0.0 :  0.0 :   0.0
+          4 :   0.0 :  0.0 :   0.0
+          5 :   0.0 :  0.0 :   0.0
+          6 :   0.0 :  0.0 :   0.0
+          7 :   0.0 :  0.0 :   0.0
+          8 :   0.0 :  0.0 :   0.0
+          9 :   0.0 :  0.0 :   0.0
+         10 :   0.0 :  0.0 :   0.0
+         11 :   0.0 :  0.0 :   0.0
+         12 :   0.0 :  0.0 :   0.0
+         13 :   0.0 :  0.0 :   0.0
+         14 :   0.0 :  0.0 :   0.0
+         15 :   0.0 :  0.0 :   0.0
+         16 :   0.0 :  0.0 :   0.0
+         17 :   0.0 :  0.0 :   0.0
+         18 :   0.0 :  0.0 :   0.0
+         19 :   0.0 :  0.0 :   0.0
+         20 :   0.0 :  0.0 :   0.0
+         21 :   0.0 :  0.0 :   0.0
+         22 :   0.0 :  0.0 :   0.0
+         23 :   0.0 :  0.0 :   0.0
+         24 :   0.0 :  0.0 :   0.0
+         25 :   0.0 :  0.0 :   0.0
+         26 :   0.0 :  0.0 :   0.0
+         27 :   0.0 :  0.0 :   0.0
+         28 :   0.0 :  0.0 :   0.0
+         29 :   0.0 :  0.0 :   0.0
+         30 :   0.0 :  0.0 :   0.0
+         31 :   0.0 :  0.0 :   0.0
+         32 :   0.0 :  0.0 :   0.0
+         33 :   0.0 :  0.0 :   0.0
+         34 :   0.0 :  0.0 :   0.0
+         35 :   0.0 :  0.0 :   0.0
+         36 :   0.0 :  0.0 :   0.0
+         37 :   0.0 :  0.0 :   0.0
+         38 :   0.0 :  0.0 :   0.0
+         39 :   0.0 :  0.0 :   0.0
+         40 :   0.0 :  0.0 :   0.0
+         41 :   0.0 :  0.0 :   0.0
+         42 :   0.0 :  0.0 :   0.0
+    HPCExt6MFracSpec : Size=3
+        Key      : Lower : Body : Upper
+           Argon :   0.0 :  0.0 :   0.0
+        Nitrogen :   0.0 :  0.0 :   0.0
+          Oxygen :   0.0 :  0.0 :   0.0
+    HPCExt6MEtlpSpec : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -7.275957614183426e-17 :   0.0
+    HPCExt22MFracSpec : Size=3
+        Key      : Lower : Body : Upper
+           Argon :   0.0 :  0.0 :   0.0
+        Nitrogen :   0.0 :  0.0 :   0.0
+          Oxygen :   0.0 :  0.0 :   0.0
+    HPCExt22MEtlpSpec : Size=1
+        Key  : Lower : Body                 : Upper
+        None :   0.0 : 5.45696821063757e-17 :   0.0
+    HPCSumpMassBlnc : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCSumpHldpMFracSpec : Size=3
+        Key      : Lower : Body : Upper
+           Argon :   0.0 :  0.0 :   0.0
+        Nitrogen :   0.0 :  0.0 :   0.0
+          Oxygen :   0.0 :  0.0 :   0.0
+    HPCCondMassBlnc : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -4.547473508864641e-16 :   0.0
+    HPCCondRefSpec : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    HPCCondEngBlnc : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -1.862645149230957e-12 :   0.0
+    HPCCondSelfBubTemp : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 3.8550891943772356e-15 :   0.0

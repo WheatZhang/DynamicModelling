@@ -1,0 +1,17 @@
+def slover_option(m):
+
+    #solver = SolverFactory('sIpoptAmplSolver',solver_io='nl')
+    solver = SolverFactory('ipopt38', solver_io='nl')
+    solver.reset()
+    solver.options['output_file'] = 'HTR_iter0407.txt'
+    solver.options['max_iter'] = 10000
+    #solver.options[ 'compute_red_hessian'] = 'yes'
+    #solver.options['scaled'] = 'no'
+    #solver.presolve = 'None'
+    #solver.options[ 'run_sens'] = 'yes'
+    #solver.options['run_sens'] = 'yes'
+    solver.options['linear_solver'] = "ma57"
+    solver.options['halt_on_ampl_error'] =  'yes'
+    #solver.object['jacobian'] = 'yes'
+    #solver.options['print_options_documentation'] = 'yes'
+    results = solver.solve(m, tee=True )

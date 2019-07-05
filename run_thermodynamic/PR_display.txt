@@ -1,0 +1,61 @@
+Model unknown
+
+  Variables:
+    x : Size=3, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+           Argon :     0 :  0.1336493751480444 :     1 : False : False :  Reals
+        Nitrogen :     0 : 0.02491332328040752 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.8414373015715481 :     1 : False : False :  Reals
+    y : Size=3, Index=Component
+        Key      : Lower : Value               : Upper : Fixed : Stale : Domain
+           Argon :     0 : 0.19067878686446937 :     1 : False : False :  Reals
+        Nitrogen :     0 : 0.07850889649993215 :     1 : False : False :  Reals
+          Oxygen :     0 :  0.7308123166355985 :     1 : False : False :  Reals
+    ZL : Size=1, Index=None
+        Key  : Lower : Value                : Upper : Fixed : Stale : Domain
+        None :  None : 0.004151331384661073 :  None : False : False :  Reals
+    ZV : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :  None : 0.9635705572157989 :  None : False : False :  Reals
+    K : Size=3, Index=Component
+        Key      : Lower : Value              : Upper : Fixed : Stale : Domain
+           Argon :  None :  1.426709153359326 :  None : False : False :  Reals
+        Nitrogen :  None : 3.1512815699571304 :  None : False : False :  Reals
+          Oxygen :  None : 0.8685285466554241 :  None : False : False :  Reals
+
+  Objectives:
+    None
+
+  Constraints:
+    ZL_Calculate : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 5.421010862427522e-20 :   0.0
+    ZV_Calculate : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 3.2742905609062234e-17 :   0.0
+    K_Calculate : Size=3
+        Key      : Lower : Body                    : Upper
+           Argon :   0.0 :  -2.886579864025407e-15 :   0.0
+        Nitrogen :   0.0 : -3.9968028886505635e-15 :   0.0
+          Oxygen :   0.0 : -3.9968028886505635e-15 :   0.0
+    DIPPR_temp_constraint1 : Size=3
+        Key      : Lower : Body    : Upper
+           Argon :  None : -173.15 : 90.44599999999997
+        Nitrogen :  None :    50.0 : 90.44599999999997
+          Oxygen :  None :    50.0 : 90.44599999999997
+    DIPPR_temp_constraint2 : Size=3
+        Key      : Lower : Body              : Upper
+           Argon :  None : 90.44599999999997 : 1226.85
+        Nitrogen :  None : 90.44599999999997 :  1500.0
+          Oxygen :  None : 90.44599999999997 :  1500.0
+    VapSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    LiqSummation : Size=1
+        Key  : Lower : Body : Upper
+        None :   1.0 :  1.0 :   1.0
+    PhEquilibruim : Size=3
+        Key      : Lower : Body                    : Upper
+           Argon :   0.0 : -2.7755575615628914e-17 :   0.0
+        Nitrogen :   0.0 :                     0.0 :   0.0
+          Oxygen :   0.0 : -1.1102230246251565e-16 :   0.0

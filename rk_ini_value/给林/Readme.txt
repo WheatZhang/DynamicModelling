@@ -1,0 +1,9 @@
+该问题是一个4阶控制系统阶跃响应仿真问题。
+--------------
+algebraic_part.py、differential_part.py是RK法求解时需要的模型，基本上是对原pyomo模型的调整。
+solve_using_RK.py是RK法求解的主程序，程序最后将有限元法与RK法求解的结果进行了对比。这个程序运行后产生RK_Init_Result.py文件，用作动态仿真的初值。
+---------------
+use_direct_disc_method.py是0初值，用全离散（有限元）法求解的主程序。
+use_RK_init_and_direct_disc.py是采用用RK初值，用全离散（有限元）法求解的主程序。可以看到采用较好的初值可以减少迭代次数。
+---------------
+tools.py是程序运行过程中需要的一些初值管理等通用工具。

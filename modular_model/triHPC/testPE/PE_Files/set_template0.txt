@@ -1,0 +1,503 @@
+#------------------------#
+# Case Depend Parameters #
+#------------------------#
+@para
+
+HPCFeed1PE0MFlow	None
+
+HPCFeed2PE0MFlow	None
+
+#------------------------#
+#      PE Used Data      #
+#------------------------#
+@para
+
+HPCCondPE0MHeatOut	None	1
+
+HPCCondPE0PrdtMFlow	None	1
+
+HPCCondPE0RefMFlow	None	1
+
+HPCCondPE0Temp	0	1
+
+HPCFeed1PE0LiqMFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCFeed1PE0Temp	None	1
+
+HPCFeed1PE0VapMFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCFeed2PE0LiqMFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCFeed2PE0Temp	None	1
+
+HPCFeed2PE0VapMFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCPE0AmbientTemp	25.0	1
+
+HPCPE0Ext22MEtlp	None	1
+
+HPCPE0Ext22MFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCPE0Ext6MEtlp	None	1
+
+HPCPE0Ext6MFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCPE0LiqLvMFlow
+1	None	1
+2	None	1
+3	None	1
+4	None	1
+5	None	1
+6	None	1
+7	None	1
+8	None	1
+9	None	1
+10	None	1
+11	None	1
+12	None	1
+13	None	1
+14	None	1
+15	None	1
+16	None	1
+17	None	1
+18	None	1
+19	None	1
+20	None	1
+21	None	1
+22	None	1
+23	None	1
+24	None	1
+25	None	1
+26	None	1
+27	None	1
+28	None	1
+29	None	1
+30	None	1
+31	None	1
+32	None	1
+33	None	1
+34	None	1
+35	None	1
+36	None	1
+37	None	1
+38	None	1
+39	None	1
+40	None	1
+41	None	1
+42	None	1
+
+HPCPE0LiqLvMFrac
+(1, 'Nitrogen')	None	1
+(1, 'Oxygen')	None	1
+(1, 'Argon')	None	1
+(2, 'Nitrogen')	None	1
+(2, 'Oxygen')	None	1
+(2, 'Argon')	None	1
+(3, 'Nitrogen')	None	1
+(3, 'Oxygen')	None	1
+(3, 'Argon')	None	1
+(4, 'Nitrogen')	None	1
+(4, 'Oxygen')	None	1
+(4, 'Argon')	None	1
+(5, 'Nitrogen')	None	1
+(5, 'Oxygen')	None	1
+(5, 'Argon')	None	1
+(6, 'Nitrogen')	None	1
+(6, 'Oxygen')	None	1
+(6, 'Argon')	None	1
+(7, 'Nitrogen')	None	1
+(7, 'Oxygen')	None	1
+(7, 'Argon')	None	1
+(8, 'Nitrogen')	None	1
+(8, 'Oxygen')	None	1
+(8, 'Argon')	None	1
+(9, 'Nitrogen')	None	1
+(9, 'Oxygen')	None	1
+(9, 'Argon')	None	1
+(10, 'Nitrogen')	None	1
+(10, 'Oxygen')	None	1
+(10, 'Argon')	None	1
+(11, 'Nitrogen')	None	1
+(11, 'Oxygen')	None	1
+(11, 'Argon')	None	1
+(12, 'Nitrogen')	None	1
+(12, 'Oxygen')	None	1
+(12, 'Argon')	None	1
+(13, 'Nitrogen')	None	1
+(13, 'Oxygen')	None	1
+(13, 'Argon')	None	1
+(14, 'Nitrogen')	None	1
+(14, 'Oxygen')	None	1
+(14, 'Argon')	None	1
+(15, 'Nitrogen')	None	1
+(15, 'Oxygen')	None	1
+(15, 'Argon')	None	1
+(16, 'Nitrogen')	None	1
+(16, 'Oxygen')	None	1
+(16, 'Argon')	None	1
+(17, 'Nitrogen')	None	1
+(17, 'Oxygen')	None	1
+(17, 'Argon')	None	1
+(18, 'Nitrogen')	None	1
+(18, 'Oxygen')	None	1
+(18, 'Argon')	None	1
+(19, 'Nitrogen')	None	1
+(19, 'Oxygen')	None	1
+(19, 'Argon')	None	1
+(20, 'Nitrogen')	None	1
+(20, 'Oxygen')	None	1
+(20, 'Argon')	None	1
+(21, 'Nitrogen')	None	1
+(21, 'Oxygen')	None	1
+(21, 'Argon')	None	1
+(22, 'Nitrogen')	None	1
+(22, 'Oxygen')	None	1
+(22, 'Argon')	None	1
+(23, 'Nitrogen')	None	1
+(23, 'Oxygen')	None	1
+(23, 'Argon')	None	1
+(24, 'Nitrogen')	None	1
+(24, 'Oxygen')	None	1
+(24, 'Argon')	None	1
+(25, 'Nitrogen')	None	1
+(25, 'Oxygen')	None	1
+(25, 'Argon')	None	1
+(26, 'Nitrogen')	None	1
+(26, 'Oxygen')	None	1
+(26, 'Argon')	None	1
+(27, 'Nitrogen')	None	1
+(27, 'Oxygen')	None	1
+(27, 'Argon')	None	1
+(28, 'Nitrogen')	None	1
+(28, 'Oxygen')	None	1
+(28, 'Argon')	None	1
+(29, 'Nitrogen')	None	1
+(29, 'Oxygen')	None	1
+(29, 'Argon')	None	1
+(30, 'Nitrogen')	None	1
+(30, 'Oxygen')	None	1
+(30, 'Argon')	None	1
+(31, 'Nitrogen')	None	1
+(31, 'Oxygen')	None	1
+(31, 'Argon')	None	1
+(32, 'Nitrogen')	None	1
+(32, 'Oxygen')	None	1
+(32, 'Argon')	None	1
+(33, 'Nitrogen')	None	1
+(33, 'Oxygen')	None	1
+(33, 'Argon')	None	1
+(34, 'Nitrogen')	None	1
+(34, 'Oxygen')	None	1
+(34, 'Argon')	None	1
+(35, 'Nitrogen')	None	1
+(35, 'Oxygen')	None	1
+(35, 'Argon')	None	1
+(36, 'Nitrogen')	None	1
+(36, 'Oxygen')	None	1
+(36, 'Argon')	None	1
+(37, 'Nitrogen')	None	1
+(37, 'Oxygen')	None	1
+(37, 'Argon')	None	1
+(38, 'Nitrogen')	None	1
+(38, 'Oxygen')	None	1
+(38, 'Argon')	None	1
+(39, 'Nitrogen')	None	1
+(39, 'Oxygen')	None	1
+(39, 'Argon')	None	1
+(40, 'Nitrogen')	None	1
+(40, 'Oxygen')	None	1
+(40, 'Argon')	None	1
+(41, 'Nitrogen')	None	1
+(41, 'Oxygen')	None	1
+(41, 'Argon')	None	1
+(42, 'Nitrogen')	None	1
+(42, 'Oxygen')	None	1
+(42, 'Argon')	None	1
+
+HPCPE0TrayPressure
+1	None	1
+2	None	1
+3	None	1
+4	None	1
+5	None	1
+6	None	1
+7	None	1
+8	None	1
+9	None	1
+10	None	1
+11	None	1
+12	None	1
+13	None	1
+14	None	1
+15	None	1
+16	None	1
+17	None	1
+18	None	1
+19	None	1
+20	None	1
+21	None	1
+22	None	1
+23	None	1
+24	None	1
+25	None	1
+26	None	1
+27	None	1
+28	None	1
+29	None	1
+30	None	1
+31	None	1
+32	None	1
+33	None	1
+34	None	1
+35	None	1
+36	None	1
+37	None	1
+38	None	1
+39	None	1
+40	None	1
+41	None	1
+42	None	1
+
+HPCPE0TrayTemp
+1	None	1
+2	None	1
+3	None	1
+4	None	1
+5	None	1
+6	None	1
+7	None	1
+8	None	1
+9	None	1
+10	None	1
+11	None	1
+12	None	1
+13	None	1
+14	None	1
+15	None	1
+16	None	1
+17	None	1
+18	None	1
+19	None	1
+20	None	1
+21	None	1
+22	None	1
+23	None	1
+24	None	1
+25	None	1
+26	None	1
+27	None	1
+28	None	1
+29	None	1
+30	None	1
+31	None	1
+32	None	1
+33	None	1
+34	None	1
+35	None	1
+36	None	1
+37	None	1
+38	None	1
+39	None	1
+40	None	1
+41	None	1
+42	None	1
+
+HPCPE0UALeakage	10.0	1
+
+HPCPE0VapLvMFlow
+1	None	1
+2	None	1
+3	None	1
+4	None	1
+5	None	1
+6	None	1
+7	None	1
+8	None	1
+9	None	1
+10	None	1
+11	None	1
+12	None	1
+13	None	1
+14	None	1
+15	None	1
+16	None	1
+17	None	1
+18	None	1
+19	None	1
+20	None	1
+21	None	1
+22	None	1
+23	None	1
+24	None	1
+25	None	1
+26	None	1
+27	None	1
+28	None	1
+29	None	1
+30	None	1
+31	None	1
+32	None	1
+33	None	1
+34	None	1
+35	None	1
+36	None	1
+37	None	1
+38	None	1
+39	None	1
+40	None	1
+41	None	1
+42	None	1
+
+HPCPE0VapLvMFrac
+(1, 'Nitrogen')	None	1
+(1, 'Oxygen')	None	1
+(1, 'Argon')	None	1
+(2, 'Nitrogen')	None	1
+(2, 'Oxygen')	None	1
+(2, 'Argon')	None	1
+(3, 'Nitrogen')	None	1
+(3, 'Oxygen')	None	1
+(3, 'Argon')	None	1
+(4, 'Nitrogen')	None	1
+(4, 'Oxygen')	None	1
+(4, 'Argon')	None	1
+(5, 'Nitrogen')	None	1
+(5, 'Oxygen')	None	1
+(5, 'Argon')	None	1
+(6, 'Nitrogen')	None	1
+(6, 'Oxygen')	None	1
+(6, 'Argon')	None	1
+(7, 'Nitrogen')	None	1
+(7, 'Oxygen')	None	1
+(7, 'Argon')	None	1
+(8, 'Nitrogen')	None	1
+(8, 'Oxygen')	None	1
+(8, 'Argon')	None	1
+(9, 'Nitrogen')	None	1
+(9, 'Oxygen')	None	1
+(9, 'Argon')	None	1
+(10, 'Nitrogen')	None	1
+(10, 'Oxygen')	None	1
+(10, 'Argon')	None	1
+(11, 'Nitrogen')	None	1
+(11, 'Oxygen')	None	1
+(11, 'Argon')	None	1
+(12, 'Nitrogen')	None	1
+(12, 'Oxygen')	None	1
+(12, 'Argon')	None	1
+(13, 'Nitrogen')	None	1
+(13, 'Oxygen')	None	1
+(13, 'Argon')	None	1
+(14, 'Nitrogen')	None	1
+(14, 'Oxygen')	None	1
+(14, 'Argon')	None	1
+(15, 'Nitrogen')	None	1
+(15, 'Oxygen')	None	1
+(15, 'Argon')	None	1
+(16, 'Nitrogen')	None	1
+(16, 'Oxygen')	None	1
+(16, 'Argon')	None	1
+(17, 'Nitrogen')	None	1
+(17, 'Oxygen')	None	1
+(17, 'Argon')	None	1
+(18, 'Nitrogen')	None	1
+(18, 'Oxygen')	None	1
+(18, 'Argon')	None	1
+(19, 'Nitrogen')	None	1
+(19, 'Oxygen')	None	1
+(19, 'Argon')	None	1
+(20, 'Nitrogen')	None	1
+(20, 'Oxygen')	None	1
+(20, 'Argon')	None	1
+(21, 'Nitrogen')	None	1
+(21, 'Oxygen')	None	1
+(21, 'Argon')	None	1
+(22, 'Nitrogen')	None	1
+(22, 'Oxygen')	None	1
+(22, 'Argon')	None	1
+(23, 'Nitrogen')	None	1
+(23, 'Oxygen')	None	1
+(23, 'Argon')	None	1
+(24, 'Nitrogen')	None	1
+(24, 'Oxygen')	None	1
+(24, 'Argon')	None	1
+(25, 'Nitrogen')	None	1
+(25, 'Oxygen')	None	1
+(25, 'Argon')	None	1
+(26, 'Nitrogen')	None	1
+(26, 'Oxygen')	None	1
+(26, 'Argon')	None	1
+(27, 'Nitrogen')	None	1
+(27, 'Oxygen')	None	1
+(27, 'Argon')	None	1
+(28, 'Nitrogen')	None	1
+(28, 'Oxygen')	None	1
+(28, 'Argon')	None	1
+(29, 'Nitrogen')	None	1
+(29, 'Oxygen')	None	1
+(29, 'Argon')	None	1
+(30, 'Nitrogen')	None	1
+(30, 'Oxygen')	None	1
+(30, 'Argon')	None	1
+(31, 'Nitrogen')	None	1
+(31, 'Oxygen')	None	1
+(31, 'Argon')	None	1
+(32, 'Nitrogen')	None	1
+(32, 'Oxygen')	None	1
+(32, 'Argon')	None	1
+(33, 'Nitrogen')	None	1
+(33, 'Oxygen')	None	1
+(33, 'Argon')	None	1
+(34, 'Nitrogen')	None	1
+(34, 'Oxygen')	None	1
+(34, 'Argon')	None	1
+(35, 'Nitrogen')	None	1
+(35, 'Oxygen')	None	1
+(35, 'Argon')	None	1
+(36, 'Nitrogen')	None	1
+(36, 'Oxygen')	None	1
+(36, 'Argon')	None	1
+(37, 'Nitrogen')	None	1
+(37, 'Oxygen')	None	1
+(37, 'Argon')	None	1
+(38, 'Nitrogen')	None	1
+(38, 'Oxygen')	None	1
+(38, 'Argon')	None	1
+(39, 'Nitrogen')	None	1
+(39, 'Oxygen')	None	1
+(39, 'Argon')	None	1
+(40, 'Nitrogen')	None	1
+(40, 'Oxygen')	None	1
+(40, 'Argon')	None	1
+(41, 'Nitrogen')	None	1
+(41, 'Oxygen')	None	1
+(41, 'Argon')	None	1
+(42, 'Nitrogen')	None	1
+(42, 'Oxygen')	None	1
+(42, 'Argon')	None	1
+
+HPCSumpPE0HldpMFrac
+Nitrogen	None	1
+Oxygen	None	1
+Argon	None	1
+
+HPCSumpPE0OutMFlow	None	1
+

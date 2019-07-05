@@ -1,0 +1,36 @@
+Model unknown
+
+  Variables:
+    ircLNProductMolarFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1576.3574456863835 :  None : False : False : NonNegativeReals
+    GasDrawRatio : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :     0 : 0.00495061632502386 :     1 : False : False :  Reals
+    rebEquilibriumConstant : Size=2, Index=Component
+        Key      : Lower : Value             : Upper : Fixed : Stale : Domain
+        Nitrogen :  None : 1.266452521398482 :  None : False :  True :  Reals
+          Oxygen :  None : 0.502560524364477 :  None : False :  True :  Reals
+    ircGNProductMolarFlow : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 20.724133228306727 :  None : False : False : NonNegativeReals
+    ircTopTrayVaporMolarFlow : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :     0 : 4186.17236071245 :  None : False : False : NonNegativeReals
+
+  Objectives:
+    None
+
+  Constraints:
+    ITopTrayVaporMolarFlow : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    deriveGNProductMolarFlow : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    ircCondMaterialBalance : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 4.547473508864641e-16 :   0.0
+    ircCondEnergyBalance : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 3.7252902984619144e-14 :   0.0

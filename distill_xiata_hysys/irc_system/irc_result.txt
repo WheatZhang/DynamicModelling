@@ -1,0 +1,34 @@
+expandValveOutTemperature	-178.12700000000004
+
+ircBottomLiquidMolarFlow	273.93947880149295
+
+ircCondPressure	539.56
+
+ircCondTemperature	-166.3338845464271
+
+ircDrainMolarFlow	131.52717080149299
+
+ircDrainMolarFraction
+Oxygen	0.7394260407856188
+Nitrogen	0.2605739592143812
+
+ircGNProductMolarFlow	2536.207873318971
+
+ircHeatExchange	1461135.0313163858
+
+ircRebPressure	464.0
+
+ircRebTemperature	-172.45725863415126
+
+ircRefluxMolarFlow	1738.9455142772963
+
+ircTopTrayVaporMolarFlow	4315.151302996267
+
+ircWNMolarFraction
+Oxygen	0.5296473386701024
+Nitrogen	0.47035266132989756
+
+rebEquilibriumConstant
+Oxygen	0.7162952201502205
+Nitrogen	1.8050639547785559
+

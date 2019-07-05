@@ -1,0 +1,12 @@
+HPCFeed1LiqMFrac
+Argon	None
+Nitrogen	None
+Oxygen	None
+
+HPCFeed1Temp	None
+
+HPCFeed1VapMFrac
+Argon	None
+Nitrogen	None
+Oxygen	None
+
